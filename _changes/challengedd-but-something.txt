@@ -1,0 +1,5 @@
+mods/challengedd-but-something/challengedd-but-something-hard.json
+mods/challengedd-but-something/challengedd-but-something.json
+mods/challengedd-but-something/events.json
+mods/challengedd-but-something/Voices.ogg
+mods/challengedd-but-something/Inst.ogg

@@ -1,0 +1,4 @@
+mods/challengedd-fucked/challengedd-fucked.json
+mods/challengedd-fucked/events.json
+mods/challengedd-fucked/Voices.ogg
+mods/challengedd-fucked/Inst.ogg

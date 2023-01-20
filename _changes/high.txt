@@ -1,0 +1,3 @@
+mods/high/high-erect.json
+mods/high/Voices.ogg
+mods/high/Inst.ogg

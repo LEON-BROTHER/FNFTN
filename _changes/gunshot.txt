@@ -1,0 +1,3 @@
+mods/gunshot/gunshot-corrupted.json
+mods/gunshot/Voices.ogg
+mods/gunshot/Inst.ogg

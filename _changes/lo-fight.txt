@@ -1,0 +1,7 @@
+mods/lo-fight/dialogue.json
+mods/lo-fight/lo-fight-easy.json
+mods/lo-fight/lo-fight-hard.json
+mods/lo-fight/lo-fight-normal.json
+mods/lo-fight/lo-fight-old.json
+mods/lo-fight/Voices.ogg
+mods/lo-fight/Inst.ogg

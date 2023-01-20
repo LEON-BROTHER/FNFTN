@@ -1,0 +1,4 @@
+mods/bopeebo/bopeebo-erect.json
+mods/bopeebo/bopeebo-null.json
+mods/bopeebo/Voices.ogg
+mods/bopeebo/Inst.ogg

@@ -1,0 +1,6 @@
+mods/low-rise-(hq)/events.json
+mods/low-rise-(hq)/low-rise-(hq)-easy.json
+mods/low-rise-(hq)/low-rise-(hq)-hard.json
+mods/low-rise-(hq)/low-rise-(hq).json
+mods/low-rise-(hq)/Voices.ogg
+mods/low-rise-(hq)/Inst.ogg

@@ -1,0 +1,5 @@
+mods/kaboom/kaboom-easy.json
+mods/kaboom/kaboom-hard.json
+mods/kaboom/kaboom.json
+mods/kaboom/Voices.ogg
+mods/kaboom/Inst.ogg

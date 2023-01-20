@@ -1,0 +1,7 @@
+mods/fading/dialogue.json
+mods/fading/events.json
+mods/fading/fading-easy.json
+mods/fading/fading-hard.json
+mods/fading/fading.json
+mods/fading/Voices.ogg
+mods/fading/Inst.ogg

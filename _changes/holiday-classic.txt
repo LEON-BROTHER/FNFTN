@@ -1,0 +1,5 @@
+mods/holiday-classic/holiday-classic-easy.json
+mods/holiday-classic/holiday-classic-hard.json
+mods/holiday-classic/holiday-classic.json
+mods/holiday-classic/Voices.ogg
+mods/holiday-classic/Inst.ogg

@@ -1,0 +1,3 @@
+mods/ill-be-fine/ILL-BE-FINE-corrupted.json
+mods/ill-be-fine/Voices.ogg
+mods/ill-be-fine/Inst.ogg

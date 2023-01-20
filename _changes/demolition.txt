@@ -1,0 +1,8 @@
+mods/demolition/demolition-easy.json
+mods/demolition/demolition-hard.json
+mods/demolition/demolition.json
+mods/demolition/dialogue.json
+mods/demolition/dialogue2.json
+mods/demolition/events.json
+mods/demolition/Voices.ogg
+mods/demolition/Inst.ogg

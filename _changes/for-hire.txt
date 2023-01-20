@@ -1,0 +1,4 @@
+mods/for-hire/events.json
+mods/for-hire/for-hire.json
+mods/for-hire/Voices.ogg
+mods/for-hire/Inst.ogg

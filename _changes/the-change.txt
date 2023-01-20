@@ -1,0 +1,4 @@
+mods/the-change/events.json
+mods/the-change/the-change-corrupted.json
+mods/the-change/Voices.ogg
+mods/the-change/Inst.ogg

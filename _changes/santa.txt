@@ -1,0 +1,6 @@
+mods/santa/events.json
+mods/santa/santa-easy.json
+mods/santa/santa-hard.json
+mods/santa/santa.json
+mods/santa/Voices.ogg
+mods/santa/Inst.ogg

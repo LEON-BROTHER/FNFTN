@@ -1,0 +1,5 @@
+mods/no-memes/dialogue.json
+mods/no-memes/events.json
+mods/no-memes/no-memes.json
+mods/no-memes/Voices.ogg
+mods/no-memes/Inst.ogg

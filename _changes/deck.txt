@@ -1,0 +1,6 @@
+mods/deck/deck-easy.json
+mods/deck/deck-hard.json
+mods/deck/deck.json
+mods/deck/events.json
+mods/deck/Voices.ogg
+mods/deck/Inst.ogg

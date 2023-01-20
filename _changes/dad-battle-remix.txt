@@ -1,0 +1,3 @@
+mods/dad-battle-remix/dad-battle-remix-erect.json
+mods/dad-battle-remix/Voices.ogg
+mods/dad-battle-remix/Inst.ogg

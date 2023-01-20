@@ -1,0 +1,7 @@
+mods/nerves/dialogue.json
+mods/nerves/events.json
+mods/nerves/nerves-easy.json
+mods/nerves/nerves-hard.json
+mods/nerves/nerves.json
+mods/nerves/Voices.ogg
+mods/nerves/Inst.ogg

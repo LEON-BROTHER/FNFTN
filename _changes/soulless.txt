@@ -1,0 +1,5 @@
+mods/soulless/soulless-easy.json
+mods/soulless/soulless-hard.json
+mods/soulless/soulless.json
+mods/soulless/Voices.ogg
+mods/soulless/Inst.ogg

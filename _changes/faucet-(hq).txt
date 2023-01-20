@@ -1,0 +1,5 @@
+mods/faucet-(hq)/faucet-(hq)-easy.json
+mods/faucet-(hq)/faucet-(hq)-hard.json
+mods/faucet-(hq)/faucet-(hq).json
+mods/faucet-(hq)/Voices.ogg
+mods/faucet-(hq)/Inst.ogg

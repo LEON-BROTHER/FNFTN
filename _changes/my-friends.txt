@@ -1,0 +1,3 @@
+mods/my-friends/my-friends-corrupted.json
+mods/my-friends/Voices.ogg
+mods/my-friends/Inst.ogg

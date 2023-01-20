@@ -1,0 +1,3 @@
+mods/Gummy-Substance/Gummy-Substance-corrupted.json
+mods/Gummy-Substance/Voices.ogg
+mods/Gummy-Substance/Inst.ogg

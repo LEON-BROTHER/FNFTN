@@ -1,0 +1,5 @@
+mods/dilemma/dilemma-easy.json
+mods/dilemma/dilemma-hard.json
+mods/dilemma/dilemma.json
+mods/dilemma/Voices.ogg
+mods/dilemma/Inst.ogg

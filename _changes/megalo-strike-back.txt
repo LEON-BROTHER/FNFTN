@@ -1,0 +1,6 @@
+mods/megalo-strike-back/events.json
+mods/megalo-strike-back/megalo-strike-back-easy.json
+mods/megalo-strike-back/megalo-strike-back-hard.json
+mods/megalo-strike-back/megalo-strike-back.json
+mods/megalo-strike-back/Voices.ogg
+mods/megalo-strike-back/Inst.ogg

@@ -1,0 +1,7 @@
+mods/feliz/dialogueEnd.json
+mods/feliz/events.json
+mods/feliz/feliz-easy.json
+mods/feliz/feliz-hard.json
+mods/feliz/feliz.json
+mods/feliz/Voices.ogg
+mods/feliz/Inst.ogg

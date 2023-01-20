@@ -1,0 +1,7 @@
+mods/holiday/dialogue.json
+mods/holiday/events.json
+mods/holiday/holiday-easy.json
+mods/holiday/holiday-hard.json
+mods/holiday/holiday.json
+mods/holiday/Voices.ogg
+mods/holiday/Inst.ogg

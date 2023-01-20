@@ -1,0 +1,3 @@
+mods/talentless-ski/talentless-ski.json
+mods/talentless-ski/Voices.ogg
+mods/talentless-ski/Inst.ogg

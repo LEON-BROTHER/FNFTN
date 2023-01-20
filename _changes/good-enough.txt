@@ -1,0 +1,5 @@
+mods/GOOD-ENOUGH/good-enough-easy.json
+mods/GOOD-ENOUGH/good-enough-hard.json
+mods/GOOD-ENOUGH/good-enough.json
+mods/GOOD-ENOUGH/Voices.ogg
+mods/GOOD-ENOUGH/Inst.ogg

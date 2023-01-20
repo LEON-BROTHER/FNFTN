@@ -1,0 +1,6 @@
+mods/DROWNING/drowning-easy.json
+mods/DROWNING/drowning-hard.json
+mods/DROWNING/drowning.json
+mods/DROWNING/events.json
+mods/DROWNING/Voices.ogg
+mods/DROWNING/Inst.ogg

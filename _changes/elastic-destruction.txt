@@ -1,0 +1,3 @@
+mods/Elastic-Destruction/elastic-destruction-corrupted.json
+mods/Elastic-Destruction/Voices.ogg
+mods/Elastic-Destruction/Inst.ogg

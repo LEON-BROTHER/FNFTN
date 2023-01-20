@@ -1,0 +1,6 @@
+mods/solicited/dialogue.json
+mods/solicited/events.json
+mods/solicited/solicited-hard.json
+mods/solicited/solicited.json
+mods/solicited/Voices.ogg
+mods/solicited/Inst.ogg

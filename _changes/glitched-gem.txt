@@ -1,0 +1,3 @@
+mods/glitched-gem/glitched-gem-corrupted.json
+mods/glitched-gem/Voices.ogg
+mods/glitched-gem/Inst.ogg

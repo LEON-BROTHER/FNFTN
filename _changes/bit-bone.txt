@@ -1,0 +1,7 @@
+mods/bit-bone/bit-bone-easy.json
+mods/bit-bone/bit-bone-hard.json
+mods/bit-bone/bit-bone.json
+mods/bit-bone/dialogue.json
+mods/bit-bone/events.json
+mods/bit-bone/Voices.ogg
+mods/bit-bone/Inst.ogg

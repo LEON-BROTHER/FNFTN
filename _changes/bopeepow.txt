@@ -1,0 +1,5 @@
+mods/bopeepow/bopeepow.json
+mods/bopeepow/dialogue.json
+mods/bopeepow/events.json
+mods/bopeepow/Voices.ogg
+mods/bopeepow/Inst.ogg

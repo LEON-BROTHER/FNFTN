@@ -1,0 +1,6 @@
+mods/mag-four/events.json
+mods/mag-four/mag-four-easy.json
+mods/mag-four/mag-four-hard.json
+mods/mag-four/mag-four.json
+mods/mag-four/Voices.ogg
+mods/mag-four/Inst.ogg

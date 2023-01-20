@@ -1,0 +1,5 @@
+mods/LOVER/lover-easy.json
+mods/LOVER/Lover-hard.json
+mods/LOVER/lover.json
+mods/LOVER/Voices.ogg
+mods/LOVER/Inst.ogg

@@ -1,0 +1,6 @@
+mods/ballistic-(beta-mix)/ballistic-(beta-mix)-easy.json
+mods/ballistic-(beta-mix)/ballistic-(beta-mix)-hard.json
+mods/ballistic-(beta-mix)/ballistic-(beta-mix).json
+mods/ballistic-(beta-mix)/events.json
+mods/ballistic-(beta-mix)/Voices.ogg
+mods/ballistic-(beta-mix)/Inst.ogg

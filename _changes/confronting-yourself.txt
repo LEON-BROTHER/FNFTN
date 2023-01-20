@@ -1,0 +1,6 @@
+mods/confronting-yourself/confronting-yourself-easy.json
+mods/confronting-yourself/confronting-yourself-hard.json
+mods/confronting-yourself/confronting-yourself.json
+mods/confronting-yourself/events.json
+mods/confronting-yourself/Voices.ogg
+mods/confronting-yourself/Inst.ogg

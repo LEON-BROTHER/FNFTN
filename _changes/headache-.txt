@@ -1,0 +1,5 @@
+mods/headache-/headache--easy.json
+mods/headache-/headache--hard.json
+mods/headache-/headache-.json
+mods/headache-/Voices.ogg
+mods/headache-/Inst.ogg

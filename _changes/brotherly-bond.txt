@@ -1,0 +1,3 @@
+mods/Brotherly-Bond/Brotherly-Bond-corrupted.json
+mods/Brotherly-Bond/Voices.ogg
+mods/Brotherly-Bond/Inst.ogg
