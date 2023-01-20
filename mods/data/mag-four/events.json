@@ -1,0 +1,131 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "mag",
+		"player1": "bf-tiny",
+		"player2": "magv4",
+		"player3": null,
+		"events": [
+			[
+				26353.2110091743,
+				[
+					[
+						"Change Alt Animation Name",
+						"dad",
+						"dm"
+					]
+				]
+			],
+			[
+				42385.3211009175,
+				[
+					[
+						"Play Animation",
+						"throw",
+						"0"
+					]
+				]
+			],
+			[
+				42591.7431192661,
+				[
+					[
+						"Change Alt Animation Name",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				43004.5871559633,
+				[
+					[
+						"Camera Follow Pos",
+						"152",
+						"53"
+					]
+				]
+			],
+			[
+				43348.623853211,
+				[
+					[
+						"Camera Follow Pos",
+						"940",
+						"100"
+					]
+				]
+			],
+			[
+				43623.8532110092,
+				[
+					[
+						"Alt Idle Animation",
+						"0",
+						"-alt"
+					]
+				]
+			],
+			[
+				43830.2752293578,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44036.6972477064,
+				[
+					[
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78165.137614679,
+				[
+					[
+						"Trigger BG Ghouls",
+						"eee",
+						""
+					]
+				]
+			],
+			[
+				79197.2477064221,
+				[
+					[
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96949.5412844037,
+				[
+					[
+						"Trigger BG Ghouls",
+						"111",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 218,
+		"mania": "3",
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "MAG-FOUR",
+		"isRing": false
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "ski",
+			"expression": "talk",
+			"text": "Oh no!",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "ski"
+		},
+		{
+			"sound": "ski",
+			"expression": "oop",
+			"text": "I think I'm lost!",
+			"boxState": "normal",
+			"portrait": "ski",
+			"speed": 0.045
+		},
+		{
+			"sound": "zardy",
+			"expression": "talk",
+			"text": "Lost you say?",
+			"boxState": "normal",
+			"portrait": "zardy",
+			"speed": 0.05
+		},
+		{
+			"sound": "ski",
+			"expression": "talk",
+			"text": "Pow! Is this McDonalds?",
+			"boxState": "normal",
+			"portrait": "ski",
+			"speed": 0.045
+		},
+		{
+			"sound": "zardy",
+			"expression": "talk",
+			"text": "This is not... that. But...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy"
+		},
+		{
+			"sound": "zardy",
+			"expression": "talk",
+			"text": "May I show you what this place is REALLY about?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "zardy"
+		},
+		{
+			"sound": "ski",
+			"expression": "oop",
+			"text": "pow?",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "ski"
+		}
+	]
+}

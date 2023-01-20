@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "manifest",
+		"player1": "ski-manifest",
+		"player2": "sky-manifest",
+		"player3": null,
+		"events": [
+			[
+				7466.66666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				7469.44444444445,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				8533.33333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				36266.6666666667,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				43733.3333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				43733.3333333333,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				65066.6666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				65066.6666666666,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				66133.3333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				74666.6666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				91733.3333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			],
+			[
+				107733.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"1.0",
+						""
+					]
+				]
+			],
+			[
+				107733.333333333,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.78",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-rock",
+		"bpm": 225,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Manifest"
+	}
+}

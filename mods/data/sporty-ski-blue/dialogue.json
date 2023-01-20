@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "borgr",
+			"text": "Skiiii, I got us some borgers! I know how much you like-",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "shocked",
+			"text": "*gaaaasp* Ski!",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "talk",
+			"text": "pow",
+			"boxState": "normal",
+			"portrait": "ski-sport",
+			"speed": 0.05,
+			"sound": "ski"
+		},
+		{
+			"expression": "shocked",
+			"text": "How did you get that?? I thought I left it where-",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "talk",
+			"text": "pow!",
+			"boxState": "normal",
+			"portrait": "ski-sport",
+			"speed": 0.05,
+			"sound": "ski"
+		},
+		{
+			"expression": "eh?",
+			"text": "You just jumped?? (man I knew I should've made it later...)",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "eh?",
+			"text": "Ski, just put the coffee down and I'll get you some milk or smthn idk.",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "talk",
+			"text": "But I wanna sing like Matt! He's very fast.",
+			"boxState": "normal",
+			"portrait": "ski-sport",
+			"speed": 0.05,
+			"sound": "ski"
+		},
+		{
+			"expression": "excited",
+			"text": "I wanna sing fast too!",
+			"boxState": "normal",
+			"portrait": "ski-sport",
+			"speed": 0.05,
+			"sound": "ski"
+		},
+		{
+			"expression": "eh?",
+			"text": "k but I don't think he drinks coffee...",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.05,
+			"sound": "blue2"
+		},
+		{
+			"expression": "drink",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "ski-sport",
+			"speed": 0.05,
+			"sound": "ski"
+		},
+		{
+			"expression": "shocked",
+			"text": "ohno ski WAIT",
+			"boxState": "normal",
+			"portrait": "skyblue-sport",
+			"speed": 0.035,
+			"sound": "blue2"
+		}
+	]
+}

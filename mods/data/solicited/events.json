@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "anniestage",
+		"player1": "bf",
+		"player2": "corruptedanniebutdark",
+		"player3": null,
+		"events": [
+			[
+				20210.5263157895,
+				[
+					[
+						"Change Character",
+						"1",
+						"corruptedannie"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "pibby",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Solicited"
+	}
+}

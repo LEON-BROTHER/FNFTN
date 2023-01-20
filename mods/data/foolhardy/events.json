@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "maze",
+		"player1": "ski-player",
+		"player2": "zardy",
+		"player3": null,
+		"events": [
+			[
+				201600,
+				[
+					[
+						"Camera Follow Pos",
+						"760",
+						"440"
+					]
+				]
+			],
+			[
+				221100,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Foolhardy"
+	}
+}

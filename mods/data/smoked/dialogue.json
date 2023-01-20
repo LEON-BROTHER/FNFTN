@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After you two finish singing, Garcello wipes his tears"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You feel a smile run across your face as you slowly start to walk towards him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heh...you know, little dude"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think that really helpe-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before you could get any closer to him, you start to hear a rumbling noise coming near Garcello's direction"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The wall behind Garcello shatters into a million pieces as if it were made of glass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After the dust goes away, you realize that the corruption tracked the three of you into the alleyway"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before you could say anything, the corruption grabs a hold of Garcello and starts pulling him in"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AAAAAAUUUUUGGGGGHHHHHHHHH!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The corruption swallows your friend whole right in front of you, wishing you could've saved him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "After a couple seconds of silence, it starts moving again, this time, forming something in front of you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Realizing what you have to do, you grab your microphone, grip Pico's gun harder, and proceed to battle your deceased friend..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Once again..."
+		}
+	]
+}

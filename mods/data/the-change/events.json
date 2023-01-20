@@ -1,0 +1,166 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "beach",
+		"player1": "bf",
+		"player2": "steven",
+		"player3": null,
+		"events": [
+			[
+				25585,
+				[
+					[
+						"Change Character",
+						"1",
+						"steven"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Camera Follow Pos",
+						"700",
+						"300"
+					]
+				]
+			],
+			[
+				50600,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfscared"
+					]
+				]
+			],
+			[
+				77200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nogf"
+					]
+				]
+			],
+			[
+				90900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spinel"
+					]
+				]
+			],
+			[
+				104600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"steven"
+					],
+					[
+						"Change Character",
+						"gf",
+						"spinel"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				114235,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				114500,
+				[
+					[
+						"Camera Follow Pos",
+						"700",
+						"300"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Camera Follow Pos",
+						"700",
+						"300"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135900,
+				[
+					[
+						"Camera Follow Pos",
+						"700",
+						"300"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 150,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "The Change",
+		"isRing": false
+	}
+}
