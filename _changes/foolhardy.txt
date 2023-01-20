@@ -1,5 +1,5 @@
-mods/foolhardy/dialogue.json
-mods/foolhardy/events.json
-mods/foolhardy/foolhardy.json
-mods/foolhardy/Voices.ogg
-mods/foolhardy/Inst.ogg
+mods/data/foolhardy/dialogue.json
+mods/data/foolhardy/events.json
+mods/data/foolhardy/foolhardy.json
+mods/songs/foolhardy/Voices.ogg
+mods/songs/foolhardy/Inst.ogg

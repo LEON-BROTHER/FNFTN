@@ -1,5 +1,5 @@
-mods/phantasm/phantasm-easy.json
-mods/phantasm/phantasm-hard.json
-mods/phantasm/phantasm.json
-mods/phantasm/Voices.ogg
-mods/phantasm/Inst.ogg
+mods/data/phantasm/phantasm-easy.json
+mods/data/phantasm/phantasm-hard.json
+mods/data/phantasm/phantasm.json
+mods/songs/phantasm/Voices.ogg
+mods/songs/phantasm/Inst.ogg

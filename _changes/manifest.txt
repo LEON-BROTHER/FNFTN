@@ -1,4 +1,4 @@
-mods/manifest/events.json
-mods/manifest/manifest.json
-mods/manifest/Voices.ogg
-mods/manifest/Inst.ogg
+mods/data/manifest/events.json
+mods/data/manifest/manifest.json
+mods/songs/manifest/Voices.ogg
+mods/songs/manifest/Inst.ogg

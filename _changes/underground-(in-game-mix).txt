@@ -1,6 +1,6 @@
-mods/underground-(in-game-mix)/events.json
-mods/underground-(in-game-mix)/underground-(in-game-mix)-easy.json
-mods/underground-(in-game-mix)/underground-(in-game-mix)-hard.json
-mods/underground-(in-game-mix)/underground-(in-game-mix).json
-mods/underground-(in-game-mix)/Voices.ogg
-mods/underground-(in-game-mix)/Inst.ogg
+mods/data/underground-(in-game-mix)/events.json
+mods/data/underground-(in-game-mix)/underground-(in-game-mix)-easy.json
+mods/data/underground-(in-game-mix)/underground-(in-game-mix)-hard.json
+mods/data/underground-(in-game-mix)/underground-(in-game-mix).json
+mods/songs/underground-(in-game-mix)/Voices.ogg
+mods/songs/underground-(in-game-mix)/Inst.ogg

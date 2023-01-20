@@ -1,3 +1,3 @@
-mods/overworked/overworked-corrupted.json
-mods/overworked/Voices.ogg
-mods/overworked/Inst.ogg
+mods/data/overworked/overworked-corrupted.json
+mods/songs/overworked/Voices.ogg
+mods/songs/overworked/Inst.ogg

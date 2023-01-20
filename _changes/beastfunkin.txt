@@ -1,6 +1,6 @@
-mods/beastfunkin/beastfunkin-easy.json
-mods/beastfunkin/beastfunkin-hard.json
-mods/beastfunkin/beastfunkin.json
-mods/beastfunkin/events.json
-mods/beastfunkin/Voices.ogg
-mods/beastfunkin/Inst.ogg
+mods/data/beastfunkin/beastfunkin-easy.json
+mods/data/beastfunkin/beastfunkin-hard.json
+mods/data/beastfunkin/beastfunkin.json
+mods/data/beastfunkin/events.json
+mods/songs/beastfunkin/Voices.ogg
+mods/songs/beastfunkin/Inst.ogg

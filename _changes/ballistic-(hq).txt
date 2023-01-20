@@ -1,7 +1,7 @@
-mods/ballistic-(hq)/ballistic-(hq)-easy.json
-mods/ballistic-(hq)/ballistic-(hq)-hard.json
-mods/ballistic-(hq)/ballistic-(hq).json
-mods/ballistic-(hq)/dialogue.json
-mods/ballistic-(hq)/events.json
-mods/ballistic-(hq)/Voices.ogg
-mods/ballistic-(hq)/Inst.ogg
+mods/data/ballistic-(hq)/ballistic-(hq)-easy.json
+mods/data/ballistic-(hq)/ballistic-(hq)-hard.json
+mods/data/ballistic-(hq)/ballistic-(hq).json
+mods/data/ballistic-(hq)/dialogue.json
+mods/data/ballistic-(hq)/events.json
+mods/songs/ballistic-(hq)/Voices.ogg
+mods/songs/ballistic-(hq)/Inst.ogg

@@ -1,5 +1,5 @@
-mods/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this-easy.json
-mods/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this-hard.json
-mods/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this.json
-mods/TAKE-A-SWIG-OF-THIS/Voices.ogg
-mods/TAKE-A-SWIG-OF-THIS/Inst.ogg
+mods/data/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this-easy.json
+mods/data/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this-hard.json
+mods/data/TAKE-A-SWIG-OF-THIS/take-a-swig-of-this.json
+mods/songs/TAKE-A-SWIG-OF-THIS/Voices.ogg
+mods/songs/TAKE-A-SWIG-OF-THIS/Inst.ogg

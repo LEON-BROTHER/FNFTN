@@ -1,5 +1,5 @@
-mods/ANIMAL/animal-easy.json
-mods/ANIMAL/animal-hard.json
-mods/ANIMAL/animal.json
-mods/ANIMAL/Voices.ogg
-mods/ANIMAL/Inst.ogg
+mods/data/ANIMAL/animal-easy.json
+mods/data/ANIMAL/animal-hard.json
+mods/data/ANIMAL/animal.json
+mods/songs/ANIMAL/Voices.ogg
+mods/songs/ANIMAL/Inst.ogg

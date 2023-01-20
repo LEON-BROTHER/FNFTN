@@ -1,6 +1,6 @@
-mods/fracture/events.json
-mods/fracture/fracture-easy.json
-mods/fracture/fracture-hard.json
-mods/fracture/fracture.json
-mods/fracture/Voices.ogg
-mods/fracture/Inst.ogg
+mods/data/fracture/events.json
+mods/data/fracture/fracture-easy.json
+mods/data/fracture/fracture-hard.json
+mods/data/fracture/fracture.json
+mods/songs/fracture/Voices.ogg
+mods/songs/fracture/Inst.ogg

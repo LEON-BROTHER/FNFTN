@@ -1,5 +1,5 @@
-mods/TONE-IT-DOWN/tone-it-down-easy.json
-mods/TONE-IT-DOWN/tone-it-down-hard.json
-mods/TONE-IT-DOWN/tone-it-down.json
-mods/TONE-IT-DOWN/Voices.ogg
-mods/TONE-IT-DOWN/Inst.ogg
+mods/data/TONE-IT-DOWN/tone-it-down-easy.json
+mods/data/TONE-IT-DOWN/tone-it-down-hard.json
+mods/data/TONE-IT-DOWN/tone-it-down.json
+mods/songs/TONE-IT-DOWN/Voices.ogg
+mods/songs/TONE-IT-DOWN/Inst.ogg

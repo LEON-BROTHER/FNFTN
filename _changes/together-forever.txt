@@ -1,3 +1,3 @@
-mods/Together-Forever/together-forever-corrupted.json
-mods/Together-Forever/Voices.ogg
-mods/Together-Forever/Inst.ogg
+mods/data/Together-Forever/together-forever-corrupted.json
+mods/songs/Together-Forever/Voices.ogg
+mods/songs/Together-Forever/Inst.ogg

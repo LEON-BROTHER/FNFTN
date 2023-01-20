@@ -1,5 +1,5 @@
-mods/boogieman/boogieman-hard.json
-mods/boogieman/boogieman.json
-mods/boogieman/events.json
-mods/boogieman/Voices.ogg
-mods/boogieman/Inst.ogg
+mods/data/boogieman/boogieman-hard.json
+mods/data/boogieman/boogieman.json
+mods/data/boogieman/events.json
+mods/songs/boogieman/Voices.ogg
+mods/songs/boogieman/Inst.ogg

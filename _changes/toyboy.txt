@@ -1,4 +1,4 @@
-mods/toyboy/events.json
-mods/toyboy/toyboy-normal.json
-mods/toyboy/Voices.ogg
-mods/toyboy/Inst.ogg
+mods/data/toyboy/events.json
+mods/data/toyboy/toyboy-normal.json
+mods/songs/toyboy/Voices.ogg
+mods/songs/toyboy/Inst.ogg

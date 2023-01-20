@@ -1,4 +1,4 @@
-mods/dad-battle/dad-battle-erect.json
-mods/dad-battle/dad-battle-null.json
-mods/dad-battle/Voices.ogg
-mods/dad-battle/Inst.ogg
+mods/data/dad-battle/dad-battle-erect.json
+mods/data/dad-battle/dad-battle-null.json
+mods/songs/dad-battle/Voices.ogg
+mods/songs/dad-battle/Inst.ogg

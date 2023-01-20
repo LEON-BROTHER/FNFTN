@@ -1,6 +1,6 @@
-mods/ballistic-remix/ballistic-remix-easy.json
-mods/ballistic-remix/ballistic-remix-hard.json
-mods/ballistic-remix/ballistic-remix.json
-mods/ballistic-remix/events.json
-mods/ballistic-remix/Voices.ogg
-mods/ballistic-remix/Inst.ogg
+mods/data/ballistic-remix/ballistic-remix-easy.json
+mods/data/ballistic-remix/ballistic-remix-hard.json
+mods/data/ballistic-remix/ballistic-remix.json
+mods/data/ballistic-remix/events.json
+mods/songs/ballistic-remix/Voices.ogg
+mods/songs/ballistic-remix/Inst.ogg

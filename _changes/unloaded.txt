@@ -1,5 +1,5 @@
-mods/unloaded/events.json
-mods/unloaded/unloaded-fucked.json
-mods/unloaded/unloaded-hard.json
-mods/unloaded/Voices.ogg
-mods/unloaded/Inst.ogg
+mods/data/unloaded/events.json
+mods/data/unloaded/unloaded-fucked.json
+mods/data/unloaded/unloaded-hard.json
+mods/songs/unloaded/Voices.ogg
+mods/songs/unloaded/Inst.ogg

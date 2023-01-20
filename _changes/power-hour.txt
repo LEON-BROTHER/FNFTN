@@ -1,5 +1,5 @@
-mods/power-hour/events.json
-mods/power-hour/power-hour-hard.json
-mods/power-hour/power-hour.json
-mods/power-hour/Voices.ogg
-mods/power-hour/Inst.ogg
+mods/data/power-hour/events.json
+mods/data/power-hour/power-hour-hard.json
+mods/data/power-hour/power-hour.json
+mods/songs/power-hour/Voices.ogg
+mods/songs/power-hour/Inst.ogg

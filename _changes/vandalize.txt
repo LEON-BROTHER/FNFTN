@@ -1,6 +1,6 @@
-mods/vandalize/events.json
-mods/vandalize/vandalize-easy.json
-mods/vandalize/vandalize-hard.json
-mods/vandalize/vandalize.json
-mods/vandalize/Voices.ogg
-mods/vandalize/Inst.ogg
+mods/data/vandalize/events.json
+mods/data/vandalize/vandalize-easy.json
+mods/data/vandalize/vandalize-hard.json
+mods/data/vandalize/vandalize.json
+mods/songs/vandalize/Voices.ogg
+mods/songs/vandalize/Inst.ogg

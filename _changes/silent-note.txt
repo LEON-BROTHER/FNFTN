@@ -1,4 +1,4 @@
-mods/silent-note/events.json
-mods/silent-note/silent-note-normal.json
-mods/silent-note/Voices.ogg
-mods/silent-note/Inst.ogg
+mods/data/silent-note/events.json
+mods/data/silent-note/silent-note-normal.json
+mods/songs/silent-note/Voices.ogg
+mods/songs/silent-note/Inst.ogg

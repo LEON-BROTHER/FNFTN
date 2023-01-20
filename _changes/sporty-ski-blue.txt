@@ -1,5 +1,5 @@
-mods/sporty-ski-blue/dialogue.json
-mods/sporty-ski-blue/events.json
-mods/sporty-ski-blue/sporty-ski-blue.json
-mods/sporty-ski-blue/Voices.ogg
-mods/sporty-ski-blue/Inst.ogg
+mods/data/sporty-ski-blue/dialogue.json
+mods/data/sporty-ski-blue/events.json
+mods/data/sporty-ski-blue/sporty-ski-blue.json
+mods/songs/sporty-ski-blue/Voices.ogg
+mods/songs/sporty-ski-blue/Inst.ogg

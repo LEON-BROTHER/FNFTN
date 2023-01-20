@@ -1,5 +1,5 @@
-mods/bopeepow/bopeepow.json
-mods/bopeepow/dialogue.json
-mods/bopeepow/events.json
-mods/bopeepow/Voices.ogg
-mods/bopeepow/Inst.ogg
+mods/data/bopeepow/bopeepow.json
+mods/data/bopeepow/dialogue.json
+mods/data/bopeepow/events.json
+mods/songs/bopeepow/Voices.ogg
+mods/songs/bopeepow/Inst.ogg

@@ -1,4 +1,4 @@
-mods/south/south-erect.json
-mods/south/south-null.json
-mods/south/Voices.ogg
-mods/south/Inst.ogg
+mods/data/south/south-erect.json
+mods/data/south/south-null.json
+mods/songs/south/Voices.ogg
+mods/songs/south/Inst.ogg

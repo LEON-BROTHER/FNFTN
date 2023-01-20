@@ -1,8 +1,8 @@
-mods/overhead/dialogue.json
-mods/overhead/events.json
-mods/overhead/overhead-easy.json
-mods/overhead/overhead-hard.json
-mods/overhead/overhead-normal.json
-mods/overhead/overhead-old.json
-mods/overhead/Voices.ogg
-mods/overhead/Inst.ogg
+mods/data/overhead/dialogue.json
+mods/data/overhead/events.json
+mods/data/overhead/overhead-easy.json
+mods/data/overhead/overhead-hard.json
+mods/data/overhead/overhead-normal.json
+mods/data/overhead/overhead-old.json
+mods/songs/overhead/Voices.ogg
+mods/songs/overhead/Inst.ogg

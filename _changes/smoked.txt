@@ -1,6 +1,6 @@
-mods/smoked/dialogue.json
-mods/smoked/events.json
-mods/smoked/smoked-hard.json
-mods/smoked/smoked.json
-mods/smoked/Voices.ogg
-mods/smoked/Inst.ogg
+mods/data/smoked/dialogue.json
+mods/data/smoked/events.json
+mods/data/smoked/smoked-hard.json
+mods/data/smoked/smoked.json
+mods/songs/smoked/Voices.ogg
+mods/songs/smoked/Inst.ogg

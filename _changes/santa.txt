@@ -1,6 +1,6 @@
-mods/santa/events.json
-mods/santa/santa-easy.json
-mods/santa/santa-hard.json
-mods/santa/santa.json
-mods/santa/Voices.ogg
-mods/santa/Inst.ogg
+mods/data/santa/events.json
+mods/data/santa/santa-easy.json
+mods/data/santa/santa-hard.json
+mods/data/santa/santa.json
+mods/songs/santa/Voices.ogg
+mods/songs/santa/Inst.ogg

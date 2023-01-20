@@ -1,3 +1,3 @@
-mods/Brotherly-Bond/Brotherly-Bond-corrupted.json
-mods/Brotherly-Bond/Voices.ogg
-mods/Brotherly-Bond/Inst.ogg
+mods/data/Brotherly-Bond/Brotherly-Bond-corrupted.json
+mods/songs/Brotherly-Bond/Voices.ogg
+mods/songs/Brotherly-Bond/Inst.ogg

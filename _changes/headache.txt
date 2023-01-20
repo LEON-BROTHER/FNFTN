@@ -1,6 +1,6 @@
-mods/headache/dialogue.json
-mods/headache/headache-easy.json
-mods/headache/headache-hard.json
-mods/headache/headache.json
-mods/headache/Voices.ogg
-mods/headache/Inst.ogg
+mods/data/headache/dialogue.json
+mods/data/headache/headache-easy.json
+mods/data/headache/headache-hard.json
+mods/data/headache/headache.json
+mods/songs/headache/Voices.ogg
+mods/songs/headache/Inst.ogg

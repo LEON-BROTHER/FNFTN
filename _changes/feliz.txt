@@ -1,7 +1,7 @@
-mods/feliz/dialogueEnd.json
-mods/feliz/events.json
-mods/feliz/feliz-easy.json
-mods/feliz/feliz-hard.json
-mods/feliz/feliz.json
-mods/feliz/Voices.ogg
-mods/feliz/Inst.ogg
+mods/data/feliz/dialogueEnd.json
+mods/data/feliz/events.json
+mods/data/feliz/feliz-easy.json
+mods/data/feliz/feliz-hard.json
+mods/data/feliz/feliz.json
+mods/songs/feliz/Voices.ogg
+mods/songs/feliz/Inst.ogg

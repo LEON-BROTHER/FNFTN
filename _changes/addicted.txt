@@ -1,5 +1,5 @@
-mods/addicted/addicted-hard.json
-mods/addicted/addicted.json
-mods/addicted/dialogue.json
-mods/addicted/Voices.ogg
-mods/addicted/Inst.ogg
+mods/data/addicted/addicted-hard.json
+mods/data/addicted/addicted.json
+mods/data/addicted/dialogue.json
+mods/songs/addicted/Voices.ogg
+mods/songs/addicted/Inst.ogg

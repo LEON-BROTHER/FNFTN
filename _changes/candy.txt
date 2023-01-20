@@ -1,6 +1,6 @@
-mods/candy/candy-easy.json
-mods/candy/candy-hard.json
-mods/candy/candy.json
-mods/candy/events.json
-mods/candy/Voices.ogg
-mods/candy/Inst.ogg
+mods/data/candy/candy-easy.json
+mods/data/candy/candy-hard.json
+mods/data/candy/candy.json
+mods/data/candy/events.json
+mods/songs/candy/Voices.ogg
+mods/songs/candy/Inst.ogg
