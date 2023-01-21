@@ -1,5 +1,0 @@
-mods/data/guns-agoti/guns-agoti-easy.json
-mods/data/guns-agoti/guns-agoti-hard.json
-mods/data/guns-agoti/guns-agoti.json
-mods/songs/guns-agoti/Voices.ogg
-mods/songs/guns-agoti/Inst.ogg

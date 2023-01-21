@@ -1,5 +1,0 @@
-mods/data/senpai-sd/senpai-sd-easy.json
-mods/data/senpai-sd/senpai-sd-hard.json
-mods/data/senpai-sd/senpai-sd.json
-mods/songs/senpai-sd/Voices.ogg
-mods/songs/senpai-sd/Inst.ogg

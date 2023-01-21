@@ -1,5 +1,0 @@
-mods/data/voca/voca-easy.json
-mods/data/voca/voca-hard.json
-mods/data/voca/voca.json
-mods/songs/voca/Voices.ogg
-mods/songs/voca/Inst.ogg

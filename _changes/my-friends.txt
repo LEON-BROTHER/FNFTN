@@ -1,3 +1,0 @@
-mods/data/my-friends/my-friends-corrupted.json
-mods/songs/my-friends/Voices.ogg
-mods/songs/my-friends/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/cocoa-b-sides-duet/cocoa-b-sides-duet-easy.json
-mods/data/cocoa-b-sides-duet/cocoa-b-sides-duet-hard.json
-mods/data/cocoa-b-sides-duet/cocoa-b-sides-duet.json
-mods/songs/cocoa-b-sides-duet/Voices.ogg
-mods/songs/cocoa-b-sides-duet/Inst.ogg

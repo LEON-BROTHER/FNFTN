@@ -1,5 +1,0 @@
-mods/data/hallucinations/hallucinations-easy.json
-mods/data/hallucinations/hallucinations-hard.json
-mods/data/hallucinations/hallucinations.json
-mods/songs/hallucinations/Voices.ogg
-mods/songs/hallucinations/Inst.ogg

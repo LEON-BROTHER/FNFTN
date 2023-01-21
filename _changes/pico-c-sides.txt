@@ -1,5 +1,0 @@
-mods/data/pico-c-sides/pico-c-sides-easy.json
-mods/data/pico-c-sides/pico-c-sides-hard.json
-mods/data/pico-c-sides/pico-c-sides.json
-mods/songs/pico-c-sides/Voices.ogg
-mods/songs/pico-c-sides/Inst.ogg

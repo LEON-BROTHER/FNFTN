@@ -1,5 +1,0 @@
-mods/data/the-murderer/the-murderer-easy.json
-mods/data/the-murderer/the-murderer-hard.json
-mods/data/the-murderer/the-murderer.json
-mods/songs/the-murderer/Voices.ogg
-mods/songs/the-murderer/Inst.ogg

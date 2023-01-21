@@ -1,6 +1,0 @@
-mods/data/eggnog/eggnog-easy.json
-mods/data/eggnog/eggnog-hard.json
-mods/data/eggnog/eggnog.json
-mods/data/eggnog/events.json
-mods/songs/eggnog/Voices.ogg
-mods/songs/eggnog/Inst.ogg

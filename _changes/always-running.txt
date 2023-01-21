@@ -1,5 +1,0 @@
-mods/data/always-running/always-running-easy.json
-mods/data/always-running/always-running-hard.json
-mods/data/always-running/always-running.json
-mods/songs/always-running/Voices.ogg
-mods/songs/always-running/Inst.ogg

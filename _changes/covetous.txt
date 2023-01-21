@@ -1,5 +1,0 @@
-mods/data/covetous/covetous-easy.json
-mods/data/covetous/covetous-hard.json
-mods/data/covetous/covetous.json
-mods/songs/covetous/Voices.ogg
-mods/songs/covetous/Inst.ogg

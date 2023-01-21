@@ -1,5 +1,0 @@
-mods/data/trouble/trouble-easy.json
-mods/data/trouble/trouble-hard.json
-mods/data/trouble/trouble.json
-mods/songs/trouble/Voices.ogg
-mods/songs/trouble/Inst.ogg

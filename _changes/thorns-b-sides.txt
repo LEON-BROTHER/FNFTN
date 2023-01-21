@@ -1,5 +1,0 @@
-mods/data/thorns-b-sides/thorns-b-sides-easy.json
-mods/data/thorns-b-sides/thorns-b-sides-hard.json
-mods/data/thorns-b-sides/thorns-b-sides.json
-mods/songs/thorns-b-sides/Voices.ogg
-mods/songs/thorns-b-sides/Inst.ogg

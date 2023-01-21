@@ -1,5 +1,0 @@
-mods/data/perfume/perfume-easy.json
-mods/data/perfume/perfume-hard.json
-mods/data/perfume/perfume.json
-mods/songs/perfume/Voices.ogg
-mods/songs/perfume/Inst.ogg

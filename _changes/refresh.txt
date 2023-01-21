@@ -1,3 +1,0 @@
-mods/data/refresh/refresh.json
-mods/songs/refresh/Voices.ogg
-mods/songs/refresh/Inst.ogg

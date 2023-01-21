@@ -1,5 +1,0 @@
-mods/data/relighted/relighted-easy.json
-mods/data/relighted/relighted-hard.json
-mods/data/relighted/relighted.json
-mods/songs/relighted/Voices.ogg
-mods/songs/relighted/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/pico-b-sides-duet/pico-b-sides-duet-easy.json
-mods/data/pico-b-sides-duet/pico-b-sides-duet-hard.json
-mods/data/pico-b-sides-duet/pico-b-sides-duet.json
-mods/songs/pico-b-sides-duet/Voices.ogg
-mods/songs/pico-b-sides-duet/Inst.ogg

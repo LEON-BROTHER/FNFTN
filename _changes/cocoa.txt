@@ -1,6 +1,0 @@
-mods/data/cocoa/cocoa-easy.json
-mods/data/cocoa/cocoa-hard.json
-mods/data/cocoa/cocoa.json
-mods/data/cocoa/events.json
-mods/songs/cocoa/Voices.ogg
-mods/songs/cocoa/Inst.ogg

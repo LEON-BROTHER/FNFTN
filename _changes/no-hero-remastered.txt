@@ -1,3 +1,0 @@
-mods/data/no-hero-remastered/no-hero-remastered-corrupted.json
-mods/songs/no-hero-remastered/Voices.ogg
-mods/songs/no-hero-remastered/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/infinite/infinite-easy.json
-mods/data/infinite/infinite-hard.json
-mods/data/infinite/infinite.json
-mods/songs/infinite/Voices.ogg
-mods/songs/infinite/Inst.ogg

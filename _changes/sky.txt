@@ -1,5 +1,0 @@
-mods/data/sky/sky-easy.json
-mods/data/sky/sky-hard.json
-mods/data/sky/sky.json
-mods/songs/sky/Voices.ogg
-mods/songs/sky/Inst.ogg

@@ -1,6 +1,0 @@
-mods/data/hungry/events.json
-mods/data/hungry/hungry-easy.json
-mods/data/hungry/hungry-hard.json
-mods/data/hungry/hungry.json
-mods/songs/hungry/Voices.ogg
-mods/songs/hungry/Inst.ogg

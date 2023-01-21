@@ -1,5 +1,0 @@
-mods/data/sporting/sporting-easy.json
-mods/data/sporting/sporting-hard.json
-mods/data/sporting/sporting.json
-mods/songs/sporting/Voices.ogg
-mods/songs/sporting/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/bloom/bloom-easy.json
-mods/data/bloom/bloom-hard.json
-mods/data/bloom/bloom.json
-mods/songs/bloom/Voices.ogg
-mods/songs/bloom/Inst.ogg

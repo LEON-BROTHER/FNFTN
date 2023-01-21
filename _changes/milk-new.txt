@@ -1,5 +1,0 @@
-mods/data/milk-new/milk-new-easy.json
-mods/data/milk-new/milk-new-hard.json
-mods/data/milk-new/milk-new.json
-mods/songs/milk-new/Voices.ogg
-mods/songs/milk-new/Inst.ogg

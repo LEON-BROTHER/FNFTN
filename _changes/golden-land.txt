@@ -1,3 +1,0 @@
-mods/data/golden-land/golden-land.json
-mods/songs/golden-land/Voices.ogg
-mods/songs/golden-land/Inst.ogg

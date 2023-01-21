@@ -1,5 +1,0 @@
-mods/data/south-duet/south-duet-easy.json
-mods/data/south-duet/south-duet-hard.json
-mods/data/south-duet/south-duet.json
-mods/songs/south-duet/Voices.ogg
-mods/songs/south-duet/Inst.ogg

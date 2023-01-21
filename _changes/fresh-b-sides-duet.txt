@@ -1,5 +1,0 @@
-mods/data/fresh-b-sides-duet/fresh-b-sides-duet-easy.json
-mods/data/fresh-b-sides-duet/fresh-b-sides-duet-hard.json
-mods/data/fresh-b-sides-duet/fresh-b-sides-duet.json
-mods/songs/fresh-b-sides-duet/Voices.ogg
-mods/songs/fresh-b-sides-duet/Inst.ogg

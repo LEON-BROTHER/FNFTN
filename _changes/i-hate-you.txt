@@ -1,3 +1,0 @@
-mods/data/i-hate-you/i-hate-you.json
-mods/songs/i-hate-you/Voices.ogg
-mods/songs/i-hate-you/Inst.ogg

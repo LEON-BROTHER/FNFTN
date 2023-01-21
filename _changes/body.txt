@@ -1,5 +1,0 @@
-mods/data/body/body-easy.json
-mods/data/body/body-hard.json
-mods/data/body/body.json
-mods/songs/body/Voices.ogg
-mods/songs/body/Inst.ogg

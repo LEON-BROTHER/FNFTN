@@ -1,5 +1,0 @@
-mods/data/sabotage/sabotage-easy.json
-mods/data/sabotage/sabotage-hard.json
-mods/data/sabotage/sabotage.json
-mods/songs/sabotage/Voices.ogg
-mods/songs/sabotage/Inst.ogg

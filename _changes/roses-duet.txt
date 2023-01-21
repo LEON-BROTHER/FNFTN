@@ -1,5 +1,0 @@
-mods/data/roses-duet/roses-duet-easy.json
-mods/data/roses-duet/roses-duet-hard.json
-mods/data/roses-duet/roses-duet.json
-mods/songs/roses-duet/Voices.ogg
-mods/songs/roses-duet/Inst.ogg

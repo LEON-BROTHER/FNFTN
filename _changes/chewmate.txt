@@ -1,5 +1,0 @@
-mods/data/chewmate/chewmate-easy.json
-mods/data/chewmate/chewmate-hard.json
-mods/data/chewmate/chewmate.json
-mods/songs/chewmate/Voices.ogg
-mods/songs/chewmate/Inst.ogg

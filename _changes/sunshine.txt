@@ -1,5 +1,0 @@
-mods/data/sunshine/sunshine-easy.json
-mods/data/sunshine/sunshine-hard.json
-mods/data/sunshine/sunshine.json
-mods/songs/sunshine/Voices.ogg
-mods/songs/sunshine/Inst.ogg

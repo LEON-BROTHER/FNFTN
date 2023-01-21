@@ -1,5 +1,0 @@
-mods/data/high-duet/high-duet-easy.json
-mods/data/high-duet/high-duet-hard.json
-mods/data/high-duet/high-duet.json
-mods/songs/high-duet/Voices.ogg
-mods/songs/high-duet/Inst.ogg

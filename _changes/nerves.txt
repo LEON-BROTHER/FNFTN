@@ -1,5 +1,0 @@
-mods/data/nerves/nerves-easy.json
-mods/data/nerves/nerves-hard.json
-mods/data/nerves/nerves.json
-mods/songs/nerves/Voices.ogg
-mods/songs/nerves/Inst.ogg

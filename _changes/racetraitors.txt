@@ -1,4 +1,0 @@
-mods/data/racetraitors/events.json
-mods/data/racetraitors/racetraitors.json
-mods/songs/racetraitors/Voices.ogg
-mods/songs/racetraitors/Inst.ogg

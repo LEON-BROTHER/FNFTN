@@ -1,6 +1,0 @@
-mods/data/low-rise/events.json
-mods/data/low-rise/low-rise-easy.json
-mods/data/low-rise/low-rise-hard.json
-mods/data/low-rise/low-rise.json
-mods/songs/low-rise/Voices.ogg
-mods/songs/low-rise/Inst.ogg

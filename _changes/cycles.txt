@@ -1,5 +1,0 @@
-mods/data/cycles/cycles-easy.json
-mods/data/cycles/cycles-hard.json
-mods/data/cycles/cycles.json
-mods/songs/cycles/Voices.ogg
-mods/songs/cycles/Inst.ogg

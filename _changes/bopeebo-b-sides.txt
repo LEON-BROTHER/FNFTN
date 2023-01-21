@@ -1,5 +1,0 @@
-mods/data/bopeebo-b-sides/bopeebo-b-sides-easy.json
-mods/data/bopeebo-b-sides/bopeebo-b-sides-hard.json
-mods/data/bopeebo-b-sides/bopeebo-b-sides.json
-mods/songs/bopeebo-b-sides/Voices.ogg
-mods/songs/bopeebo-b-sides/Inst.ogg

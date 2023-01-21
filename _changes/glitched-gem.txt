@@ -1,3 +1,0 @@
-mods/data/glitched-gem/glitched-gem-corrupted.json
-mods/songs/glitched-gem/Voices.ogg
-mods/songs/glitched-gem/Inst.ogg

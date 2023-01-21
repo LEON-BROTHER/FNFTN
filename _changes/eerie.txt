@@ -1,5 +1,0 @@
-mods/data/eerie/eerie-easy.json
-mods/data/eerie/eerie-hard.json
-mods/data/eerie/eerie.json
-mods/songs/eerie/Voices.ogg
-mods/songs/eerie/Inst.ogg

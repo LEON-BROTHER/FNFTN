@@ -1,5 +1,0 @@
-mods/data/winter-horrorland-b-sides/winter-horrorland-b-sides-easy.json
-mods/data/winter-horrorland-b-sides/winter-horrorland-b-sides-hard.json
-mods/data/winter-horrorland-b-sides/winter-horrorland-b-sides.json
-mods/songs/winter-horrorland-b-sides/Voices.ogg
-mods/songs/winter-horrorland-b-sides/Inst.ogg

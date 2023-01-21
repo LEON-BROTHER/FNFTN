@@ -1,7 +1,0 @@
-mods/data/senpai-remix/events.json
-mods/data/senpai-remix/senpai-remix-easy.json
-mods/data/senpai-remix/senpai-remix-hard.json
-mods/data/senpai-remix/senpai-remix-hard2.json
-mods/data/senpai-remix/senpai-remix.json
-mods/songs/senpai-remix/Voices.ogg
-mods/songs/senpai-remix/Inst.ogg

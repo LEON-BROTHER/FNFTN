@@ -1,6 +1,0 @@
-mods/data/milf/events.json
-mods/data/milf/milf-easy.json
-mods/data/milf/milf-hard.json
-mods/data/milf/milf.json
-mods/songs/milf/Voices.ogg
-mods/songs/milf/Inst.ogg

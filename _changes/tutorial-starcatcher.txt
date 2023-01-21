@@ -1,5 +1,0 @@
-mods/data/tutorial-starcatcher/tutorial-starcatcher-easy.json
-mods/data/tutorial-starcatcher/tutorial-starcatcher-hard.json
-mods/data/tutorial-starcatcher/tutorial-starcatcher.json
-mods/songs/tutorial-starcatcher/Voices.ogg
-mods/songs/tutorial-starcatcher/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/thorns-rs/thorns-rs-easy.json
-mods/data/thorns-rs/thorns-rs-hard.json
-mods/data/thorns-rs/thorns-rs.json
-mods/songs/thorns-rs/Voices.ogg
-mods/songs/thorns-rs/Inst.ogg

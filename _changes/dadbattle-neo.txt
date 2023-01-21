@@ -1,5 +1,0 @@
-mods/data/dadbattle-neo/dadbattle-neo-easy.json
-mods/data/dadbattle-neo/dadbattle-neo-hard.json
-mods/data/dadbattle-neo/dadbattle-neo.json
-mods/songs/dadbattle-neo/Voices.ogg
-mods/songs/dadbattle-neo/Inst.ogg

@@ -1,6 +1,0 @@
-mods/data/safety-lullaby/dialogue.json
-mods/data/safety-lullaby/safety-lullaby-easy.json
-mods/data/safety-lullaby/safety-lullaby-hard.json
-mods/data/safety-lullaby/safety-lullaby.json
-mods/songs/safety-lullaby/Voices.ogg
-mods/songs/safety-lullaby/Inst.ogg

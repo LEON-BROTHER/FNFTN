@@ -1,6 +1,0 @@
-mods/data/ruckus/ruckus-easy.json
-mods/data/ruckus/ruckus-hard.json
-mods/data/ruckus/ruckus-old.json
-mods/data/ruckus/ruckus.json
-mods/songs/ruckus/Voices.ogg
-mods/songs/ruckus/Inst.ogg

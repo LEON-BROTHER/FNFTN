@@ -1,5 +1,0 @@
-mods/data/epiphany/epiphany-easy.json
-mods/data/epiphany/epiphany-hard.json
-mods/data/epiphany/epiphany.json
-mods/songs/epiphany/Voices.ogg
-mods/songs/epiphany/Inst.ogg

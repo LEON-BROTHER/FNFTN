@@ -1,5 +1,0 @@
-mods/data/sussus-toogus/sussus-toogus-easy.json
-mods/data/sussus-toogus/sussus-toogus-hard.json
-mods/data/sussus-toogus/sussus-toogus.json
-mods/songs/sussus-toogus/Voices.ogg
-mods/songs/sussus-toogus/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/milf-duet/milf-duet-easy.json
-mods/data/milf-duet/milf-duet-hard.json
-mods/data/milf-duet/milf-duet.json
-mods/songs/milf-duet/Voices.ogg
-mods/songs/milf-duet/Inst.ogg

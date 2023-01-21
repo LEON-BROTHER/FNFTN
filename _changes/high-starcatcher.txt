@@ -1,5 +1,0 @@
-mods/data/high-starcatcher/high-starcatcher-easy.json
-mods/data/high-starcatcher/high-starcatcher-hard.json
-mods/data/high-starcatcher/high-starcatcher.json
-mods/songs/high-starcatcher/Voices.ogg
-mods/songs/high-starcatcher/Inst.ogg

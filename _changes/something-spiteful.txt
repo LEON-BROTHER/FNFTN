@@ -1,5 +1,0 @@
-mods/data/something-spiteful/something-spiteful-easy.json
-mods/data/something-spiteful/something-spiteful-hard.json
-mods/data/something-spiteful/something-spiteful.json
-mods/songs/something-spiteful/Voices.ogg
-mods/songs/something-spiteful/Inst.ogg

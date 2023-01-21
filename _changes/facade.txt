@@ -1,5 +1,0 @@
-mods/data/facade/facade-easy.json
-mods/data/facade/facade-hard.json
-mods/data/facade/facade.json
-mods/songs/facade/Voices.ogg
-mods/songs/facade/Inst.ogg

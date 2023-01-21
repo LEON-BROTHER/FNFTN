@@ -1,5 +1,0 @@
-mods/data/south-b-sides/south-b-sides-easy.json
-mods/data/south-b-sides/south-b-sides-hard.json
-mods/data/south-b-sides/south-b-sides.json
-mods/songs/south-b-sides/Voices.ogg
-mods/songs/south-b-sides/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/faucet-(hq)/faucet-(hq)-easy.json
-mods/data/faucet-(hq)/faucet-(hq)-hard.json
-mods/data/faucet-(hq)/faucet-(hq).json
-mods/songs/faucet-(hq)/Voices.ogg
-mods/songs/faucet-(hq)/Inst.ogg

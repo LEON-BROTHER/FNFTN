@@ -1,5 +1,0 @@
-mods/data/bopeebo-starcatcher/bopeebo-starcatcher-easy.json
-mods/data/bopeebo-starcatcher/bopeebo-starcatcher-hard.json
-mods/data/bopeebo-starcatcher/bopeebo-starcatcher.json
-mods/songs/bopeebo-starcatcher/Voices.ogg
-mods/songs/bopeebo-starcatcher/Inst.ogg

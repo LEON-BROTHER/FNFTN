@@ -1,5 +1,0 @@
-mods/data/home/events.json
-mods/data/home/home-easy.json
-mods/data/home/home-hard.json
-mods/songs/home/Voices.ogg
-mods/songs/home/Inst.ogg

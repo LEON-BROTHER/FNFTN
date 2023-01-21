@@ -1,5 +1,0 @@
-mods/data/arch/arch-easy.json
-mods/data/arch/arch-hard.json
-mods/data/arch/arch.json
-mods/songs/arch/Voices.ogg
-mods/songs/arch/Inst.ogg

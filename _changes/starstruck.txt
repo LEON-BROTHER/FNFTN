@@ -1,5 +1,0 @@
-mods/data/starstruck/starstruck-easy.json
-mods/data/starstruck/starstruck-hard.json
-mods/data/starstruck/starstruck.json
-mods/songs/starstruck/Voices.ogg
-mods/songs/starstruck/Inst.ogg

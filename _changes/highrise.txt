@@ -1,6 +1,0 @@
-mods/data/highrise/highrise-crazy.json
-mods/data/highrise/highrise-easy.json
-mods/data/highrise/highrise-hard.json
-mods/data/highrise/highrise.json
-mods/songs/highrise/Voices.ogg
-mods/songs/highrise/Inst.ogg

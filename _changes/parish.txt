@@ -1,6 +1,0 @@
-mods/data/parish/parish-alt.json
-mods/data/parish/parish-easy.json
-mods/data/parish/parish-hard.json
-mods/data/parish/parish.json
-mods/songs/parish/Voices.ogg
-mods/songs/parish/Inst.ogg

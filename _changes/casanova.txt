@@ -1,6 +1,0 @@
-mods/data/casanova/casanova-alt.json
-mods/data/casanova/casanova-easy.json
-mods/data/casanova/casanova-hard.json
-mods/data/casanova/casanova.json
-mods/songs/casanova/Voices.ogg
-mods/songs/casanova/Inst.ogg

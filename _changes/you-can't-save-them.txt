@@ -1,3 +1,0 @@
-mods/data/you-can't-save-them/you-can't-save-them-corrupted.json
-mods/songs/you-can't-save-them/Voices.ogg
-mods/songs/you-can't-save-them/Inst.ogg

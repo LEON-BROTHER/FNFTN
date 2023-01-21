@@ -1,5 +1,0 @@
-mods/data/super-saiyan/super-saiyan-4k.json
-mods/data/super-saiyan/super-saiyan-shaggy-canon.json
-mods/data/super-saiyan/super-saiyan-shaggy-easy.json
-mods/songs/super-saiyan/Voices.ogg
-mods/songs/super-saiyan/Inst.ogg

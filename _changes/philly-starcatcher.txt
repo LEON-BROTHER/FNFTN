@@ -1,5 +1,0 @@
-mods/data/philly-starcatcher/philly-starcatcher-easy.json
-mods/data/philly-starcatcher/philly-starcatcher-hard.json
-mods/data/philly-starcatcher/philly-starcatcher.json
-mods/songs/philly-starcatcher/Voices.ogg
-mods/songs/philly-starcatcher/Inst.ogg

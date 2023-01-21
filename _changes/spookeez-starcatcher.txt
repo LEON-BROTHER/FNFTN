@@ -1,5 +1,0 @@
-mods/data/spookeez-starcatcher/spookeez-starcatcher-easy.json
-mods/data/spookeez-starcatcher/spookeez-starcatcher-hard.json
-mods/data/spookeez-starcatcher/spookeez-starcatcher.json
-mods/songs/spookeez-starcatcher/Voices.ogg
-mods/songs/spookeez-starcatcher/Inst.ogg

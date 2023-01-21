@@ -1,5 +1,0 @@
-mods/data/senpai-b-sides/senpai-b-sides-easy.json
-mods/data/senpai-b-sides/senpai-b-sides-hard.json
-mods/data/senpai-b-sides/senpai-b-sides.json
-mods/songs/senpai-b-sides/Voices.ogg
-mods/songs/senpai-b-sides/Inst.ogg

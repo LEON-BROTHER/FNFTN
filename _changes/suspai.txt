@@ -1,4 +1,0 @@
-mods/data/suspai/events.json
-mods/data/suspai/suspai-normal.json
-mods/songs/suspai/Voices.ogg
-mods/songs/suspai/Inst.ogg

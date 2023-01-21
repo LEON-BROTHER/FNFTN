@@ -1,5 +1,0 @@
-mods/data/soothing-power/soothing-power-4k.json
-mods/data/soothing-power/soothing-power-shaggy-canon.json
-mods/data/soothing-power/soothing-power-shaggy-easy.json
-mods/songs/soothing-power/Voices.ogg
-mods/songs/soothing-power/Inst.ogg

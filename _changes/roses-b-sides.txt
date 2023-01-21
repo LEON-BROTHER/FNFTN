@@ -1,5 +1,0 @@
-mods/data/roses-b-sides/roses-b-sides-easy.json
-mods/data/roses-b-sides/roses-b-sides-hard.json
-mods/data/roses-b-sides/roses-b-sides.json
-mods/songs/roses-b-sides/Voices.ogg
-mods/songs/roses-b-sides/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/roses-sd/roses-sd-easy.json
-mods/data/roses-sd/roses-sd-hard.json
-mods/data/roses-sd/roses-sd.json
-mods/songs/roses-sd/Voices.ogg
-mods/songs/roses-sd/Inst.ogg

@@ -1,5 +1,0 @@
-mods/data/it_s-complicated-(sayori-mix)/it_s-complicated-(sayori-mix)-easy.json
-mods/data/it_s-complicated-(sayori-mix)/it_s-complicated-(sayori-mix)-hard.json
-mods/data/it_s-complicated-(sayori-mix)/it_s-complicated-(sayori-mix).json
-mods/songs/it_s-complicated-(sayori-mix)/Voices.ogg
-mods/songs/it_s-complicated-(sayori-mix)/Inst.ogg

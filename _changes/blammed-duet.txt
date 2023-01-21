@@ -1,5 +1,0 @@
-mods/data/blammed-duet/blammed-duet-easy.json
-mods/data/blammed-duet/blammed-duet-hard.json
-mods/data/blammed-duet/blammed-duet.json
-mods/songs/blammed-duet/Voices.ogg
-mods/songs/blammed-duet/Inst.ogg

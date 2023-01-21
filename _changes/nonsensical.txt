@@ -1,5 +1,0 @@
-mods/data/nonsensical/nonsensical-easy.json
-mods/data/nonsensical/nonsensical-hard.json
-mods/data/nonsensical/nonsensical.json
-mods/songs/nonsensical/Voices.ogg
-mods/songs/nonsensical/Inst.ogg

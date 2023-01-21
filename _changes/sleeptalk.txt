@@ -1,5 +1,0 @@
-mods/data/sleeptalk/events.json
-mods/data/sleeptalk/sleeptalk-hard.json
-mods/data/sleeptalk/sleeptalk.json
-mods/songs/sleeptalk/Voices.ogg
-mods/songs/sleeptalk/Inst.ogg
