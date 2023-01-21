@@ -1,0 +1,3 @@
+mods/data/ugh-b-sides/ugh-b-sides.json
+mods/songs/ugh-b-sides/Voices.ogg
+mods/songs/ugh-b-sides/Inst.ogg
