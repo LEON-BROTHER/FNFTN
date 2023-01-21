@@ -1,0 +1,3 @@
+mods/data/games-and-codes/games-and-codes-hard.json
+mods/songs/games-and-codes/Voices.ogg
+mods/songs/games-and-codes/Inst.ogg
