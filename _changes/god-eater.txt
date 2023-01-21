@@ -1,0 +1,5 @@
+mods/data/god-eater/god-eater-4k.json
+mods/data/god-eater/god-eater-shaggy-canon.json
+mods/data/god-eater/god-eater-shaggy-easy.json
+mods/songs/god-eater/Voices.ogg
+mods/songs/god-eater/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/fresh-starcatcher/fresh-starcatcher-easy.json
+mods/data/fresh-starcatcher/fresh-starcatcher-hard.json
+mods/data/fresh-starcatcher/fresh-starcatcher.json
+mods/songs/fresh-starcatcher/Voices.ogg
+mods/songs/fresh-starcatcher/Inst.ogg

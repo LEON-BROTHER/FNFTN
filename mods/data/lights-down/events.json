@@ -1,0 +1,391 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "toogus",
+		"player1": "bf-impostor",
+		"player2": "impostor3",
+		"player3": null,
+		"events": [
+			[
+				22588.2352941176,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					],
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				45176.4705882353,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					],
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				56470.5882352941,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				67764.7058823529,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				97411.7647058822,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					],
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				98823.5294117646,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				100235.294117647,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					],
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					],
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				104470.588235294,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					],
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				104810.294117647,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				104823.529411765,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				105161.029411765,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				105176.470588235,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				105516.176470588,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				105529.411764706,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				106219.852941176,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				106235.294117647,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				106566.176470588,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				106588.235294117,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				106923.529411765,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				106941.176470588,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				107309.558823529,
+				[
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				107313.970588235,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					]
+				]
+			],
+			[
+				127063.235294117,
+				[
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			],
+			[
+				127085.294117647,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					]
+				]
+			],
+			[
+				129882.352941176,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bfeyes"
+					],
+					[
+						"Change Character",
+						"dad",
+						"whiteimpostor"
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-impostor"
+					],
+					[
+						"Change Character",
+						"dad",
+						"impostor3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-impostor",
+		"bpm": 170,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Lights-Down",
+		"isRing": false
+	}
+}

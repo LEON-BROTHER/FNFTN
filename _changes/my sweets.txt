@@ -1,0 +1,2 @@
+mods/songs/my sweets/Voices.ogg
+mods/songs/my sweets/Inst.ogg

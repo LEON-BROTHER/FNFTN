@@ -1,0 +1,8 @@
+mods/data/a.g.o.t.i/a.g.o.t.i-easy.json
+mods/data/a.g.o.t.i/a.g.o.t.i-expert.json
+mods/data/a.g.o.t.i/a.g.o.t.i-hard.json
+mods/data/a.g.o.t.i/a.g.o.t.i-insane.json
+mods/data/a.g.o.t.i/a.g.o.t.i-noob.json
+mods/data/a.g.o.t.i/a.g.o.t.i.json
+mods/songs/a.g.o.t.i/Voices.ogg
+mods/songs/a.g.o.t.i/Inst.ogg

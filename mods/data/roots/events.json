@@ -1,0 +1,61 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "schoolD4",
+		"player1": "bf-glitch",
+		"player2": "spiritCrazy",
+		"player3": null,
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"2 "
+					]
+				]
+			],
+			[
+				48900,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"2 "
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1 ",
+						"2 "
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixelD3",
+		"bpm": 200,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Roots",
+		"isRing": false
+	}
+}

@@ -1,0 +1,6 @@
+mods/data/kaio-ken/events.json
+mods/data/kaio-ken/kaio-ken-4k.json
+mods/data/kaio-ken/kaio-ken-shaggy-canon.json
+mods/data/kaio-ken/kaio-ken-shaggy-easy.json
+mods/songs/kaio-ken/Voices.ogg
+mods/songs/kaio-ken/Inst.ogg

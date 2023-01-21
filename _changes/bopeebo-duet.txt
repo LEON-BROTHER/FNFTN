@@ -1,0 +1,5 @@
+mods/data/bopeebo-duet/bopeebo-duet-easy.json
+mods/data/bopeebo-duet/bopeebo-duet-hard.json
+mods/data/bopeebo-duet/bopeebo-duet.json
+mods/songs/bopeebo-duet/Voices.ogg
+mods/songs/bopeebo-duet/Inst.ogg

@@ -1,0 +1,6 @@
+mods/data/where-are-you/events.json
+mods/data/where-are-you/where-are-you-4k.json
+mods/data/where-are-you/where-are-you-shaggy-canon.json
+mods/data/where-are-you/where-are-you-shaggy-easy.json
+mods/songs/where-are-you/Voices.ogg
+mods/songs/where-are-you/Inst.ogg

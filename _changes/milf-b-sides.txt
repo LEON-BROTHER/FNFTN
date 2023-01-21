@@ -1,0 +1,5 @@
+mods/data/milf-b-sides/milf-b-sides-easy.json
+mods/data/milf-b-sides/milf-b-sides-hard.json
+mods/data/milf-b-sides/milf-b-sides.json
+mods/songs/milf-b-sides/Voices.ogg
+mods/songs/milf-b-sides/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/philly-neo/philly-neo-easy.json
+mods/data/philly-neo/philly-neo-hard.json
+mods/data/philly-neo/philly-neo.json
+mods/songs/philly-neo/Voices.ogg
+mods/songs/philly-neo/Inst.ogg

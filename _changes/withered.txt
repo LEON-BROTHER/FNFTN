@@ -1,0 +1,5 @@
+mods/data/withered/withered-easy.json
+mods/data/withered/withered-hard.json
+mods/data/withered/withered.json
+mods/songs/withered/Voices.ogg
+mods/songs/withered/Inst.ogg

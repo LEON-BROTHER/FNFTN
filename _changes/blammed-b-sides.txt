@@ -1,0 +1,5 @@
+mods/data/blammed-b-sides/blammed-b-sides-easy.json
+mods/data/blammed-b-sides/blammed-b-sides-hard.json
+mods/data/blammed-b-sides/blammed-b-sides.json
+mods/songs/blammed-b-sides/Voices.ogg
+mods/songs/blammed-b-sides/Inst.ogg

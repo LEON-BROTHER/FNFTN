@@ -1,0 +1,2 @@
+mods/songs/zs_textbox/Voices.ogg
+mods/songs/zs_textbox/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/blast/blast-4k.json
+mods/data/blast/blast-shaggy-canon.json
+mods/data/blast/blast-shaggy-easy.json
+mods/songs/blast/Voices.ogg
+mods/songs/blast/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/extremus/extremus-easy.json
+mods/data/extremus/extremus-hard.json
+mods/data/extremus/extremus.json
+mods/songs/extremus/Voices.ogg
+mods/songs/extremus/Inst.ogg

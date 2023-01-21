@@ -1,0 +1,2 @@
+mods/songs/undertale/Voices.ogg
+mods/songs/undertale/Inst.ogg

@@ -1,0 +1,7 @@
+mods/data/red-megalovania/red-megalovania (1).json
+mods/data/red-megalovania/red-megalovania-easy.json
+mods/data/red-megalovania/red-megalovania-hard - Copy.json
+mods/data/red-megalovania/red-megalovania-hard.json
+mods/data/red-megalovania/red-megalovania.json
+mods/songs/red-megalovania/Voices.ogg
+mods/songs/red-megalovania/Inst.ogg

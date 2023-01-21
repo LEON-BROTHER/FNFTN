@@ -1,0 +1,5 @@
+mods/data/high-neo/high-neo-easy.json
+mods/data/high-neo/high-neo-hard.json
+mods/data/high-neo/high-neo.json
+mods/songs/high-neo/Voices.ogg
+mods/songs/high-neo/Inst.ogg

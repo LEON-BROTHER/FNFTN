@@ -1,0 +1,2 @@
+mods/songs/my confession/Voices.ogg
+mods/songs/my confession/Inst.ogg

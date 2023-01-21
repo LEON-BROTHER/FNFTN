@@ -1,0 +1,5 @@
+mods/data/overwrite/overwrite-easy.json
+mods/data/overwrite/overwrite-hard.json
+mods/data/overwrite/overwrite.json
+mods/songs/overwrite/Voices.ogg
+mods/songs/overwrite/Inst.ogg

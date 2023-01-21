@@ -1,0 +1,2 @@
+mods/songs/rain clouds/Voices.ogg
+mods/songs/rain clouds/Inst.ogg

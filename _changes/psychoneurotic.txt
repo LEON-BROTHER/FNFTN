@@ -1,0 +1,6 @@
+mods/data/psychoneurotic/psychoneurotic-easy.json
+mods/data/psychoneurotic/psychoneurotic-hard.json
+mods/data/psychoneurotic/psychoneurotic.json
+mods/data/psychoneurotic/psychoneurotic_EXPERT.json
+mods/songs/psychoneurotic/Voices.ogg
+mods/songs/psychoneurotic/Inst.ogg

@@ -1,0 +1,51 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "ron",
+		"player1": "bf",
+		"player2": "little-man",
+		"player3": null,
+		"events": [
+			[
+				311598.513011152,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pizza"
+					]
+				]
+			],
+			[
+				334070.63197026,
+				[
+					[
+						"Change Character",
+						"dad",
+						"little-man"
+					]
+				]
+			],
+			[
+				411468.401486987,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tankman"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 269,
+		"mania": "3",
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "little-man",
+		"isRing": false
+	}
+}

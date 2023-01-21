@@ -1,0 +1,7 @@
+mods/data/sunshine-bob/asdasdsad.json
+mods/data/sunshine-bob/mid fight masses charting.json
+mods/data/sunshine-bob/sunshine-bob-easy.json
+mods/data/sunshine-bob/sunshine-bob-hard.json
+mods/data/sunshine-bob/sunshine-bob.json
+mods/songs/sunshine-bob/Voices.ogg
+mods/songs/sunshine-bob/Inst.ogg

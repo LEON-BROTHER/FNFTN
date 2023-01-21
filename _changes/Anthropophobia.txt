@@ -1,0 +1,5 @@
+mods/data/Anthropophobia/Anthropophobia-easy.json
+mods/data/Anthropophobia/Anthropophobia-hard.json
+mods/data/Anthropophobia/Anthropophobia.json
+mods/songs/Anthropophobia/Voices.ogg
+mods/songs/Anthropophobia/Inst.ogg

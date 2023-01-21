@@ -1,0 +1,3 @@
+mods/data/chiller/chiller.json
+mods/songs/chiller/Voices.ogg
+mods/songs/chiller/Inst.ogg

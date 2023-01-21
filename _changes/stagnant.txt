@@ -1,0 +1,4 @@
+mods/data/stagnant/events.json
+mods/data/stagnant/stagnant-hard.json
+mods/songs/stagnant/Voices.ogg
+mods/songs/stagnant/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/defeat/defeat-easy.json
+mods/data/defeat/defeat-hard.json
+mods/data/defeat/defeat.json
+mods/songs/defeat/Voices.ogg
+mods/songs/defeat/Inst.ogg

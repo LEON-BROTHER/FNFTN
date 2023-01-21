@@ -1,0 +1,4 @@
+mods/data/big-shot/big-shot-shaggy-canon.json
+mods/data/big-shot/big-shot-shaggy-easy.json
+mods/songs/big-shot/Voices.ogg
+mods/songs/big-shot/Inst.ogg

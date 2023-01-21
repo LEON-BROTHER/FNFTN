@@ -1,0 +1,5 @@
+mods/data/poems-n-thorns/poems-n-thorns-easy.json
+mods/data/poems-n-thorns/poems-n-thorns-hard.json
+mods/data/poems-n-thorns/poems-n-thorns.json
+mods/songs/poems-n-thorns/Voices.ogg
+mods/songs/poems-n-thorns/Inst.ogg

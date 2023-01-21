@@ -1,0 +1,6 @@
+mods/data/worship/worship-alt.json
+mods/data/worship/worship-easy.json
+mods/data/worship/worship-hard.json
+mods/data/worship/worship.json
+mods/songs/worship/Voices.ogg
+mods/songs/worship/Inst.ogg

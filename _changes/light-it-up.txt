@@ -1,0 +1,6 @@
+mods/data/light-it-up/light-it-up-easy.json
+mods/data/light-it-up/light-it-up-hard.json
+mods/data/light-it-up/light-it-up-old.json
+mods/data/light-it-up/light-it-up.json
+mods/songs/light-it-up/Voices.ogg
+mods/songs/light-it-up/Inst.ogg

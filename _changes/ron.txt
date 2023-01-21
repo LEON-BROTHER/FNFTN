@@ -1,0 +1,5 @@
+mods/data/ron/ron-easy.json
+mods/data/ron/ron-hard.json
+mods/data/ron/ron.json
+mods/songs/ron/Voices.ogg
+mods/songs/ron/Inst.ogg

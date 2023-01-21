@@ -1,0 +1,5 @@
+mods/data/cocoa-duet/cocoa-duet-easy.json
+mods/data/cocoa-duet/cocoa-duet-hard.json
+mods/data/cocoa-duet/cocoa-duet.json
+mods/songs/cocoa-duet/Voices.ogg
+mods/songs/cocoa-duet/Inst.ogg

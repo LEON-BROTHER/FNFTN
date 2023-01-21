@@ -1,0 +1,126 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "schoolD1",
+		"player1": "bf-pixel",
+		"player2": "senpai",
+		"player3": null,
+		"events": [
+			[
+				29625,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pixelD1"
+					]
+				]
+			],
+			[
+				29906.25,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pixel"
+					]
+				]
+			],
+			[
+				32250,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pixelD1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiD1"
+					],
+					[
+						"Change Character",
+						"bf ",
+						"bf-pixelD1"
+					]
+				]
+			],
+			[
+				36333.3333333333,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-pixel"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				41208.3333333333,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pixelD1"
+					]
+				]
+			],
+			[
+				42333.3333333333,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-pixel"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				57333.3333333333,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-pixelD1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 160,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Senpai-Remix",
+		"isRing": false
+	}
+}

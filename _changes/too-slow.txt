@@ -1,0 +1,5 @@
+mods/data/too-slow/too-slow-easy.json
+mods/data/too-slow/too-slow-hard.json
+mods/data/too-slow/too-slow.json
+mods/songs/too-slow/Voices.ogg
+mods/songs/too-slow/Inst.ogg

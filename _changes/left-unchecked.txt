@@ -1,0 +1,5 @@
+mods/data/left-unchecked/left-unchecked-easy.json
+mods/data/left-unchecked/left-unchecked-hard.json
+mods/data/left-unchecked/left-unchecked.json
+mods/songs/left-unchecked/Voices.ogg
+mods/songs/left-unchecked/Inst.ogg

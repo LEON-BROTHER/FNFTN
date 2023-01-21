@@ -1,0 +1,6 @@
+mods/data/disappearance/disappearance-easy.json
+mods/data/disappearance/disappearance-hard.json
+mods/data/disappearance/disappearance-old.json
+mods/data/disappearance/disappearance.json
+mods/songs/disappearance/Voices.ogg
+mods/songs/disappearance/Inst.ogg

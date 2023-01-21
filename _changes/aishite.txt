@@ -1,0 +1,5 @@
+mods/data/aishite/aishite-easy.json
+mods/data/aishite/aishite-hard.json
+mods/data/aishite/aishite.json
+mods/songs/aishite/Voices.ogg
+mods/songs/aishite/Inst.ogg

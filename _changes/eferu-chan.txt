@@ -1,0 +1,5 @@
+mods/data/eferu-chan/eferu-chan-easy.json
+mods/data/eferu-chan/eferu-chan-hard.json
+mods/data/eferu-chan/eferu-chan.json
+mods/songs/eferu-chan/Voices.ogg
+mods/songs/eferu-chan/Inst.ogg

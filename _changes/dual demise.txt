@@ -1,0 +1,2 @@
+mods/songs/dual demise/Voices.ogg
+mods/songs/dual demise/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/ugh-duet/ugh-duet-easy.json
+mods/data/ugh-duet/ugh-duet-hard.json
+mods/data/ugh-duet/ugh-duet.json
+mods/songs/ugh-duet/Voices.ogg
+mods/songs/ugh-duet/Inst.ogg

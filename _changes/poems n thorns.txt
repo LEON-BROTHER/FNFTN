@@ -1,0 +1,2 @@
+mods/songs/poems n thorns/Voices.ogg
+mods/songs/poems n thorns/Inst.ogg

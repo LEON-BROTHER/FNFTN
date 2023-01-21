@@ -1,0 +1,3 @@
+mods/data/expurgation/expurgation-hard.json
+mods/songs/expurgation/Voices.ogg
+mods/songs/expurgation/Inst.ogg

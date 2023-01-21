@@ -1,0 +1,2 @@
+mods/songs/beathoven (natsuki mix)/Voices.ogg
+mods/songs/beathoven (natsuki mix)/Inst.ogg

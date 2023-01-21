@@ -1,0 +1,5 @@
+mods/data/inkingmistake/inkingmistake-easy.json
+mods/data/inkingmistake/inkingmistake-hard.json
+mods/data/inkingmistake/inkingmistake.json
+mods/songs/inkingmistake/Voices.ogg
+mods/songs/inkingmistake/Inst.ogg
