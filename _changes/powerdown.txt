@@ -1,0 +1,3 @@
+mods/data/powerdown/powerdown.json
+mods/songs/powerdown/Voices.ogg
+mods/songs/powerdown/Inst.ogg
