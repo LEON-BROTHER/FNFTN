@@ -1,0 +1,312 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It was a dark night"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You and Pibby barely escaped the corruption's grasp and traveled to another universe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looking around the city you two landed in, it seems like it's been abandoned for years"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Broken buildings that have collapsed"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Streetlamps have been ripped out of the ground"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The city was destroyed"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As you and Pibby look around for a safe place to rest for the night, you see a light in the distance"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Being dumb and curious, you decide to check it out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As you get closer, you realize that it's a streetlamp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This part of town isn't in complete destruction"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Walking around, you noticed an alleyway that looked strangely familiar, as if you've been here before"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You walk into the alleyway, trying to remember what this place really is, when you hear footsteps"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thinking it could be someone dangerous, you sneak to the outside of the alleyway and grip onto what used to be Pico's gun"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "When you hear the footsteps stop, you take a peak into the alleyway"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You instantly recognized that brown hat, grey coat, and green pants from anywhere"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's Garcello!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Very confused on how he's somehow alive, you put the gun on safety mode and call out to him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...huh?.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He turns around and recognizes you as well"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh...hey little man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Guess you made it out alive as well"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Something seems off about him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You ask him why this city became a ghost town"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh...yeah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That...thing...took over the city..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I didn't even know it happened till..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before he could finish his sentence, he started tearing up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You walk up to him and hug his side, trying to make him feel better"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...*sniff*...Thanks little man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "I-It's just..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Ever since the day I lost Annie, things...haven't been the same"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...she was my best friend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...she was there for me when I was at my lowest points"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "and now she's gone..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "I wish I was there to save her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Feeling bad about his loss, you decide to try to cheer him up and ask if he would like to sing with you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...*sniff*..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...well...let's sing in memory of her..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "...to make her story live on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "garchellotalkinglmao",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "even though she's...gone"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "narrator",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "Nervous because she's never met Garcello before, Pibby stays behind you, skeptical of him as you two sing in memory of Annie..."
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "facility",
+		"player1": "bf-updike",
+		"player2": "updingdong",
+		"player3": null,
+		"events": [
+			[
+				112000,
+				[
+					[
+						"Play Animation",
+						"idle-edgy",
+						"bf"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_but_spicy",
+		"bpm": 120,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Remorse",
+		"isRing": false
+	}
+}

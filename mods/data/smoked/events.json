@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "alleyCorrupted",
+		"player1": "bf",
+		"player2": "garcellobutcorruptedbutdark",
+		"player3": null,
+		"events": [
+			[
+				11200,
+				[
+					[
+						"Change Character",
+						"1",
+						"garcellobutcorrupted"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Smoked"
+	}
+}

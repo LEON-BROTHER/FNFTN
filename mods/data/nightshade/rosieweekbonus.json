@@ -1,0 +1,39 @@
+{
+    "storyName": "Pick n' Pluck",
+    "difficulties": "",
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "weekBefore": "tutorial",
+    "category": "rosie",
+    "freeplayColor": [
+        146,
+        113,
+        253
+    ],
+    "startUnlocked": true,
+    "hideStoryMode": true,
+    "songs": [
+        [
+            "Poison-Old",
+            "rosie", [
+                255,
+                136,
+                215
+            ]
+        ],
+        [
+            "Nightshade",
+            "rosie", [
+                255,
+                136,
+                215
+            ]
+        ]
+    ],
+    "weekCharacters": [
+        "",
+        "bf",
+        "gf"
+    ],
+    "weekName": "rosieweek1"
+}

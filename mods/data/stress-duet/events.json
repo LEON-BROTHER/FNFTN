@@ -1,0 +1,31 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "tank",
+		"player1": "bf-holding-gf",
+		"player2": "tankman",
+		"player3": null,
+		"events": [
+			[
+				62022.4719101124,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "picospeaker",
+		"bpm": 178,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Stress-Duet",
+		"isRing": false
+	}
+}

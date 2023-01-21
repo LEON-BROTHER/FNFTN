@@ -1,0 +1,279 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "sport",
+		"player1": "blue-sport",
+		"player2": "ski-sport",
+		"player3": null,
+		"events": [
+			[
+				37200,
+				[
+					[
+						"Play Animation",
+						"ooh",
+						"dad"
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				38200,
+				[
+					[
+						"Play Animation",
+						"uh",
+						"dad"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				62800,
+				[
+					[
+						"Play Animation",
+						"ooh",
+						"dad"
+					]
+				]
+			],
+			[
+				63200,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				63600,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				63800,
+				[
+					[
+						"Play Animation",
+						"uh",
+						"dad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				101200,
+				[
+					[
+						"Play Animation",
+						"ooh",
+						"dad"
+					]
+				]
+			],
+			[
+				101600,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				102200,
+				[
+					[
+						"Play Animation",
+						"uh",
+						"dad"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				126800,
+				[
+					[
+						"Play Animation",
+						"ooh",
+						"dad"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				127600,
+				[
+					[
+						"Play Animation",
+						"sip",
+						"dad"
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Play Animation",
+						"uh",
+						"dad"
+					]
+				]
+			],
+			[
+				127997.916666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ski-sport2"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ski-cut2"
+					]
+				]
+			],
+			[
+				155000,
+				[
+					[
+						"Play Animation",
+						"phew",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 300,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "sporting"
+	}
+}

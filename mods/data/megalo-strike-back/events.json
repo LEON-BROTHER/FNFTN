@@ -1,0 +1,151 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "charaut",
+		"player1": "bf",
+		"player2": "chara",
+		"player3": null,
+		"events": [
+			[
+				121666.666666667,
+				[
+					[
+						"Play Animation",
+						"save",
+						"dad"
+					]
+				]
+			],
+			[
+				123333.333333333,
+				[
+					[
+						"Play Animation",
+						"save",
+						"dad"
+					]
+				]
+			],
+			[
+				125000,
+				[
+					[
+						"Play Animation",
+						"save",
+						"dad"
+					]
+				]
+			],
+			[
+				126666.666666667,
+				[
+					[
+						"Play Animation",
+						"save",
+						"dad"
+					]
+				]
+			],
+			[
+				127604.166666667,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"dad"
+					]
+				]
+			],
+			[
+				210416.666666666,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					],
+					[
+						"Play Animation",
+						"trick",
+						"dad"
+					]
+				]
+			],
+			[
+				213854.166666666,
+				[
+					[
+						"Play Animation",
+						"trick",
+						"dad"
+					],
+					[
+						"Flip X Character",
+						"dad",
+						"1"
+					],
+					[
+						"Flip X Character",
+						"bf",
+						"1"
+					]
+				]
+			],
+			[
+				216354.166666666,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"690",
+						"600"
+					]
+				]
+			],
+			[
+				237083.333333333,
+				[
+					[
+						"Flip X Character",
+						"bf",
+						""
+					],
+					[
+						"Flip X Character",
+						"dad",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				248333.333333333,
+				[
+					[
+						"Play Animation",
+						"trick",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 144,
+		"mania": "3",
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Megalo-Strike-Back",
+		"isRing": false
+	}
+}

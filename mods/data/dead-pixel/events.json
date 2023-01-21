@@ -1,0 +1,61 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "schoolD2",
+		"player1": "bf-pixelD2glitch1",
+		"player2": "senpaiD1",
+		"player3": null,
+		"events": [
+			[
+				5581.39534883721,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pixelD2Glitched2"
+					]
+				]
+			],
+			[
+				11162.7906976744,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pixelD2Glitched3"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-pixelD2"
+					]
+				]
+			],
+			[
+				54418.6046511628,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiD2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixelD2",
+		"bpm": 172,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dead-pixel",
+		"isRing": false
+	}
+}

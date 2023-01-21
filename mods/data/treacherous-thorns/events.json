@@ -1,0 +1,541 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "schoolD3",
+		"player1": "bf-pixelD3",
+		"player2": "senpaiThorns",
+		"player3": null,
+		"events": [
+			[
+				21552.6315789474,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				21868.4210526316,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				21947.3684210526,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				22026.3157894737,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				22263.1578947368,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				22421.0526315789,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				24789.4736842105,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				24947.3684210526,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				25105.2631578947,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				25263.1578947368,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				40421.0526315789,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				40578.9473684211,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				40736.8421052632,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				40894.7368421053,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				50526.3157894737,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				51000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1 "
+					]
+				]
+			],
+			[
+				53052.6315789473,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1 "
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				53763.1578947368,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1 "
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				61657.8947368421,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				61973.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				63631.5789473684,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				64105.2631578947,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					]
+				]
+			],
+			[
+				70736.8421052631,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				70894.7368421052,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				70973.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				71368.4210526315,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				83131.5789473683,
+				[
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					]
+				]
+			],
+			[
+				83368.4210526315,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				85421.0526315789,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				91026.3157894736,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				91736.8421052631,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				93552.6315789473,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spiritCrazy"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				94105.2631578946,
+				[
+					[
+						"Change Character",
+						"dad",
+						"senpaiThorns"
+					],
+					[
+						"Corruption Week 6 Change BG",
+						"0",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixelD2",
+		"bpm": 190,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Treacherous-Thorns",
+		"isRing": false
+	}
+}
