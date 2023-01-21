@@ -1,0 +1,5 @@
+mods/data/south/south-easy.json
+mods/data/south/south-hard.json
+mods/data/south/south.json
+mods/songs/south/Voices.ogg
+mods/songs/south/Inst.ogg

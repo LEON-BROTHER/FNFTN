@@ -1,0 +1,5 @@
+mods/data/moribund/dialogue.json
+mods/data/moribund/moribund-hard.json
+mods/data/moribund/moribund.json
+mods/songs/moribund/Voices.ogg
+mods/songs/moribund/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/high-c-sides/high-c-sides-easy.json
+mods/data/high-c-sides/high-c-sides-hard.json
+mods/data/high-c-sides/high-c-sides.json
+mods/songs/high-c-sides/Voices.ogg
+mods/songs/high-c-sides/Inst.ogg

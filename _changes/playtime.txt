@@ -1,0 +1,6 @@
+mods/data/playtime/events.json
+mods/data/playtime/playtime-easy.json
+mods/data/playtime/playtime-hard.json
+mods/data/playtime/playtime.json
+mods/songs/playtime/Voices.ogg
+mods/songs/playtime/Inst.ogg

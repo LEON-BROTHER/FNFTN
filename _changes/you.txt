@@ -1,0 +1,8 @@
+mods/data/you/dialogue.json
+mods/data/you/dialogueend.json
+mods/data/you/events.json
+mods/data/you/you-easy.json
+mods/data/you/you-hard.json
+mods/data/you/you.json
+mods/songs/you/Voices.ogg
+mods/songs/you/Inst.ogg

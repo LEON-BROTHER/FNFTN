@@ -1,0 +1,5 @@
+mods/data/dadbattle-b-sides-duet/dadbattle-b-sides-duet-easy.json
+mods/data/dadbattle-b-sides-duet/dadbattle-b-sides-duet-hard.json
+mods/data/dadbattle-b-sides-duet/dadbattle-b-sides-duet.json
+mods/songs/dadbattle-b-sides-duet/Voices.ogg
+mods/songs/dadbattle-b-sides-duet/Inst.ogg

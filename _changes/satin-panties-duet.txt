@@ -1,0 +1,5 @@
+mods/data/satin-panties-duet/satin-panties-duet-easy.json
+mods/data/satin-panties-duet/satin-panties-duet-hard.json
+mods/data/satin-panties-duet/satin-panties-duet.json
+mods/songs/satin-panties-duet/Voices.ogg
+mods/songs/satin-panties-duet/Inst.ogg

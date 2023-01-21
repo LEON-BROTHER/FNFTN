@@ -1,0 +1,5 @@
+mods/data/terminus/terminus-easy.json
+mods/data/terminus/terminus-hard.json
+mods/data/terminus/terminus.json
+mods/songs/terminus/Voices.ogg
+mods/songs/terminus/Inst.ogg

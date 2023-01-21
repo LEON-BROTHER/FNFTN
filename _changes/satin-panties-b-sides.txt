@@ -1,0 +1,5 @@
+mods/data/satin-panties-b-sides/satin-panties-b-sides-easy.json
+mods/data/satin-panties-b-sides/satin-panties-b-sides-hard.json
+mods/data/satin-panties-b-sides/satin-panties-b-sides.json
+mods/songs/satin-panties-b-sides/Voices.ogg
+mods/songs/satin-panties-b-sides/Inst.ogg

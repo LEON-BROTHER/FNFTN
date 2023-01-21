@@ -1,0 +1,6 @@
+mods/data/hark/dialogue.json
+mods/data/hark/hark-easy.json
+mods/data/hark/hark-hard.json
+mods/data/hark/hark.json
+mods/songs/hark/Voices.ogg
+mods/songs/hark/Inst.ogg

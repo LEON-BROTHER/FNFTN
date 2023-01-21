@@ -1,0 +1,5 @@
+mods/data/jump-jump-jump/jump-jump-jump-easy.json
+mods/data/jump-jump-jump/jump-jump-jump-hard.json
+mods/data/jump-jump-jump/jump-jump-jump.json
+mods/songs/jump-jump-jump/Voices.ogg
+mods/songs/jump-jump-jump/Inst.ogg

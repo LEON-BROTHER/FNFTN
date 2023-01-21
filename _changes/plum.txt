@@ -1,0 +1,6 @@
+mods/data/plum/events.json
+mods/data/plum/plum-easy.json
+mods/data/plum/plum-hard.json
+mods/data/plum/plum.json
+mods/songs/plum/Voices.ogg
+mods/songs/plum/Inst.ogg

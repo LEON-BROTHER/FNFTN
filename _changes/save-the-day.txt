@@ -1,0 +1,3 @@
+mods/data/save-the-day/save-the-day-corrupted.json
+mods/songs/save-the-day/Voices.ogg
+mods/songs/save-the-day/Inst.ogg

@@ -1,0 +1,3 @@
+mods/data/sanguine-south/sanguine-south.json
+mods/songs/sanguine-south/Voices.ogg
+mods/songs/sanguine-south/Inst.ogg

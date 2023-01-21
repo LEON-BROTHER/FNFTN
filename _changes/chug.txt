@@ -1,0 +1,5 @@
+mods/data/chug/chug-easy.json
+mods/data/chug/chug-hard.json
+mods/data/chug/chug.json
+mods/songs/chug/Voices.ogg
+mods/songs/chug/Inst.ogg

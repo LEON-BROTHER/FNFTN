@@ -1,0 +1,5 @@
+mods/data/fresh-remix/fresh-remix-easy.json
+mods/data/fresh-remix/fresh-remix-hard.json
+mods/data/fresh-remix/fresh-remix.json
+mods/songs/fresh-remix/Voices.ogg
+mods/songs/fresh-remix/Inst.ogg

@@ -1,0 +1,3 @@
+mods/data/last-spooktober/last-spooktober-corrupted.json
+mods/songs/last-spooktober/Voices.ogg
+mods/songs/last-spooktober/Inst.ogg

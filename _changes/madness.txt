@@ -1,0 +1,5 @@
+mods/data/madness/madness-easy.json
+mods/data/madness/madness-hard.json
+mods/data/madness/madness.json
+mods/songs/madness/Voices.ogg
+mods/songs/madness/Inst.ogg

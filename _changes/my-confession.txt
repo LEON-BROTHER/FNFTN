@@ -1,0 +1,5 @@
+mods/data/my-confession/my-confession-easy.json
+mods/data/my-confession/my-confession-hard.json
+mods/data/my-confession/my-confession.json
+mods/songs/my-confession/Voices.ogg
+mods/songs/my-confession/Inst.ogg

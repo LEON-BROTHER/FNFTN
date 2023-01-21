@@ -1,0 +1,3 @@
+mods/data/no-hero/no-hero-corrupted.json
+mods/songs/no-hero/Voices.ogg
+mods/songs/no-hero/Inst.ogg

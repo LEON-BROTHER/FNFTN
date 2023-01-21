@@ -1,0 +1,3 @@
+mods/data/smash/smash.json
+mods/songs/smash/Voices.ogg
+mods/songs/smash/Inst.ogg

@@ -1,0 +1,5 @@
+mods/data/partnership/partnership-easy.json
+mods/data/partnership/partnership-hard.json
+mods/data/partnership/partnership.json
+mods/songs/partnership/Voices.ogg
+mods/songs/partnership/Inst.ogg

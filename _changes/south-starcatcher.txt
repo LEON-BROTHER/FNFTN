@@ -1,0 +1,5 @@
+mods/data/south-starcatcher/south-starcatcher-easy.json
+mods/data/south-starcatcher/south-starcatcher-hard.json
+mods/data/south-starcatcher/south-starcatcher.json
+mods/songs/south-starcatcher/Voices.ogg
+mods/songs/south-starcatcher/Inst.ogg

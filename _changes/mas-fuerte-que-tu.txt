@@ -1,0 +1,5 @@
+mods/data/mas-fuerte-que-tu/mas-fuerte-que-tu-easy.json
+mods/data/mas-fuerte-que-tu/mas-fuerte-que-tu-hard.json
+mods/data/mas-fuerte-que-tu/mas-fuerte-que-tu.json
+mods/songs/mas-fuerte-que-tu/Voices.ogg
+mods/songs/mas-fuerte-que-tu/Inst.ogg

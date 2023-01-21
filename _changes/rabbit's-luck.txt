@@ -1,0 +1,6 @@
+mods/data/rabbit's-luck/dialogue.json
+mods/data/rabbit's-luck/rabbit's-luck-easy.json
+mods/data/rabbit's-luck/rabbit's-luck-hard.json
+mods/data/rabbit's-luck/rabbit's-luck.json
+mods/songs/rabbit's-luck/Voices.ogg
+mods/songs/rabbit's-luck/Inst.ogg

@@ -1,0 +1,6 @@
+mods/data/round-a-bout/events.json
+mods/data/round-a-bout/round-a-bout-easy.json
+mods/data/round-a-bout/round-a-bout-hard.json
+mods/data/round-a-bout/round-a-bout.json
+mods/songs/round-a-bout/Voices.ogg
+mods/songs/round-a-bout/Inst.ogg

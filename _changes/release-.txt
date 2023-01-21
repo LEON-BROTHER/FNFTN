@@ -1,0 +1,6 @@
+mods/data/release-/events.json
+mods/data/release-/release--easy.json
+mods/data/release-/release--hard.json
+mods/data/release-/release-.json
+mods/songs/release-/Voices.ogg
+mods/songs/release-/Inst.ogg

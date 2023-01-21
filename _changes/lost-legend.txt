@@ -1,0 +1,3 @@
+mods/data/lost-legend/lost-legend-corrupted.json
+mods/songs/lost-legend/Voices.ogg
+mods/songs/lost-legend/Inst.ogg

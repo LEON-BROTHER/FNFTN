@@ -1,0 +1,5 @@
+mods/data/retricus/retricus-easy.json
+mods/data/retricus/retricus-hard.json
+mods/data/retricus/retricus.json
+mods/songs/retricus/Voices.ogg
+mods/songs/retricus/Inst.ogg

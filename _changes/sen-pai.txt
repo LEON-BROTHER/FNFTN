@@ -1,0 +1,3 @@
+mods/data/sen-pai/sen-pai-erect.json
+mods/songs/sen-pai/Voices.ogg
+mods/songs/sen-pai/Inst.ogg

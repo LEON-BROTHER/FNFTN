@@ -1,0 +1,6 @@
+mods/data/lo-fight-(hq)/dialogue.json
+mods/data/lo-fight-(hq)/lo-fight-(hq)-easy.json
+mods/data/lo-fight-(hq)/lo-fight-(hq)-hard.json
+mods/data/lo-fight-(hq)/lo-fight-(hq).json
+mods/songs/lo-fight-(hq)/Voices.ogg
+mods/songs/lo-fight-(hq)/Inst.ogg

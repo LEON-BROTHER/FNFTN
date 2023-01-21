@@ -1,0 +1,5 @@
+mods/data/last-hope/last-hope-easy.json
+mods/data/last-hope/last-hope-hard.json
+mods/data/last-hope/last-hope.json
+mods/songs/last-hope/Voices.ogg
+mods/songs/last-hope/Inst.ogg

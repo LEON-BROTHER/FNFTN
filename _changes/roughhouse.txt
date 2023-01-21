@@ -1,0 +1,5 @@
+mods/data/roughhouse/events.json
+mods/data/roughhouse/roughhouse-hard.json
+mods/data/roughhouse/roughhouse.json
+mods/songs/roughhouse/Voices.ogg
+mods/songs/roughhouse/Inst.ogg

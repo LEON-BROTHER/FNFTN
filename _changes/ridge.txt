@@ -1,0 +1,3 @@
+mods/data/ridge/ridge.json
+mods/songs/ridge/Voices.ogg
+mods/songs/ridge/Inst.ogg

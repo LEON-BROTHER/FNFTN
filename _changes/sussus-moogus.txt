@@ -1,0 +1,5 @@
+mods/data/sussus-moogus/sussus-moogus-easy.json
+mods/data/sussus-moogus/sussus-moogus-hard.json
+mods/data/sussus-moogus/sussus-moogus.json
+mods/songs/sussus-moogus/Voices.ogg
+mods/songs/sussus-moogus/Inst.ogg

@@ -1,0 +1,6 @@
+mods/data/target-practice/target-practice-easy.json
+mods/data/target-practice/target-practice-hard.json
+mods/data/target-practice/target-practice-old.json
+mods/data/target-practice/target-practice.json
+mods/songs/target-practice/Voices.ogg
+mods/songs/target-practice/Inst.ogg

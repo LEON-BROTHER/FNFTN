@@ -1,0 +1,5 @@
+mods/data/tug-of-war/tug-of-war-easy.json
+mods/data/tug-of-war/tug-of-war-hard.json
+mods/data/tug-of-war/tug-of-war.json
+mods/songs/tug-of-war/Voices.ogg
+mods/songs/tug-of-war/Inst.ogg

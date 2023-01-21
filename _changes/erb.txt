@@ -1,0 +1,5 @@
+mods/data/erb/erb-easy.json
+mods/data/erb/erb-hard.json
+mods/data/erb/erb.json
+mods/songs/erb/Voices.ogg
+mods/songs/erb/Inst.ogg

@@ -1,0 +1,3 @@
+mods/data/alone/alone.json
+mods/songs/alone/Voices.ogg
+mods/songs/alone/Inst.ogg
