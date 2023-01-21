@@ -1,6 +1,5 @@
-mods/data/DROWNING/drowning-easy.json
-mods/data/DROWNING/drowning-hard.json
-mods/data/DROWNING/drowning.json
-mods/data/DROWNING/events.json
-mods/songs/DROWNING/Voices.ogg
-mods/songs/DROWNING/Inst.ogg
+mods/data/drowning/drowning-easy.json
+mods/data/drowning/drowning-hard.json
+mods/data/drowning/drowning.json
+mods/songs/drowning/Voices.ogg
+mods/songs/drowning/Inst.ogg

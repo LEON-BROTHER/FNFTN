@@ -1,2 +1,0 @@
-mods/songs/zs_phantom/Voices.ogg
-mods/songs/zs_phantom/Inst.ogg

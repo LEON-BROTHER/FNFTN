@@ -1,3 +1,3 @@
-mods/data/Corrupted-Hero/Corrupted-Hero-corrupted.json
-mods/songs/Corrupted-Hero/Voices.ogg
-mods/songs/Corrupted-Hero/Inst.ogg
+mods/data/corrupted-hero/corrupted-hero-corrupted.json
+mods/songs/corrupted-hero/Voices.ogg
+mods/songs/corrupted-hero/Inst.ogg

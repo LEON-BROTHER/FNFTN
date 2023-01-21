@@ -1,3 +1,5 @@
-F:\output\data\gunshot
-F:\output\songs\guns
-F:\output\songs\gunshot
+mods/data/guns/guns-easy.json
+mods/data/guns/guns-hard.json
+mods/data/guns/guns.json
+mods/songs/guns/Voices.ogg
+mods/songs/guns/Inst.ogg

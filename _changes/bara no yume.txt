@@ -1,2 +1,0 @@
-mods/songs/bara no yume/Voices.ogg
-mods/songs/bara no yume/Inst.ogg

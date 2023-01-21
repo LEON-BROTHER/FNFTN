@@ -1,2 +1,0 @@
-mods/songs/your demise/Voices.ogg
-mods/songs/your demise/Inst.ogg

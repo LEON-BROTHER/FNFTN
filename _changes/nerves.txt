@@ -1,5 +1,3 @@
-mods/data/nerves/dialogue.json
-mods/data/nerves/events.json
 mods/data/nerves/nerves-easy.json
 mods/data/nerves/nerves-hard.json
 mods/data/nerves/nerves.json

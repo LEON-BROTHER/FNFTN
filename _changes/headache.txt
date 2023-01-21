@@ -1,4 +1,3 @@
-mods/data/headache/dialogue.json
 mods/data/headache/headache-easy.json
 mods/data/headache/headache-hard.json
 mods/data/headache/headache.json

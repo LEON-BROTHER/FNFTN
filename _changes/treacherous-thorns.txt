@@ -1,6 +1,6 @@
 mods/data/treacherous-thorns/events.json
 mods/data/treacherous-thorns/treacherous-thorns-easy.json
-mods/data/treacherous-thorns/treacherous-thorns-hard - Copy.json
+mods/data/treacherous-thorns/treacherous-thorns-hard - copy.json
 mods/data/treacherous-thorns/treacherous-thorns-hard.json
 mods/data/treacherous-thorns/treacherous-thorns.json
 mods/songs/treacherous-thorns/Voices.ogg

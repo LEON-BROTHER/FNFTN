@@ -1,1 +1,5 @@
-F:\output\songs\You-Cant-Run
+mods/data/you-cant-run/you-cant-run-easy.json
+mods/data/you-cant-run/you-cant-run-hard.json
+mods/data/you-cant-run/you-cant-run.json
+mods/songs/you-cant-run/Voices.ogg
+mods/songs/you-cant-run/Inst.ogg

@@ -1,4 +1,4 @@
-mods/data/feliz/dialogueEnd.json
+mods/data/feliz/dialogueend.json
 mods/data/feliz/events.json
 mods/data/feliz/feliz-easy.json
 mods/data/feliz/feliz-hard.json

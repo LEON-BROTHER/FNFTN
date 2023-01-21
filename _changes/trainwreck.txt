@@ -1,5 +1,0 @@
-mods/data/trainwreck/trainwreck-hard.json
-mods/data/trainwreck/trainwreck-fucked.json
-mods/data/trainwreck/events.json
-mods/songs/trainwreck/Voices.ogg
-mods/songs/trainwreck/Inst.ogg

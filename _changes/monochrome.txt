@@ -1,4 +1,4 @@
-mods/data/monochrome/monochrome - Copy (2).json
+mods/data/monochrome/monochrome - copy (2).json
 mods/data/monochrome/monochrome-hard.json
 mods/data/monochrome/monochrome.json
 mods/songs/monochrome/Voices.ogg

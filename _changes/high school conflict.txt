@@ -1,2 +1,0 @@
-mods/songs/high school conflict/Voices.ogg
-mods/songs/high school conflict/Inst.ogg

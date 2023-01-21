@@ -1,5 +1,3 @@
-mods/data/fading/dialogue.json
-mods/data/fading/events.json
 mods/data/fading/fading-easy.json
 mods/data/fading/fading-hard.json
 mods/data/fading/fading.json
