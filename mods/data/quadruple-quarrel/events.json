@@ -1,0 +1,689 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "QuadQuar",
+		"player1": "bf",
+		"player2": "runsonic",
+		"player3": null,
+		"events": [
+			[
+				88275.8620689654,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					]
+				]
+			],
+			[
+				99310.3448275861,
+				[
+					[
+						"Change Character",
+						"dad",
+						"runsonic"
+					]
+				]
+			],
+			[
+				104827.586206896,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					]
+				]
+			],
+			[
+				110344.827586207,
+				[
+					[
+						"Change Character",
+						"dad",
+						"runsonic"
+					],
+					[
+						"add character",
+						"1",
+						"tails"
+					]
+				]
+			],
+			[
+				118275.862068965,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118620.689655172,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					],
+					[
+						"remove character",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143448.275862069,
+				[
+					[
+						"add character",
+						"2",
+						"tails,QQknux"
+					],
+					[
+						"Change Character",
+						"dad",
+						"runsonic"
+					],
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153103.448275862,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165520.833333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"knux"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-mirror"
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"remove character",
+						"",
+						""
+					],
+					[
+						"remove character",
+						"",
+						""
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					]
+				]
+			],
+			[
+				175862.068965517,
+				[
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"runsonic"
+					],
+					[
+						"strum swap2",
+						"",
+						""
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"strum swap2",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				176551.724137931,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"add character",
+						"2",
+						"tails,QQknux"
+					]
+				]
+			],
+			[
+				187586.206896552,
+				[
+					[
+						"remove character",
+						"2",
+						"tails,QQknux"
+					],
+					[
+						"remove character",
+						"",
+						""
+					],
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				197241.379310345,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				198620.689655173,
+				[
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sunky"
+					]
+				]
+			],
+			[
+				230344.827586207,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				231724.137931035,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tails"
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				241379.310344828,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				242758.620689656,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"runsonic"
+					],
+					[
+						"add character",
+						"1",
+						"tailspov"
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					]
+				]
+			],
+			[
+				264827.586206897,
+				[
+					[
+						"remove character",
+						"1",
+						"tailspov"
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				285517.241379311,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				286896.551724139,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"BEAST"
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-perspective-right"
+					],
+					[
+						"add character",
+						"1",
+						"tailspov"
+					]
+				]
+			],
+			[
+				296551.724137932,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				307586.206896552,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				308965.51724138,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"remove character",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"sunky"
+					],
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					]
+				]
+			],
+			[
+				329655.172413794,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				331034.482758622,
+				[
+					[
+						"stagechangeQQ",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"eggdick"
+					]
+				]
+			],
+			[
+				379281.905439034,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				379900.462140065,
+				[
+					[
+						"make theQQ static at the bg visible",
+						"dad",
+						"eggdick"
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				399075.719872024,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				438663.348738004,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				439900.462140066,
+				[
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"BEAST"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-perspective-right"
+					],
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					]
+				]
+			],
+			[
+				478250.977603983,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				498038.348738004,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tailspov"
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					],
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				517838.606469963,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				519075.719872025,
+				[
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sunky"
+					]
+				]
+			],
+			[
+				537632.420902953,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				538869.534305015,
+				[
+					[
+						"make theQQ static at the bg visible",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"BEAST"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-perspective-right"
+					],
+					[
+						"TransitionStatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				557426.235335942,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				557426.235335942,
+				[
+					[
+						"longtransitionstatic",
+						"",
+						""
+					]
+				]
+			],
+			[
+				557735.513686458,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						""
+					]
+				]
+			],
+			[
+				558044.792036973,
+				[
+					[
+						"Add Camera Zoom",
+						"0.04",
+						""
+					]
+				]
+			],
+			[
+				558354.070387489,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				558663.348738004,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 174,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "quadruple-quarrel"
+	}
+}

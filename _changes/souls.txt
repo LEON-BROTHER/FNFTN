@@ -1,0 +1,3 @@
+mods/data/souls/souls.json
+mods/songs/souls/Voices.ogg
+mods/songs/souls/Inst.ogg
