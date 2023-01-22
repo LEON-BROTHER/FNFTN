@@ -1,0 +1,2 @@
+mods/songs/arson/Voices.ogg
+mods/songs/arson/Inst.ogg

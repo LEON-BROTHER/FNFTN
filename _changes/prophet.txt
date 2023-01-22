@@ -1,0 +1,3 @@
+mods/data/prophet/prophet-hard.json
+mods/songs/prophet/Voices.ogg
+mods/songs/prophet/Inst.ogg

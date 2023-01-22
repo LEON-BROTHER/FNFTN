@@ -1,0 +1,4 @@
+mods/data/prism/dialogue.json
+mods/data/prism/prism-hard.json
+mods/songs/prism/Voices.ogg
+mods/songs/prism/Inst.ogg

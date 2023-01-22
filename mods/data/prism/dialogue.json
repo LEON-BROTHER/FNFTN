@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "Red1",
+			"speed": 0.02,
+			"portrait": "Thanks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks So Much For Playing The Demo!!!"
+		},
+		{
+			"sound": "Yellow1",
+			"speed": 0.135,
+			"portrait": "Thanks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "Blue1",
+			"speed": 0.015,
+			"portrait": "Thanks",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now Go Play The New Unlocked Extras Week!!!"
+		}
+	]
+}

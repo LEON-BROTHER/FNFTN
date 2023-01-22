@@ -1,0 +1,3 @@
+mods/data/distantfreeze/distantfreeze-hard.json
+mods/songs/distantfreeze/Voices.ogg
+mods/songs/distantfreeze/Inst.ogg

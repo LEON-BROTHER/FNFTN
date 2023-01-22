@@ -1,4 +1,4 @@
 mods/data/remorse/events.json
-mods/data/remorse/remorse-normal.json
+mods/data/remorse/remorse.json
 mods/songs/remorse/Voices.ogg
 mods/songs/remorse/Inst.ogg

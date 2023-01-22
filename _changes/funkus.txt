@@ -1,0 +1,3 @@
+mods/data/funkus/funkus-hard.json
+mods/songs/funkus/Voices.ogg
+mods/songs/funkus/Inst.ogg
