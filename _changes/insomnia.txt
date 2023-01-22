@@ -1,0 +1,4 @@
+mods/data/insomnia/events.json
+mods/data/insomnia/insomnia-hard.json
+mods/songs/insomnia/Voices.ogg
+mods/songs/insomnia/Inst.ogg
