@@ -1,0 +1,6 @@
+mods/data/after-the-ashes/after-the-ashes-easy.json
+mods/data/after-the-ashes/after-the-ashes-glitch.json
+mods/data/after-the-ashes/after-the-ashes-hard.json
+mods/data/after-the-ashes/after-the-ashes.json
+mods/songs/after-the-ashes/Voices.ogg
+mods/songs/after-the-ashes/Inst.ogg

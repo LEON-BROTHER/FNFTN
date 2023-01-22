@@ -1,0 +1,6 @@
+mods/data/salem/salem-easy.json
+mods/data/salem/salem-glitch.json
+mods/data/salem/salem-hard.json
+mods/data/salem/salem.json
+mods/songs/salem/Voices.ogg
+mods/songs/salem/Inst.ogg

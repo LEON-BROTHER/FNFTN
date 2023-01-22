@@ -1,0 +1,3 @@
+mods/data/father-time/father-time-hard.json
+mods/songs/father-time/Voices.ogg
+mods/songs/father-time/Inst.ogg

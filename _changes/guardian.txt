@@ -1,0 +1,6 @@
+mods/data/guardian/guardian-easy.json
+mods/data/guardian/guardian-glitch.json
+mods/data/guardian/guardian-hard.json
+mods/data/guardian/guardian.json
+mods/songs/guardian/Voices.ogg
+mods/songs/guardian/Inst.ogg
