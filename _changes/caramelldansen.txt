@@ -1,0 +1,3 @@
+mods/data/caramelldansen/caramelldansen.json
+mods/songs/caramelldansen/Voices.ogg
+mods/songs/caramelldansen/Inst.ogg
