@@ -1,0 +1,4 @@
+mods/data/roadkill/roadkill-fucked.json
+mods/data/roadkill/roadkill-hard.json
+mods/songs/roadkill/Voices.ogg
+mods/songs/roadkill/Inst.ogg

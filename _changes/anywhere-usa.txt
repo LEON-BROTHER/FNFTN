@@ -1,0 +1,3 @@
+mods/data/anywhere-usa/anywhere-usa-hard.json
+mods/songs/anywhere-usa/Voices.ogg
+mods/songs/anywhere-usa/Inst.ogg
