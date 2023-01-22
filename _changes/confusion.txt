@@ -1,0 +1,5 @@
+mods/data/confusion/confusion-easy.json
+mods/data/confusion/confusion-hard.json
+mods/data/confusion/confusion.json
+mods/songs/confusion/Voices.ogg
+mods/songs/confusion/Inst.ogg

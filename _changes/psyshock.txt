@@ -1,0 +1,5 @@
+mods/data/psyshock/psyshock-easy.json
+mods/data/psyshock/psyshock-hard.json
+mods/data/psyshock/psyshock.json
+mods/songs/psyshock/Voices.ogg
+mods/songs/psyshock/Inst.ogg
