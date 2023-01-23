@@ -1,0 +1,4 @@
+mods/data/2beep2meow/2beep2meow.json
+mods/data/2beep2meow/events.json
+mods/songs/2beep2meow/Voices.ogg
+mods/songs/2beep2meow/Inst.ogg

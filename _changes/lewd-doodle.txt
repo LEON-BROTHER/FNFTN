@@ -1,0 +1,4 @@
+mods/data/lewd-doodle/events.json
+mods/data/lewd-doodle/lewd-doodle.json
+mods/songs/lewd-doodle/Voices.ogg
+mods/songs/lewd-doodle/Inst.ogg
