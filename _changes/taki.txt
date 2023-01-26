@@ -1,3 +1,0 @@
-mods/data/taki/taki.json
-mods/songs/taki/Voices.ogg
-mods/songs/taki/Inst.ogg
