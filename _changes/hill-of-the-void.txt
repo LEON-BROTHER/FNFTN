@@ -1,0 +1,3 @@
+mods/data/hill-of-the-void/hill-of-the-void.json
+mods/songs/hill-of-the-void/Voices.ogg
+mods/songs/hill-of-the-void/Inst.ogg
