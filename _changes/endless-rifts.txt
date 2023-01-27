@@ -1,0 +1,3 @@
+mods/data/endless-rifts/endless-rifts.json
+mods/songs/endless-rifts/Voices.ogg
+mods/songs/endless-rifts/Inst.ogg

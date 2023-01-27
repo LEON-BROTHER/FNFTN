@@ -1,0 +1,3 @@
+mods/data/mild-mania/mild-mania.json
+mods/songs/mild-mania/Voices.ogg
+mods/songs/mild-mania/Inst.ogg

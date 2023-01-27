@@ -1,0 +1,5 @@
+mods/data/storm/storm-easy.json
+mods/data/storm/storm-hard.json
+mods/data/storm/storm.json
+mods/songs/storm/Voices.ogg
+mods/songs/storm/Inst.ogg

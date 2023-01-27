@@ -1,0 +1,3 @@
+mods/data/sunk-bomber/sunk-bomber.json
+mods/songs/sunk-bomber/Voices.ogg
+mods/songs/sunk-bomber/Inst.ogg
