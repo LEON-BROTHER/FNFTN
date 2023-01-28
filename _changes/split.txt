@@ -1,0 +1,6 @@
+mods/data/split/split-easy.json
+mods/data/split/split-ex.json
+mods/data/split/split-hard.json
+mods/data/split/split.json
+mods/songs/split/Voices.ogg
+mods/songs/split/Inst.ogg
