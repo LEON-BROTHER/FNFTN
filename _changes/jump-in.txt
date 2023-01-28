@@ -1,5 +1,4 @@
 mods/data/jump-in/jump-in-easy.json
-mods/data/jump-in/jump-in-ex.json
 mods/data/jump-in/jump-in-hard.json
 mods/data/jump-in/jump-in.json
 mods/songs/jump-in/Voices.ogg

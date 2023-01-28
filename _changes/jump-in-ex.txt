@@ -1,0 +1,3 @@
+mods/data/jump-in-ex/jump-in-ex.json
+mods/songs/jump-in-ex/Voices.ogg
+mods/songs/jump-in-ex/Inst.ogg

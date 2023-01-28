@@ -1,0 +1,3 @@
+mods/data/swing-ex/swing-ex.json
+mods/songs/swing-ex/Voices.ogg
+mods/songs/swing-ex/Inst.ogg

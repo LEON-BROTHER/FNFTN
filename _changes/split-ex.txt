@@ -1,0 +1,3 @@
+mods/data/split-ex/split-ex.json
+mods/songs/split-ex/Voices.ogg
+mods/songs/split-ex/Inst.ogg
