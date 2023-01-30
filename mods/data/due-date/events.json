@@ -1,0 +1,200 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "dreamland",
+		"player1": "bf-kirby",
+		"player2": "kirby",
+		"player3": null,
+		"events": [
+			[
+				24000,
+				[
+					[
+						"duedateswitchstage",
+						"switchdxn",
+						""
+					]
+				]
+			],
+			[
+				34105.2631578947,
+				[
+					[
+						"duedateswitchstage",
+						"switchnxd",
+						""
+					]
+				]
+			],
+			[
+				36631.5789473684,
+				[
+					[
+						"duedateswitchstage",
+						"switchdxn",
+						""
+					]
+				]
+			],
+			[
+				51789.4736842105,
+				[
+					[
+						"duedateswitchstage",
+						"switchnxd",
+						""
+					]
+				]
+			],
+			[
+				82736.8421052631,
+				[
+					[
+						"Cinematic Mode",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kirbylaugh"
+					],
+					[
+						"duedateswitchstage",
+						"switchdxn",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"25",
+						"100"
+					],
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				84394.7368421052,
+				[
+					[
+						"",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				84947.3684210526,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				85499.9999999999,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				86052.6315789473,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				86605.2631578947,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				87078.947368421,
+				[
+					[
+						"Cinematic Mode",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"mr-miller"
+					],
+					[
+						"duedateswitchstage",
+						"B",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				87157.894736842,
+				[
+					[
+						"Change Scroll Speed",
+						"1.06",
+						"0"
+					]
+				]
+			],
+			[
+				147789.473684211,
+				[
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": null,
+		"song": "Due-Date"
+	}
+}

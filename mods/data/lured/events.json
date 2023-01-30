@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "caveidfk",
+		"player1": "bf",
+		"player2": "angler jaw",
+		"player3": null,
+		"events": [
+			[
+				857.142857142857,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1800,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40371.4285714286,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41400,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63857.1428571429,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103457.142857143,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				104571.428571428,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": true,
+		"song": "Lured"
+	}
+}

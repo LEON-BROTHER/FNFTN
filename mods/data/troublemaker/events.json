@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				5647.05882352941,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					],
+					[
+						"Play Animation",
+						"phone",
+						"BF"
+					]
+				]
+			],
+			[
+				9529.41176470588,
+				[
+					[
+						"Change Character",
+						"BF",
+						"girl"
+					],
+					[
+						"the pico appears",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

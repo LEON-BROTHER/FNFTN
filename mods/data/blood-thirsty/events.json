@@ -1,0 +1,180 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "chemicalplant",
+		"player1": "bf",
+		"player2": "tankman",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				315.789473684211,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				631.578947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				947.368421052632,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						"0.090"
+					]
+				]
+			],
+			[
+				36631.5789473684,
+				[
+					[
+						"Change default camera zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				46736.8421052631,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				51789.4736842105,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				56526.3157894737,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				71999.9999999999,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				73263.1578947368,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				74526.3157894736,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				75789.4736842105,
+				[
+					[
+						"Change default camera zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				77052.6315789473,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				92210.5263157894,
+				[
+					[
+						"Change default camera zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				113684.210526316,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": false,
+		"song": "Blood Thirsty"
+	}
+}

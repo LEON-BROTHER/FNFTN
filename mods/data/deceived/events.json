@@ -1,0 +1,340 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "skinsuit",
+		"player1": "bf",
+		"player2": "skinsuit",
+		"player3": null,
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						""
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				36800,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37200,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				37600,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				76400,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				88000,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				89400,
+				[
+					[
+						"Hey!",
+						"BF",
+						"1"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				113600,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				114400,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				114800,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				116800,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": true,
+		"song": "Deceived"
+	}
+}

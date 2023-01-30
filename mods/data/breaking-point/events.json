@@ -1,0 +1,370 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "darksonic",
+		"player1": "bf",
+		"player2": "Dark_Sonic",
+		"player3": null,
+		"events": [
+			[
+				21333.3333333333,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22000,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				22666.6666666667,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60130.081300813,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				60788.6178861788,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				61886.1788617886,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				63056.9105691056,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				64227.6422764227,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				65398.3739837398,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				66569.1056910569,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				67739.8373983739,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				68910.569105691,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				70081.3008130081,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				71252.0325203251,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				72422.7642276422,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				73593.4959349593,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				74764.2276422764,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				75934.9593495934,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				77105.6910569105,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				78276.4227642276,
+				[
+					[
+						"Add Camera Zoom",
+						"0.090",
+						""
+					]
+				]
+			],
+			[
+				78861.7886178861,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				83544.7154471544,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				84130.0813008129,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				88227.6422764227,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				92910.5691056909,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				97593.4959349592,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116325.203252032,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				116910.569105691,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				117495.934959349,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136227.642276423,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				153788.617886179,
+				[
+					[
+						"Change default camera zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				154373.983739837,
+				[
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				154959.349593496,
+				[
+					[
+						"Change default camera zoom",
+						"1.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"enablecharacterselect": null,
+		"song": "Breaking Point"
+	}
+}

@@ -1,0 +1,6 @@
+mods/data/restart/events.json
+mods/data/restart/restart-easy.json
+mods/data/restart/restart-hard.json
+mods/data/restart/restart.json
+mods/songs/restart/Voices.ogg
+mods/songs/restart/Inst.ogg

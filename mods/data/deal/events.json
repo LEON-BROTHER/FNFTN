@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "peezone",
+		"player1": "bf",
+		"player2": "obama",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Lyric",
+						"To Do: Change the chrom so he doesn't sound like spongebob lmao. Also maybe add some cool color effects idk. And I think the events are gone???? The flashbang thing doesn't pop up lmao.",
+						"25"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": true,
+		"song": "Deal"
+	}
+}

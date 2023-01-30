@@ -1,0 +1,230 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "dreamland",
+		"player1": "bf-kirby",
+		"player2": "kirby",
+		"player3": null,
+		"events": [
+			[
+				2625,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"duedateswitchstage",
+						"switchdxn",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"0.83",
+						""
+					]
+				]
+			],
+			[
+				12900,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"duedateswitchstage",
+						"B",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"mr-miller"
+					],
+					[
+						"Change default camera zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				125863.636363636,
+				[
+					[
+						"Change Character",
+						"dad",
+						"kirby"
+					],
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"duedateswitchstage",
+						"switchnxd",
+						""
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				146386.363636363,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"kirbyglitch"
+					],
+					[
+						"Lyric",
+						"Taken away by god.",
+						"1.5"
+					],
+					[
+						"duedateswitchstage",
+						"switchdxn",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"1.3",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"0",
+						"50"
+					]
+				]
+			],
+			[
+				148840.909090909,
+				[
+					[
+						"Lyric",
+						"Nothing will bring him back.",
+						"2"
+					]
+				]
+			],
+			[
+				156613.636363636,
+				[
+					[
+						"Lyric",
+						"Now that I've dealt my hand.",
+						"1"
+					]
+				]
+			],
+			[
+				157704.545454545,
+				[
+					[
+						"Cinematic Mode",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				159136.363636363,
+				[
+					[
+						"Lyric",
+						"You'll see who I truly am.",
+						"2"
+					],
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"kirbylaugh"
+					]
+				]
+			],
+			[
+				161727.272727273,
+				[
+					[
+						"Cinematic Mode",
+						"1",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"duedateswitchstage",
+						"B",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"mr-miller"
+					]
+				]
+			],
+			[
+				171978.609625668,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 187,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": null,
+		"song": "Archived"
+	}
+}

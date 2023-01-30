@@ -1,0 +1,100 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "greenhill",
+		"player1": "bf",
+		"player2": "sonicexe",
+		"player3": null,
+		"events": [
+			[
+				20210.5263157895,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				20526.3157894737,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				22736.8421052632,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				63157.8947368421,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				73263.1578947368,
+				[
+					[
+						"Change default camera zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104842.105263158,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				145263.157894737,
+				[
+					[
+						"Change default camera zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				147789.473684211,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": null,
+		"song": "Uncontrolled"
+	}
+}

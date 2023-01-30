@@ -1,0 +1,90 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "mario",
+		"player1": "mario",
+		"player2": "smario",
+		"player3": null,
+		"events": [
+			[
+				11906.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.20",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"flashbang",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36750,
+				[
+					[
+						"Cinematic Mode",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				39006.5789473684,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						""
+					],
+					[
+						"flashbang",
+						"",
+						""
+					],
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					],
+					[
+						"Cinematic Mode",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": null,
+		"song": "Personalized"
+	}
+}

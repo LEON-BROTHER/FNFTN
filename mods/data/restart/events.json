@@ -1,0 +1,120 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "restart",
+		"player1": "bf",
+		"player2": "restartexe",
+		"player3": null,
+		"events": [
+			[
+				54975,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				83700,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				86181.8181818182,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				105613.636363636,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				109977.272727273,
+				[
+					[
+						"Change default camera zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				112363.636363636,
+				[
+					[
+						"Change default camera zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"enablecharacterselect": true,
+		"song": "Restart"
+	}
+}
