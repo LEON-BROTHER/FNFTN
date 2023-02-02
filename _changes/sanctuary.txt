@@ -1,0 +1,6 @@
+mods/data/sanctuary/events.json
+mods/data/sanctuary/sanctuary-easy.json
+mods/data/sanctuary/sanctuary-hard.json
+mods/data/sanctuary/sanctuary.json
+mods/songs/sanctuary/Voices.ogg
+mods/songs/sanctuary/Inst.ogg

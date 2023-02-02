@@ -1,0 +1,6 @@
+mods/data/meowgen/events.json
+mods/data/meowgen/meowgen-easy.json
+mods/data/meowgen/meowgen-hard.json
+mods/data/meowgen/meowgen.json
+mods/songs/meowgen/Voices.ogg
+mods/songs/meowgen/Inst.ogg

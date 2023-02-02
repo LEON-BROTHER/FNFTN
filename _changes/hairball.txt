@@ -1,0 +1,7 @@
+mods/data/hairball/dialogue.json
+mods/data/hairball/events.json
+mods/data/hairball/hairball-easy.json
+mods/data/hairball/hairball-hard.json
+mods/data/hairball/hairball.json
+mods/songs/hairball/Voices.ogg
+mods/songs/hairball/Inst.ogg

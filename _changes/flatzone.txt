@@ -1,0 +1,5 @@
+mods/data/flatzone/flatzone-easy.json
+mods/data/flatzone/flatzone-hard.json
+mods/data/flatzone/flatzone.json
+mods/songs/flatzone/Voices.ogg
+mods/songs/flatzone/Inst.ogg
