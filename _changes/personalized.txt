@@ -4,3 +4,5 @@ mods/data/personalized/personalized-hard.json
 mods/data/personalized/personalized.json
 mods/songs/personalized/Voices.ogg
 mods/songs/personalized/Inst.ogg
+mods/songs/personalized/voices.ogg
+mods/songs/personalized/inst.ogg

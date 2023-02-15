@@ -3,3 +3,5 @@ mods/data/philly-starcatcher/philly-starcatcher-hard.json
 mods/data/philly-starcatcher/philly-starcatcher.json
 mods/songs/philly-starcatcher/Voices.ogg
 mods/songs/philly-starcatcher/Inst.ogg
+mods/songs/philly-starcatcher/voices.ogg
+mods/songs/philly-starcatcher/inst.ogg

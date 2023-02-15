@@ -1,3 +1,5 @@
 mods/data/forbidden-star/forbidden-star.json
 mods/songs/forbidden-star/Voices.ogg
 mods/songs/forbidden-star/Inst.ogg
+mods/songs/forbidden-star/voices.ogg
+mods/songs/forbidden-star/inst.ogg

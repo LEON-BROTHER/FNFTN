@@ -1,3 +1,5 @@
 mods/data/chiller/chiller.json
 mods/songs/chiller/Voices.ogg
 mods/songs/chiller/Inst.ogg
+mods/songs/chiller/voices.ogg
+mods/songs/chiller/inst.ogg

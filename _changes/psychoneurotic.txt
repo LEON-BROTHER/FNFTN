@@ -4,3 +4,5 @@ mods/data/psychoneurotic/psychoneurotic.json
 mods/data/psychoneurotic/psychoneurotic_expert.json
 mods/songs/psychoneurotic/Voices.ogg
 mods/songs/psychoneurotic/Inst.ogg
+mods/songs/psychoneurotic/voices.ogg
+mods/songs/psychoneurotic/inst.ogg

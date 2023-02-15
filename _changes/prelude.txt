@@ -4,3 +4,5 @@ mods/data/prelude/prelude-hard.json
 mods/data/prelude/prelude.json
 mods/songs/prelude/Voices.ogg
 mods/songs/prelude/Inst.ogg
+mods/songs/prelude/voices.ogg
+mods/songs/prelude/inst.ogg

@@ -4,3 +4,5 @@ mods/data/pyoro/pyoro-hard.json
 mods/data/pyoro/pyoro.json
 mods/songs/pyoro/Voices.ogg
 mods/songs/pyoro/Inst.ogg
+mods/songs/pyoro/voices.ogg
+mods/songs/pyoro/inst.ogg

@@ -3,3 +3,5 @@ mods/data/fresh-duet/fresh-duet-hard.json
 mods/data/fresh-duet/fresh-duet.json
 mods/songs/fresh-duet/Voices.ogg
 mods/songs/fresh-duet/Inst.ogg
+mods/songs/fresh-duet/voices.ogg
+mods/songs/fresh-duet/inst.ogg

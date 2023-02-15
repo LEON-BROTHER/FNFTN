@@ -3,3 +3,5 @@ mods/data/whats-new/whats-new-shaggy-canon.json
 mods/data/whats-new/whats-new-shaggy-easy.json
 mods/songs/whats-new/Voices.ogg
 mods/songs/whats-new/Inst.ogg
+mods/songs/whats-new/voices.ogg
+mods/songs/whats-new/inst.ogg

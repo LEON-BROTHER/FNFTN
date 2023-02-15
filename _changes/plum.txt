@@ -4,3 +4,5 @@ mods/data/plum/plum-hard.json
 mods/data/plum/plum.json
 mods/songs/plum/Voices.ogg
 mods/songs/plum/Inst.ogg
+mods/songs/plum/voices.ogg
+mods/songs/plum/inst.ogg

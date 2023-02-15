@@ -3,3 +3,5 @@ mods/data/pentafluoride/pentafluoride-hard.json
 mods/data/pentafluoride/pentafluoride.json
 mods/songs/pentafluoride/Voices.ogg
 mods/songs/pentafluoride/Inst.ogg
+mods/songs/pentafluoride/voices.ogg
+mods/songs/pentafluoride/inst.ogg

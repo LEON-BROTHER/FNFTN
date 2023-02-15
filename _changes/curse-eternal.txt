@@ -4,3 +4,5 @@ mods/data/curse-eternal/curse-eternal-hard.json
 mods/data/curse-eternal/curse-eternal.json
 mods/songs/curse-eternal/Voices.ogg
 mods/songs/curse-eternal/Inst.ogg
+mods/songs/curse-eternal/voices.ogg
+mods/songs/curse-eternal/inst.ogg

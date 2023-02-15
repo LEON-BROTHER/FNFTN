@@ -2,3 +2,5 @@ mods/data/racetraitors/events.json
 mods/data/racetraitors/racetraitors.json
 mods/songs/racetraitors/Voices.ogg
 mods/songs/racetraitors/Inst.ogg
+mods/songs/racetraitors/voices.ogg
+mods/songs/racetraitors/inst.ogg

@@ -3,3 +3,5 @@ mods/data/crucify-(yuri-mix)/crucify-(yuri-mix)-hard.json
 mods/data/crucify-(yuri-mix)/crucify-(yuri-mix).json
 mods/songs/crucify-(yuri-mix)/Voices.ogg
 mods/songs/crucify-(yuri-mix)/Inst.ogg
+mods/songs/crucify-(yuri-mix)/voices.ogg
+mods/songs/crucify-(yuri-mix)/inst.ogg

@@ -6,3 +6,5 @@ mods/data/ballistic/dialogue.json
 mods/data/ballistic/events.json
 mods/songs/ballistic/Voices.ogg
 mods/songs/ballistic/Inst.ogg
+mods/songs/ballistic/voices.ogg
+mods/songs/ballistic/inst.ogg

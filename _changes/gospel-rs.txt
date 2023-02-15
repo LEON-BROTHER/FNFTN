@@ -3,3 +3,5 @@ mods/data/gospel-rs/gospel-rs-hard.json
 mods/data/gospel-rs/gospel-rs.json
 mods/songs/gospel-rs/Voices.ogg
 mods/songs/gospel-rs/Inst.ogg
+mods/songs/gospel-rs/voices.ogg
+mods/songs/gospel-rs/inst.ogg

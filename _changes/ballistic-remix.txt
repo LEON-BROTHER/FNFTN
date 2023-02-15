@@ -4,3 +4,5 @@ mods/data/ballistic-remix/ballistic-remix.json
 mods/data/ballistic-remix/events.json
 mods/songs/ballistic-remix/Voices.ogg
 mods/songs/ballistic-remix/Inst.ogg
+mods/songs/ballistic-remix/voices.ogg
+mods/songs/ballistic-remix/inst.ogg

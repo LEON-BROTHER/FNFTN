@@ -3,3 +3,5 @@ mods/data/popipo/popipo-hard.json
 mods/data/popipo/popipo.json
 mods/songs/popipo/Voices.ogg
 mods/songs/popipo/Inst.ogg
+mods/songs/popipo/voices.ogg
+mods/songs/popipo/inst.ogg

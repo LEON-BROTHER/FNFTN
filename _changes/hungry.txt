@@ -4,3 +4,5 @@ mods/data/hungry/hungry-hard.json
 mods/data/hungry/hungry.json
 mods/songs/hungry/Voices.ogg
 mods/songs/hungry/Inst.ogg
+mods/songs/hungry/voices.ogg
+mods/songs/hungry/inst.ogg

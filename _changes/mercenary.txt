@@ -4,3 +4,5 @@ mods/data/mercenary/mercenary-hard.json
 mods/data/mercenary/mercenary.json
 mods/songs/mercenary/Voices.ogg
 mods/songs/mercenary/Inst.ogg
+mods/songs/mercenary/voices.ogg
+mods/songs/mercenary/inst.ogg

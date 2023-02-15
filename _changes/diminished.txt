@@ -3,3 +3,5 @@ mods/data/diminished/diminished-hard.json
 mods/data/diminished/diminished.json
 mods/songs/diminished/Voices.ogg
 mods/songs/diminished/Inst.ogg
+mods/songs/diminished/voices.ogg
+mods/songs/diminished/inst.ogg

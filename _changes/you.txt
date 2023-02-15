@@ -6,3 +6,5 @@ mods/data/you/you-hard.json
 mods/data/you/you.json
 mods/songs/you/Voices.ogg
 mods/songs/you/Inst.ogg
+mods/songs/you/voices.ogg
+mods/songs/you/inst.ogg

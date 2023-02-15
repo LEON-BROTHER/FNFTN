@@ -4,3 +4,5 @@ mods/data/spine-crusher/spine-crusher-hard.json
 mods/data/spine-crusher/spine-crusher.json
 mods/songs/spine-crusher/Voices.ogg
 mods/songs/spine-crusher/Inst.ogg
+mods/songs/spine-crusher/voices.ogg
+mods/songs/spine-crusher/inst.ogg

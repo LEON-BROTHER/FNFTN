@@ -3,3 +3,5 @@ mods/data/blammed-starcatcher/blammed-starcatcher-hard.json
 mods/data/blammed-starcatcher/blammed-starcatcher.json
 mods/songs/blammed-starcatcher/Voices.ogg
 mods/songs/blammed-starcatcher/Inst.ogg
+mods/songs/blammed-starcatcher/voices.ogg
+mods/songs/blammed-starcatcher/inst.ogg

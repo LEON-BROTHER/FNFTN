@@ -3,3 +3,5 @@ mods/data/tutorial-neo/tutorial-neo-hard.json
 mods/data/tutorial-neo/tutorial-neo.json
 mods/songs/tutorial-neo/Voices.ogg
 mods/songs/tutorial-neo/Inst.ogg
+mods/songs/tutorial-neo/voices.ogg
+mods/songs/tutorial-neo/inst.ogg

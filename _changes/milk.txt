@@ -3,3 +3,5 @@ mods/data/milk/milk-hard.json
 mods/data/milk/milk.json
 mods/songs/milk/Voices.ogg
 mods/songs/milk/Inst.ogg
+mods/songs/milk/voices.ogg
+mods/songs/milk/inst.ogg

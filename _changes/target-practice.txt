@@ -4,3 +4,5 @@ mods/data/target-practice/target-practice-old.json
 mods/data/target-practice/target-practice.json
 mods/songs/target-practice/Voices.ogg
 mods/songs/target-practice/Inst.ogg
+mods/songs/target-practice/voices.ogg
+mods/songs/target-practice/inst.ogg

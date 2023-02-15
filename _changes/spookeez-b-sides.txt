@@ -3,3 +3,5 @@ mods/data/spookeez-b-sides/spookeez-b-sides-hard.json
 mods/data/spookeez-b-sides/spookeez-b-sides.json
 mods/songs/spookeez-b-sides/Voices.ogg
 mods/songs/spookeez-b-sides/Inst.ogg
+mods/songs/spookeez-b-sides/voices.ogg
+mods/songs/spookeez-b-sides/inst.ogg

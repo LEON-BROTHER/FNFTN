@@ -2,3 +2,5 @@ mods/data/deceived/deceived-hard.json
 mods/data/deceived/events.json
 mods/songs/deceived/Voices.ogg
 mods/songs/deceived/Inst.ogg
+mods/songs/deceived/voices.ogg
+mods/songs/deceived/inst.ogg

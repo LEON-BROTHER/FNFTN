@@ -4,3 +4,5 @@ mods/data/smoked/smoked-hard.json
 mods/data/smoked/smoked.json
 mods/songs/smoked/Voices.ogg
 mods/songs/smoked/Inst.ogg
+mods/songs/smoked/voices.ogg
+mods/songs/smoked/inst.ogg

@@ -3,3 +3,5 @@ mods/data/bloom/bloom-hard.json
 mods/data/bloom/bloom.json
 mods/songs/bloom/Voices.ogg
 mods/songs/bloom/Inst.ogg
+mods/songs/bloom/voices.ogg
+mods/songs/bloom/inst.ogg

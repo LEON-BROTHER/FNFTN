@@ -1,3 +1,5 @@
 mods/data/thriller-gen/thriller-gen.json
 mods/songs/thriller-gen/Voices.ogg
 mods/songs/thriller-gen/Inst.ogg
+mods/songs/thriller-gen/voices.ogg
+mods/songs/thriller-gen/inst.ogg

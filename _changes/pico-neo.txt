@@ -3,3 +3,5 @@ mods/data/pico-neo/pico-neo-hard.json
 mods/data/pico-neo/pico-neo.json
 mods/songs/pico-neo/Voices.ogg
 mods/songs/pico-neo/Inst.ogg
+mods/songs/pico-neo/voices.ogg
+mods/songs/pico-neo/inst.ogg

@@ -2,3 +2,5 @@ mods/data/final-escape/events.json
 mods/data/final-escape/final-escape-run.json
 mods/songs/final-escape/Voices.ogg
 mods/songs/final-escape/Inst.ogg
+mods/songs/final-escape/voices.ogg
+mods/songs/final-escape/inst.ogg

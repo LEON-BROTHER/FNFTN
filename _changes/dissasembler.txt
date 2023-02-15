@@ -4,3 +4,5 @@ mods/data/dissasembler/dissasembler-shaggy-easy.json
 mods/data/dissasembler/events.json
 mods/songs/dissasembler/Voices.ogg
 mods/songs/dissasembler/Inst.ogg
+mods/songs/dissasembler/voices.ogg
+mods/songs/dissasembler/inst.ogg

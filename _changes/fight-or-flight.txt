@@ -3,3 +3,5 @@ mods/data/fight-or-flight/fight-or-flight-hard.json
 mods/data/fight-or-flight/fight-or-flight.json
 mods/songs/fight-or-flight/Voices.ogg
 mods/songs/fight-or-flight/Inst.ogg
+mods/songs/fight-or-flight/voices.ogg
+mods/songs/fight-or-flight/inst.ogg

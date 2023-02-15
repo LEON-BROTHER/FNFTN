@@ -4,3 +4,5 @@ mods/data/nonsense/nonsense-hard.json
 mods/data/nonsense/nonsense.json
 mods/songs/nonsense/Voices.ogg
 mods/songs/nonsense/Inst.ogg
+mods/songs/nonsense/voices.ogg
+mods/songs/nonsense/inst.ogg

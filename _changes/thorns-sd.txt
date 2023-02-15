@@ -3,3 +3,5 @@ mods/data/thorns-sd/thorns-sd-hard.json
 mods/data/thorns-sd/thorns-sd.json
 mods/songs/thorns-sd/Voices.ogg
 mods/songs/thorns-sd/Inst.ogg
+mods/songs/thorns-sd/voices.ogg
+mods/songs/thorns-sd/inst.ogg

@@ -4,3 +4,5 @@ mods/data/sanctuary/sanctuary-hard.json
 mods/data/sanctuary/sanctuary.json
 mods/songs/sanctuary/Voices.ogg
 mods/songs/sanctuary/Inst.ogg
+mods/songs/sanctuary/voices.ogg
+mods/songs/sanctuary/inst.ogg

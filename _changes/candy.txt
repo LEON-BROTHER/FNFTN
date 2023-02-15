@@ -4,3 +4,5 @@ mods/data/candy/candy.json
 mods/data/candy/events.json
 mods/songs/candy/Voices.ogg
 mods/songs/candy/Inst.ogg
+mods/songs/candy/voices.ogg
+mods/songs/candy/inst.ogg

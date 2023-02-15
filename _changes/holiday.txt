@@ -5,3 +5,5 @@ mods/data/holiday/holiday-hard.json
 mods/data/holiday/holiday.json
 mods/songs/holiday/Voices.ogg
 mods/songs/holiday/Inst.ogg
+mods/songs/holiday/voices.ogg
+mods/songs/holiday/inst.ogg

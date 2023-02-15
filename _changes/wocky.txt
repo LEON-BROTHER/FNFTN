@@ -4,3 +4,5 @@ mods/data/wocky/wocky-hard.json
 mods/data/wocky/wocky.json
 mods/songs/wocky/Voices.ogg
 mods/songs/wocky/Inst.ogg
+mods/songs/wocky/voices.ogg
+mods/songs/wocky/inst.ogg

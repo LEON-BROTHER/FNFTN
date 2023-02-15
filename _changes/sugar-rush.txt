@@ -3,3 +3,5 @@ mods/data/sugar-rush/sugar-rush-hard.json
 mods/data/sugar-rush/sugar-rush.json
 mods/songs/sugar-rush/Voices.ogg
 mods/songs/sugar-rush/Inst.ogg
+mods/songs/sugar-rush/voices.ogg
+mods/songs/sugar-rush/inst.ogg

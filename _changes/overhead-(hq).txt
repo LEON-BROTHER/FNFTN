@@ -5,3 +5,5 @@ mods/data/overhead-(hq)/overhead-(hq)-hard.json
 mods/data/overhead-(hq)/overhead-(hq).json
 mods/songs/overhead-(hq)/Voices.ogg
 mods/songs/overhead-(hq)/Inst.ogg
+mods/songs/overhead-(hq)/voices.ogg
+mods/songs/overhead-(hq)/inst.ogg

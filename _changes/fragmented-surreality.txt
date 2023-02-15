@@ -4,3 +4,5 @@ mods/data/fragmented-surreality/fragmented-surreality-hard.json
 mods/data/fragmented-surreality/fragmented-surreality.json
 mods/songs/fragmented-surreality/Voices.ogg
 mods/songs/fragmented-surreality/Inst.ogg
+mods/songs/fragmented-surreality/voices.ogg
+mods/songs/fragmented-surreality/inst.ogg

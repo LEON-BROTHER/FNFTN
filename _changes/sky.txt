@@ -3,3 +3,5 @@ mods/data/sky/sky-hard.json
 mods/data/sky/sky.json
 mods/songs/sky/Voices.ogg
 mods/songs/sky/Inst.ogg
+mods/songs/sky/voices.ogg
+mods/songs/sky/inst.ogg

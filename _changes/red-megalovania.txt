@@ -5,3 +5,5 @@ mods/data/red-megalovania/red-megalovania-hard.json
 mods/data/red-megalovania/red-megalovania.json
 mods/songs/red-megalovania/Voices.ogg
 mods/songs/red-megalovania/Inst.ogg
+mods/songs/red-megalovania/voices.ogg
+mods/songs/red-megalovania/inst.ogg

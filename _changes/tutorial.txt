@@ -4,3 +4,5 @@ mods/data/tutorial/tutorial-hard.json
 mods/data/tutorial/tutorial.json
 mods/songs/tutorial/Voices.ogg
 mods/songs/tutorial/Inst.ogg
+mods/songs/tutorial/voices.ogg
+mods/songs/tutorial/inst.ogg

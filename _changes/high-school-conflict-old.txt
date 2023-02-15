@@ -3,3 +3,5 @@ mods/data/high-school-conflict-old/high-school-conflict-old-hard.json
 mods/data/high-school-conflict-old/high-school-conflict-old.json
 mods/songs/high-school-conflict-old/Voices.ogg
 mods/songs/high-school-conflict-old/Inst.ogg
+mods/songs/high-school-conflict-old/voices.ogg
+mods/songs/high-school-conflict-old/inst.ogg

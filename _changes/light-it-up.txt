@@ -4,3 +4,5 @@ mods/data/light-it-up/light-it-up-old.json
 mods/data/light-it-up/light-it-up.json
 mods/songs/light-it-up/Voices.ogg
 mods/songs/light-it-up/Inst.ogg
+mods/songs/light-it-up/voices.ogg
+mods/songs/light-it-up/inst.ogg

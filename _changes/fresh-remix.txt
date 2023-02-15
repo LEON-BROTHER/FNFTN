@@ -3,3 +3,5 @@ mods/data/fresh-remix/fresh-remix-hard.json
 mods/data/fresh-remix/fresh-remix.json
 mods/songs/fresh-remix/Voices.ogg
 mods/songs/fresh-remix/Inst.ogg
+mods/songs/fresh-remix/voices.ogg
+mods/songs/fresh-remix/inst.ogg

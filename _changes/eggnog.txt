@@ -4,3 +4,5 @@ mods/data/eggnog/eggnog.json
 mods/data/eggnog/events.json
 mods/songs/eggnog/Voices.ogg
 mods/songs/eggnog/Inst.ogg
+mods/songs/eggnog/voices.ogg
+mods/songs/eggnog/inst.ogg

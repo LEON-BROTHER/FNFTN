@@ -3,3 +3,5 @@ mods/data/thorns-b-sides-duet/thorns-b-sides-duet-hard.json
 mods/data/thorns-b-sides-duet/thorns-b-sides-duet.json
 mods/songs/thorns-b-sides-duet/Voices.ogg
 mods/songs/thorns-b-sides-duet/Inst.ogg
+mods/songs/thorns-b-sides-duet/voices.ogg
+mods/songs/thorns-b-sides-duet/inst.ogg

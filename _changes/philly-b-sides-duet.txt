@@ -3,3 +3,5 @@ mods/data/philly-b-sides-duet/philly-b-sides-duet-hard.json
 mods/data/philly-b-sides-duet/philly-b-sides-duet.json
 mods/songs/philly-b-sides-duet/Voices.ogg
 mods/songs/philly-b-sides-duet/Inst.ogg
+mods/songs/philly-b-sides-duet/voices.ogg
+mods/songs/philly-b-sides-duet/inst.ogg

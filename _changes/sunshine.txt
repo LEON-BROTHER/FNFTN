@@ -3,3 +3,5 @@ mods/data/sunshine/sunshine-hard.json
 mods/data/sunshine/sunshine.json
 mods/songs/sunshine/Voices.ogg
 mods/songs/sunshine/Inst.ogg
+mods/songs/sunshine/voices.ogg
+mods/songs/sunshine/inst.ogg

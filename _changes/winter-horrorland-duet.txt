@@ -3,3 +3,5 @@ mods/data/winter-horrorland-duet/winter-horrorland-duet-hard.json
 mods/data/winter-horrorland-duet/winter-horrorland-duet.json
 mods/songs/winter-horrorland-duet/Voices.ogg
 mods/songs/winter-horrorland-duet/Inst.ogg
+mods/songs/winter-horrorland-duet/voices.ogg
+mods/songs/winter-horrorland-duet/inst.ogg

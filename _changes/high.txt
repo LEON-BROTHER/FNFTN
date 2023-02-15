@@ -4,3 +4,5 @@ mods/data/high/high-hard.json
 mods/data/high/high.json
 mods/songs/high/Voices.ogg
 mods/songs/high/Inst.ogg
+mods/songs/high/voices.ogg
+mods/songs/high/inst.ogg

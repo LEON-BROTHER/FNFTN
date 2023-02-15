@@ -1,3 +1,5 @@
 mods/data/apparition/apparition.json
 mods/songs/apparition/Voices.ogg
 mods/songs/apparition/Inst.ogg
+mods/songs/apparition/voices.ogg
+mods/songs/apparition/inst.ogg

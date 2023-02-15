@@ -1,3 +1,5 @@
 mods/data/glitched-duo/glitched-duo-corrupted.json
 mods/songs/glitched-duo/Voices.ogg
 mods/songs/glitched-duo/Inst.ogg
+mods/songs/glitched-duo/voices.ogg
+mods/songs/glitched-duo/inst.ogg

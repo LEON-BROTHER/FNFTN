@@ -2,3 +2,5 @@ mods/data/its-a-me/its-a-me-easy.json
 mods/data/its-a-me/its-a-me.json
 mods/songs/its-a-me/Voices.ogg
 mods/songs/its-a-me/Inst.ogg
+mods/songs/its-a-me/voices.ogg
+mods/songs/its-a-me/inst.ogg

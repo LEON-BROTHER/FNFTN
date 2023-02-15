@@ -3,3 +3,5 @@ mods/data/substantial/substantial-hard.json
 mods/data/substantial/substantial.json
 mods/songs/substantial/Voices.ogg
 mods/songs/substantial/Inst.ogg
+mods/songs/substantial/voices.ogg
+mods/songs/substantial/inst.ogg

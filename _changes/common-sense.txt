@@ -4,3 +4,5 @@ mods/data/common-sense/common-sense-hard.json
 mods/data/common-sense/common-sense.json
 mods/songs/common-sense/Voices.ogg
 mods/songs/common-sense/Inst.ogg
+mods/songs/common-sense/voices.ogg
+mods/songs/common-sense/inst.ogg

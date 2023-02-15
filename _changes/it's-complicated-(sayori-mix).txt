@@ -3,3 +3,5 @@ mods/data/it's-complicated-(sayori-mix)/it's-complicated-(sayori-mix)-hard.json
 mods/data/it's-complicated-(sayori-mix)/it's-complicated-(sayori-mix).json
 mods/songs/it's-complicated-(sayori-mix)/Voices.ogg
 mods/songs/it's-complicated-(sayori-mix)/Inst.ogg
+mods/songs/it's-complicated-(sayori-mix)/voices.ogg
+mods/songs/it's-complicated-(sayori-mix)/inst.ogg

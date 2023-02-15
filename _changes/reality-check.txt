@@ -3,3 +3,5 @@ mods/data/reality-check/reality-check-hard.json
 mods/data/reality-check/reality-check.json
 mods/songs/reality-check/Voices.ogg
 mods/songs/reality-check/Inst.ogg
+mods/songs/reality-check/voices.ogg
+mods/songs/reality-check/inst.ogg

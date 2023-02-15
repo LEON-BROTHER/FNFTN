@@ -2,3 +2,5 @@ mods/data/due-date/due-date-hard.json
 mods/data/due-date/events.json
 mods/songs/due-date/Voices.ogg
 mods/songs/due-date/Inst.ogg
+mods/songs/due-date/voices.ogg
+mods/songs/due-date/inst.ogg

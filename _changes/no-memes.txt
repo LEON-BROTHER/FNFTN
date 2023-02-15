@@ -3,3 +3,5 @@ mods/data/no-memes/events.json
 mods/data/no-memes/no-memes.json
 mods/songs/no-memes/Voices.ogg
 mods/songs/no-memes/Inst.ogg
+mods/songs/no-memes/voices.ogg
+mods/songs/no-memes/inst.ogg

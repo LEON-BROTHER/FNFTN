@@ -1,3 +1,5 @@
 mods/data/corruption-deathmatch/corruption-deathmatch.json
 mods/songs/corruption-deathmatch/Voices.ogg
 mods/songs/corruption-deathmatch/Inst.ogg
+mods/songs/corruption-deathmatch/voices.ogg
+mods/songs/corruption-deathmatch/inst.ogg

@@ -4,3 +4,5 @@ mods/data/cocoa/cocoa.json
 mods/data/cocoa/events.json
 mods/songs/cocoa/Voices.ogg
 mods/songs/cocoa/Inst.ogg
+mods/songs/cocoa/voices.ogg
+mods/songs/cocoa/inst.ogg

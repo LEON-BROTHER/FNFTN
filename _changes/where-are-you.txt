@@ -4,3 +4,5 @@ mods/data/where-are-you/where-are-you-shaggy-canon.json
 mods/data/where-are-you/where-are-you-shaggy-easy.json
 mods/songs/where-are-you/Voices.ogg
 mods/songs/where-are-you/Inst.ogg
+mods/songs/where-are-you/voices.ogg
+mods/songs/where-are-you/inst.ogg

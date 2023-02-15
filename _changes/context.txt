@@ -4,3 +4,5 @@ mods/data/context/context-hard.json
 mods/data/context/context.json
 mods/songs/context/Voices.ogg
 mods/songs/context/Inst.ogg
+mods/songs/context/voices.ogg
+mods/songs/context/inst.ogg

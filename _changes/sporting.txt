@@ -3,3 +3,5 @@ mods/data/sporting/sporting-hard.json
 mods/data/sporting/sporting.json
 mods/songs/sporting/Voices.ogg
 mods/songs/sporting/Inst.ogg
+mods/songs/sporting/voices.ogg
+mods/songs/sporting/inst.ogg

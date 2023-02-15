@@ -3,3 +3,5 @@ mods/data/god-eater/god-eater-shaggy-canon.json
 mods/data/god-eater/god-eater-shaggy-easy.json
 mods/songs/god-eater/Voices.ogg
 mods/songs/god-eater/Inst.ogg
+mods/songs/god-eater/voices.ogg
+mods/songs/god-eater/inst.ogg

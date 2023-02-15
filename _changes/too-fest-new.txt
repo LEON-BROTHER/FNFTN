@@ -3,3 +3,5 @@ mods/data/too-fest-new/too-fest-new-hard.json
 mods/data/too-fest-new/too-fest-new.json
 mods/songs/too-fest-new/Voices.ogg
 mods/songs/too-fest-new/Inst.ogg
+mods/songs/too-fest-new/voices.ogg
+mods/songs/too-fest-new/inst.ogg

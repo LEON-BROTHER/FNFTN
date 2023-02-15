@@ -3,3 +3,5 @@ mods/data/dual-demise/dual-demise-hard.json
 mods/data/dual-demise/dual-demise.json
 mods/songs/dual-demise/Voices.ogg
 mods/songs/dual-demise/Inst.ogg
+mods/songs/dual-demise/voices.ogg
+mods/songs/dual-demise/inst.ogg

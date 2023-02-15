@@ -3,3 +3,5 @@ mods/data/night-of-nights/night-of-nights-hard.json
 mods/data/night-of-nights/night-of-nights.json
 mods/songs/night-of-nights/Voices.ogg
 mods/songs/night-of-nights/Inst.ogg
+mods/songs/night-of-nights/voices.ogg
+mods/songs/night-of-nights/inst.ogg

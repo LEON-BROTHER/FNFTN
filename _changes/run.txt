@@ -4,3 +4,5 @@ mods/data/run/run.json
 mods/data/run/the chart that acutally has 400 notes per secod.json
 mods/songs/run/Voices.ogg
 mods/songs/run/Inst.ogg
+mods/songs/run/voices.ogg
+mods/songs/run/inst.ogg

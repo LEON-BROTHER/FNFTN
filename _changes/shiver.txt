@@ -3,3 +3,5 @@ mods/data/shiver/shiver-hard.json
 mods/data/shiver/shiver.json
 mods/songs/shiver/Voices.ogg
 mods/songs/shiver/Inst.ogg
+mods/songs/shiver/voices.ogg
+mods/songs/shiver/inst.ogg

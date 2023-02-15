@@ -3,3 +3,5 @@ mods/data/jump-in/jump-in-hard.json
 mods/data/jump-in/jump-in.json
 mods/songs/jump-in/Voices.ogg
 mods/songs/jump-in/Inst.ogg
+mods/songs/jump-in/voices.ogg
+mods/songs/jump-in/inst.ogg

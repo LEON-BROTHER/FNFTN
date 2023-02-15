@@ -3,3 +3,5 @@ mods/data/psyshock/psyshock-hard.json
 mods/data/psyshock/psyshock.json
 mods/songs/psyshock/Voices.ogg
 mods/songs/psyshock/Inst.ogg
+mods/songs/psyshock/voices.ogg
+mods/songs/psyshock/inst.ogg

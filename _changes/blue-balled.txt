@@ -1,3 +1,5 @@
 mods/data/blue-balled/blue-balled-corrupted.json
 mods/songs/blue-balled/Voices.ogg
 mods/songs/blue-balled/Inst.ogg
+mods/songs/blue-balled/voices.ogg
+mods/songs/blue-balled/inst.ogg

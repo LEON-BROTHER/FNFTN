@@ -1,3 +1,5 @@
 mods/data/mild-mania/mild-mania.json
 mods/songs/mild-mania/Voices.ogg
 mods/songs/mild-mania/Inst.ogg
+mods/songs/mild-mania/voices.ogg
+mods/songs/mild-mania/inst.ogg

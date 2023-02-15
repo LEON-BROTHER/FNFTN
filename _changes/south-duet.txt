@@ -3,3 +3,5 @@ mods/data/south-duet/south-duet-hard.json
 mods/data/south-duet/south-duet.json
 mods/songs/south-duet/Voices.ogg
 mods/songs/south-duet/Inst.ogg
+mods/songs/south-duet/voices.ogg
+mods/songs/south-duet/inst.ogg

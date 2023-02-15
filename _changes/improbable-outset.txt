@@ -3,3 +3,5 @@ mods/data/improbable-outset/improbable-outset-hard.json
 mods/data/improbable-outset/improbable-outset.json
 mods/songs/improbable-outset/Voices.ogg
 mods/songs/improbable-outset/Inst.ogg
+mods/songs/improbable-outset/voices.ogg
+mods/songs/improbable-outset/inst.ogg

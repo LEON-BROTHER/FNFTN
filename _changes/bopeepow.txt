@@ -3,3 +3,5 @@ mods/data/bopeepow/dialogue.json
 mods/data/bopeepow/events.json
 mods/songs/bopeepow/Voices.ogg
 mods/songs/bopeepow/Inst.ogg
+mods/songs/bopeepow/voices.ogg
+mods/songs/bopeepow/inst.ogg

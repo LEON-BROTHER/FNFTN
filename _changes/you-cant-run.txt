@@ -3,3 +3,5 @@ mods/data/you-cant-run/you-cant-run-hard.json
 mods/data/you-cant-run/you-cant-run.json
 mods/songs/you-cant-run/Voices.ogg
 mods/songs/you-cant-run/Inst.ogg
+mods/songs/you-cant-run/voices.ogg
+mods/songs/you-cant-run/inst.ogg

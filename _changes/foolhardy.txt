@@ -3,3 +3,5 @@ mods/data/foolhardy/foolhardy-hard.json
 mods/data/foolhardy/foolhardy.json
 mods/songs/foolhardy/Voices.ogg
 mods/songs/foolhardy/Inst.ogg
+mods/songs/foolhardy/voices.ogg
+mods/songs/foolhardy/inst.ogg

@@ -4,3 +4,5 @@ mods/data/rabbit's-luck/rabbit's-luck-hard.json
 mods/data/rabbit's-luck/rabbit's-luck.json
 mods/songs/rabbit's-luck/Voices.ogg
 mods/songs/rabbit's-luck/Inst.ogg
+mods/songs/rabbit's-luck/voices.ogg
+mods/songs/rabbit's-luck/inst.ogg

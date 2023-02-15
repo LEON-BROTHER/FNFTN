@@ -1,3 +1,5 @@
 mods/data/doors/doors-hard-locked.json
 mods/songs/doors/Voices.ogg
 mods/songs/doors/Inst.ogg
+mods/songs/doors/voices.ogg
+mods/songs/doors/inst.ogg

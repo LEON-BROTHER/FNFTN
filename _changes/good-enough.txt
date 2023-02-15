@@ -3,3 +3,5 @@ mods/data/good-enough/good-enough-hard.json
 mods/data/good-enough/good-enough.json
 mods/songs/good-enough/Voices.ogg
 mods/songs/good-enough/Inst.ogg
+mods/songs/good-enough/voices.ogg
+mods/songs/good-enough/inst.ogg

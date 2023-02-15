@@ -4,3 +4,5 @@ mods/data/parish/parish-hard.json
 mods/data/parish/parish.json
 mods/songs/parish/Voices.ogg
 mods/songs/parish/Inst.ogg
+mods/songs/parish/voices.ogg
+mods/songs/parish/inst.ogg

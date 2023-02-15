@@ -3,3 +3,5 @@ mods/data/detonator/detonator-hard.json
 mods/data/detonator/detonator.json
 mods/songs/detonator/Voices.ogg
 mods/songs/detonator/Inst.ogg
+mods/songs/detonator/voices.ogg
+mods/songs/detonator/inst.ogg

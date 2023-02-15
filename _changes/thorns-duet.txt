@@ -3,3 +3,5 @@ mods/data/thorns-duet/thorns-duet-hard.json
 mods/data/thorns-duet/thorns-duet.json
 mods/songs/thorns-duet/Voices.ogg
 mods/songs/thorns-duet/Inst.ogg
+mods/songs/thorns-duet/voices.ogg
+mods/songs/thorns-duet/inst.ogg

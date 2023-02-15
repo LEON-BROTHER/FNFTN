@@ -1,3 +1,5 @@
 mods/data/guns-b-sides/guns-b-sides.json
 mods/songs/guns-b-sides/Voices.ogg
 mods/songs/guns-b-sides/Inst.ogg
+mods/songs/guns-b-sides/voices.ogg
+mods/songs/guns-b-sides/inst.ogg

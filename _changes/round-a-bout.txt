@@ -4,3 +4,5 @@ mods/data/round-a-bout/round-a-bout-hard.json
 mods/data/round-a-bout/round-a-bout.json
 mods/songs/round-a-bout/Voices.ogg
 mods/songs/round-a-bout/Inst.ogg
+mods/songs/round-a-bout/voices.ogg
+mods/songs/round-a-bout/inst.ogg

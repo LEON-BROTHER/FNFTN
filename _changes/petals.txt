@@ -3,3 +3,5 @@ mods/data/petals/petals-hard.json
 mods/data/petals/petals.json
 mods/songs/petals/Voices.ogg
 mods/songs/petals/Inst.ogg
+mods/songs/petals/voices.ogg
+mods/songs/petals/inst.ogg

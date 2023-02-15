@@ -3,3 +3,5 @@ mods/data/home/home-easy.json
 mods/data/home/home-hard.json
 mods/songs/home/Voices.ogg
 mods/songs/home/Inst.ogg
+mods/songs/home/voices.ogg
+mods/songs/home/inst.ogg

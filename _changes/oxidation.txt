@@ -4,3 +4,5 @@ mods/data/oxidation/oxidation-hard.json
 mods/data/oxidation/oxidation.json
 mods/songs/oxidation/Voices.ogg
 mods/songs/oxidation/Inst.ogg
+mods/songs/oxidation/voices.ogg
+mods/songs/oxidation/inst.ogg

@@ -3,3 +3,5 @@ mods/data/sussy-bussy/sussy-bussy-hard.json
 mods/data/sussy-bussy/sussy-bussy.json
 mods/songs/sussy-bussy/Voices.ogg
 mods/songs/sussy-bussy/Inst.ogg
+mods/songs/sussy-bussy/voices.ogg
+mods/songs/sussy-bussy/inst.ogg

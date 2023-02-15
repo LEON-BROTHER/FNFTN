@@ -3,3 +3,5 @@ mods/data/trouble/trouble-hard.json
 mods/data/trouble/trouble.json
 mods/songs/trouble/Voices.ogg
 mods/songs/trouble/Inst.ogg
+mods/songs/trouble/voices.ogg
+mods/songs/trouble/inst.ogg

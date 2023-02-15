@@ -3,3 +3,5 @@ mods/data/super-saiyan/super-saiyan-shaggy-canon.json
 mods/data/super-saiyan/super-saiyan-shaggy-easy.json
 mods/songs/super-saiyan/Voices.ogg
 mods/songs/super-saiyan/Inst.ogg
+mods/songs/super-saiyan/voices.ogg
+mods/songs/super-saiyan/inst.ogg

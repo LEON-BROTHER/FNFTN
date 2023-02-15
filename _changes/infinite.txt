@@ -3,3 +3,5 @@ mods/data/infinite/infinite-hard.json
 mods/data/infinite/infinite.json
 mods/songs/infinite/Voices.ogg
 mods/songs/infinite/Inst.ogg
+mods/songs/infinite/voices.ogg
+mods/songs/infinite/inst.ogg

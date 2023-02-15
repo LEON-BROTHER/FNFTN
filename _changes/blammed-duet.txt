@@ -3,3 +3,5 @@ mods/data/blammed-duet/blammed-duet-hard.json
 mods/data/blammed-duet/blammed-duet.json
 mods/songs/blammed-duet/Voices.ogg
 mods/songs/blammed-duet/Inst.ogg
+mods/songs/blammed-duet/voices.ogg
+mods/songs/blammed-duet/inst.ogg

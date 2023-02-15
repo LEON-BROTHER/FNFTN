@@ -3,3 +3,5 @@ mods/data/partnership/partnership-hard.json
 mods/data/partnership/partnership.json
 mods/songs/partnership/Voices.ogg
 mods/songs/partnership/Inst.ogg
+mods/songs/partnership/voices.ogg
+mods/songs/partnership/inst.ogg

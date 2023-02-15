@@ -4,3 +4,5 @@ mods/data/2v200/2v200-hard.json
 mods/data/2v200/2v200.json
 mods/songs/2v200/Voices.ogg
 mods/songs/2v200/Inst.ogg
+mods/songs/2v200/voices.ogg
+mods/songs/2v200/inst.ogg

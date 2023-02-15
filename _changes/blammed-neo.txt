@@ -3,3 +3,5 @@ mods/data/blammed-neo/blammed-neo-hard.json
 mods/data/blammed-neo/blammed-neo.json
 mods/songs/blammed-neo/Voices.ogg
 mods/songs/blammed-neo/Inst.ogg
+mods/songs/blammed-neo/voices.ogg
+mods/songs/blammed-neo/inst.ogg

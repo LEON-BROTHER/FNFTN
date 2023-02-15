@@ -3,3 +3,5 @@ mods/data/satin-panties-starcatcher/satin-panties-starcatcher-hard.json
 mods/data/satin-panties-starcatcher/satin-panties-starcatcher.json
 mods/songs/satin-panties-starcatcher/Voices.ogg
 mods/songs/satin-panties-starcatcher/Inst.ogg
+mods/songs/satin-panties-starcatcher/voices.ogg
+mods/songs/satin-panties-starcatcher/inst.ogg

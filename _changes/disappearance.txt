@@ -4,3 +4,5 @@ mods/data/disappearance/disappearance-old.json
 mods/data/disappearance/disappearance.json
 mods/songs/disappearance/Voices.ogg
 mods/songs/disappearance/Inst.ogg
+mods/songs/disappearance/voices.ogg
+mods/songs/disappearance/inst.ogg

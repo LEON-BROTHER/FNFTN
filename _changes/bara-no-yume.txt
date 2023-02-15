@@ -3,3 +3,5 @@ mods/data/bara-no-yume/bara-no-yume-hard.json
 mods/data/bara-no-yume/bara-no-yume.json
 mods/songs/bara-no-yume/Voices.ogg
 mods/songs/bara-no-yume/Inst.ogg
+mods/songs/bara-no-yume/voices.ogg
+mods/songs/bara-no-yume/inst.ogg

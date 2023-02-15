@@ -3,3 +3,5 @@ mods/data/roses-rs/roses-rs-hard.json
 mods/data/roses-rs/roses-rs.json
 mods/songs/roses-rs/Voices.ogg
 mods/songs/roses-rs/Inst.ogg
+mods/songs/roses-rs/voices.ogg
+mods/songs/roses-rs/inst.ogg

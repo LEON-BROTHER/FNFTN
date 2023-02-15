@@ -1,3 +1,5 @@
 mods/data/deepfreeze/deepfreeze-hard.json
 mods/songs/deepfreeze/Voices.ogg
 mods/songs/deepfreeze/Inst.ogg
+mods/songs/deepfreeze/voices.ogg
+mods/songs/deepfreeze/inst.ogg

@@ -4,3 +4,5 @@ mods/data/no-arm-shogun/no-arm-shogun-hard.json
 mods/data/no-arm-shogun/no-arm-shogun.json
 mods/songs/no-arm-shogun/Voices.ogg
 mods/songs/no-arm-shogun/Inst.ogg
+mods/songs/no-arm-shogun/voices.ogg
+mods/songs/no-arm-shogun/inst.ogg

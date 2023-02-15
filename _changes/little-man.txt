@@ -4,3 +4,5 @@ mods/data/little-man/little-man-hard.json
 mods/data/little-man/little-man.json
 mods/songs/little-man/Voices.ogg
 mods/songs/little-man/Inst.ogg
+mods/songs/little-man/voices.ogg
+mods/songs/little-man/inst.ogg

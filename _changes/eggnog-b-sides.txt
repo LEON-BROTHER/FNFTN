@@ -3,3 +3,5 @@ mods/data/eggnog-b-sides/eggnog-b-sides-hard.json
 mods/data/eggnog-b-sides/eggnog-b-sides.json
 mods/songs/eggnog-b-sides/Voices.ogg
 mods/songs/eggnog-b-sides/Inst.ogg
+mods/songs/eggnog-b-sides/voices.ogg
+mods/songs/eggnog-b-sides/inst.ogg

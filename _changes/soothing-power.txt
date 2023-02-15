@@ -3,3 +3,5 @@ mods/data/soothing-power/soothing-power-shaggy-canon.json
 mods/data/soothing-power/soothing-power-shaggy-easy.json
 mods/songs/soothing-power/Voices.ogg
 mods/songs/soothing-power/Inst.ogg
+mods/songs/soothing-power/voices.ogg
+mods/songs/soothing-power/inst.ogg

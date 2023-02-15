@@ -4,3 +4,5 @@ mods/data/milf/milf-hard.json
 mods/data/milf/milf.json
 mods/songs/milf/Voices.ogg
 mods/songs/milf/Inst.ogg
+mods/songs/milf/voices.ogg
+mods/songs/milf/inst.ogg

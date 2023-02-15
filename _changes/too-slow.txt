@@ -3,3 +3,5 @@ mods/data/too-slow/too-slow-hard.json
 mods/data/too-slow/too-slow.json
 mods/songs/too-slow/Voices.ogg
 mods/songs/too-slow/Inst.ogg
+mods/songs/too-slow/voices.ogg
+mods/songs/too-slow/inst.ogg

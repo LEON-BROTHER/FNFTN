@@ -3,3 +3,5 @@ mods/data/cocoa-duet/cocoa-duet-hard.json
 mods/data/cocoa-duet/cocoa-duet.json
 mods/songs/cocoa-duet/Voices.ogg
 mods/songs/cocoa-duet/Inst.ogg
+mods/songs/cocoa-duet/voices.ogg
+mods/songs/cocoa-duet/inst.ogg

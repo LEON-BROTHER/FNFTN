@@ -4,3 +4,5 @@ mods/data/free-soul/free-soul-hard.json
 mods/data/free-soul/free-soul.json
 mods/songs/free-soul/Voices.ogg
 mods/songs/free-soul/Inst.ogg
+mods/songs/free-soul/voices.ogg
+mods/songs/free-soul/inst.ogg

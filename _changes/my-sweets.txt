@@ -3,3 +3,5 @@ mods/data/my-sweets/my-sweets-hard.json
 mods/data/my-sweets/my-sweets.json
 mods/songs/my-sweets/Voices.ogg
 mods/songs/my-sweets/Inst.ogg
+mods/songs/my-sweets/voices.ogg
+mods/songs/my-sweets/inst.ogg

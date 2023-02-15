@@ -3,3 +3,5 @@ mods/data/south-neo/south-neo-hard.json
 mods/data/south-neo/south-neo.json
 mods/songs/south-neo/Voices.ogg
 mods/songs/south-neo/Inst.ogg
+mods/songs/south-neo/voices.ogg
+mods/songs/south-neo/inst.ogg

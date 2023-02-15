@@ -4,3 +4,5 @@ mods/data/astral-calamity/astral-calamity-shaggy-easy.json
 mods/data/astral-calamity/events.json
 mods/songs/astral-calamity/Voices.ogg
 mods/songs/astral-calamity/Inst.ogg
+mods/songs/astral-calamity/voices.ogg
+mods/songs/astral-calamity/inst.ogg

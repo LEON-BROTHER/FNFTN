@@ -3,3 +3,5 @@ mods/data/high-b-sides-duet/high-b-sides-duet-hard.json
 mods/data/high-b-sides-duet/high-b-sides-duet.json
 mods/songs/high-b-sides-duet/Voices.ogg
 mods/songs/high-b-sides-duet/Inst.ogg
+mods/songs/high-b-sides-duet/voices.ogg
+mods/songs/high-b-sides-duet/inst.ogg

@@ -6,3 +6,5 @@ mods/data/overhead/overhead-old.json
 mods/data/overhead/overhead.json
 mods/songs/overhead/Voices.ogg
 mods/songs/overhead/Inst.ogg
+mods/songs/overhead/voices.ogg
+mods/songs/overhead/inst.ogg

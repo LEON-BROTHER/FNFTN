@@ -3,3 +3,5 @@ mods/data/senpai-b-sides-duet/senpai-b-sides-duet-hard.json
 mods/data/senpai-b-sides-duet/senpai-b-sides-duet.json
 mods/songs/senpai-b-sides-duet/Voices.ogg
 mods/songs/senpai-b-sides-duet/Inst.ogg
+mods/songs/senpai-b-sides-duet/voices.ogg
+mods/songs/senpai-b-sides-duet/inst.ogg

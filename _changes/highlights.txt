@@ -4,3 +4,5 @@ mods/data/highlights/highlights-hard.json
 mods/data/highlights/highlights.json
 mods/songs/highlights/Voices.ogg
 mods/songs/highlights/Inst.ogg
+mods/songs/highlights/voices.ogg
+mods/songs/highlights/inst.ogg

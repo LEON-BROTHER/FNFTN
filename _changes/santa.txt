@@ -4,3 +4,5 @@ mods/data/santa/santa-hard.json
 mods/data/santa/santa.json
 mods/songs/santa/Voices.ogg
 mods/songs/santa/Inst.ogg
+mods/songs/santa/voices.ogg
+mods/songs/santa/inst.ogg

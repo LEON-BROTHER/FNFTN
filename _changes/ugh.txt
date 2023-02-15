@@ -4,3 +4,5 @@ mods/data/ugh/ugh-hard.json
 mods/data/ugh/ugh.json
 mods/songs/ugh/Voices.ogg
 mods/songs/ugh/Inst.ogg
+mods/songs/ugh/voices.ogg
+mods/songs/ugh/inst.ogg

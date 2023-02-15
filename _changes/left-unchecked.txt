@@ -3,3 +3,5 @@ mods/data/left-unchecked/left-unchecked-hard.json
 mods/data/left-unchecked/left-unchecked.json
 mods/songs/left-unchecked/Voices.ogg
 mods/songs/left-unchecked/Inst.ogg
+mods/songs/left-unchecked/voices.ogg
+mods/songs/left-unchecked/inst.ogg

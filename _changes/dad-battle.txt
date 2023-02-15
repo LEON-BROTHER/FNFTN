@@ -4,3 +4,5 @@ mods/data/dad-battle/dad-battle.json
 mods/data/dad-battle/events.json
 mods/songs/dad-battle/Voices.ogg
 mods/songs/dad-battle/Inst.ogg
+mods/songs/dad-battle/voices.ogg
+mods/songs/dad-battle/inst.ogg

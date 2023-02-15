@@ -3,3 +3,5 @@ mods/data/retricus/retricus-hard.json
 mods/data/retricus/retricus.json
 mods/songs/retricus/Voices.ogg
 mods/songs/retricus/Inst.ogg
+mods/songs/retricus/voices.ogg
+mods/songs/retricus/inst.ogg

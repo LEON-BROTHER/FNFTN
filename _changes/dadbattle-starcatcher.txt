@@ -3,3 +3,5 @@ mods/data/dadbattle-starcatcher/dadbattle-starcatcher-hard.json
 mods/data/dadbattle-starcatcher/dadbattle-starcatcher.json
 mods/songs/dadbattle-starcatcher/Voices.ogg
 mods/songs/dadbattle-starcatcher/Inst.ogg
+mods/songs/dadbattle-starcatcher/voices.ogg
+mods/songs/dadbattle-starcatcher/inst.ogg
