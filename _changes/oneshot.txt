@@ -1,0 +1,8 @@
+mods/data/oneshot/events.json
+mods/data/oneshot/oneshot-easy.json
+mods/data/oneshot/oneshot-hard.json
+mods/data/oneshot/oneshot.json
+mods/songs/oneshot/Voices.ogg
+mods/songs/oneshot/Inst.ogg
+mods/songs/oneshot/voices.ogg
+mods/songs/oneshot/inst.ogg

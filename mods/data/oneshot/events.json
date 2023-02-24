@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "subway",
+		"player1": "bftall",
+		"player2": "picotall",
+		"player3": null,
+		"events": [
+			[
+				80470.588235294,
+				[
+					[
+						"Change Character",
+						"0",
+						"bftall-BO"
+					],
+					[
+						"Change Character",
+						"1",
+						"picotall-BO"
+					],
+					[
+						"Change Character",
+						"2",
+						"gftall-BO"
+					]
+				]
+			],
+			[
+				91764.7058823528,
+				[
+					[
+						"Change Character",
+						"2",
+						"gftall"
+					],
+					[
+						"Change Character",
+						"1",
+						"picotall"
+					],
+					[
+						"Change Character",
+						"0",
+						"bftall"
+					]
+				]
+			],
+			[
+				125647.058823529,
+				[
+					[
+						"Change Character",
+						"0",
+						"bftall-BO"
+					],
+					[
+						"Change Character",
+						"1",
+						"picotall-BO"
+					],
+					[
+						"Change Character",
+						"2",
+						"gftall-BO"
+					]
+				]
+			],
+			[
+				148235.294117647,
+				[
+					[
+						"Change Character",
+						"2",
+						"gftall"
+					],
+					[
+						"Change Character",
+						"1",
+						"picotall"
+					],
+					[
+						"Change Character",
+						"0",
+						"bftall"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gftall",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Oneshot"
+	}
+}
