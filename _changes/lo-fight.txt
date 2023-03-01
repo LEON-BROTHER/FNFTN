@@ -1,9 +1,8 @@
-mods/data/lo-fight/dialogue.json
 mods/data/lo-fight/lo-fight-easy.json
 mods/data/lo-fight/lo-fight-hard.json
 mods/data/lo-fight/lo-fight-old.json
 mods/data/lo-fight/lo-fight.json
 mods/songs/lo-fight/Voices.ogg
-mods/songs/lo-fight/Inst.ogg
 mods/songs/lo-fight/voices.ogg
+mods/songs/lo-fight/Inst.ogg
 mods/songs/lo-fight/inst.ogg

@@ -2,6 +2,6 @@ mods/data/fresh-b-sides/fresh-b-sides-easy.json
 mods/data/fresh-b-sides/fresh-b-sides-hard.json
 mods/data/fresh-b-sides/fresh-b-sides.json
 mods/songs/fresh-b-sides/Voices.ogg
-mods/songs/fresh-b-sides/Inst.ogg
 mods/songs/fresh-b-sides/voices.ogg
+mods/songs/fresh-b-sides/Inst.ogg
 mods/songs/fresh-b-sides/inst.ogg

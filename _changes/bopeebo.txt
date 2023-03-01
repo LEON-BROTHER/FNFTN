@@ -4,6 +4,6 @@ mods/data/bopeebo/bopeebo-hard.json
 mods/data/bopeebo/bopeebo.json
 mods/data/bopeebo/events.json
 mods/songs/bopeebo/Voices.ogg
-mods/songs/bopeebo/Inst.ogg
 mods/songs/bopeebo/voices.ogg
+mods/songs/bopeebo/Inst.ogg
 mods/songs/bopeebo/inst.ogg

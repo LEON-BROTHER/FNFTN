@@ -2,6 +2,6 @@ mods/data/siu/siu-easy.json
 mods/data/siu/siu-hard.json
 mods/data/siu/siu.json
 mods/songs/siu/Voices.ogg
-mods/songs/siu/Inst.ogg
 mods/songs/siu/voices.ogg
+mods/songs/siu/Inst.ogg
 mods/songs/siu/inst.ogg

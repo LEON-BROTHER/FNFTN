@@ -2,6 +2,6 @@ mods/data/baka/baka-easy.json
 mods/data/baka/baka-hard.json
 mods/data/baka/baka.json
 mods/songs/baka/Voices.ogg
-mods/songs/baka/Inst.ogg
 mods/songs/baka/voices.ogg
+mods/songs/baka/Inst.ogg
 mods/songs/baka/inst.ogg

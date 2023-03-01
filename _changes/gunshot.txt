@@ -1,5 +1,5 @@
 mods/data/gunshot/gunshot-corrupted.json
 mods/songs/gunshot/Voices.ogg
-mods/songs/gunshot/Inst.ogg
 mods/songs/gunshot/voices.ogg
+mods/songs/gunshot/Inst.ogg
 mods/songs/gunshot/inst.ogg

@@ -1,5 +1,5 @@
 mods/data/refresh/refresh.json
 mods/songs/refresh/Voices.ogg
-mods/songs/refresh/Inst.ogg
 mods/songs/refresh/voices.ogg
+mods/songs/refresh/Inst.ogg
 mods/songs/refresh/inst.ogg

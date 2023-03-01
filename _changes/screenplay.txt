@@ -5,6 +5,6 @@ mods/data/screenplay/screenplay-insane.json
 mods/data/screenplay/screenplay-noob.json
 mods/data/screenplay/screenplay.json
 mods/songs/screenplay/Voices.ogg
-mods/songs/screenplay/Inst.ogg
 mods/songs/screenplay/voices.ogg
+mods/songs/screenplay/Inst.ogg
 mods/songs/screenplay/inst.ogg

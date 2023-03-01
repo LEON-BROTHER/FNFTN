@@ -2,6 +2,6 @@ mods/data/high-b-sides/high-b-sides-easy.json
 mods/data/high-b-sides/high-b-sides-hard.json
 mods/data/high-b-sides/high-b-sides.json
 mods/songs/high-b-sides/Voices.ogg
-mods/songs/high-b-sides/Inst.ogg
 mods/songs/high-b-sides/voices.ogg
+mods/songs/high-b-sides/Inst.ogg
 mods/songs/high-b-sides/inst.ogg

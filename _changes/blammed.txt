@@ -3,6 +3,6 @@ mods/data/blammed/blammed-hard.json
 mods/data/blammed/blammed.json
 mods/data/blammed/events.json
 mods/songs/blammed/Voices.ogg
-mods/songs/blammed/Inst.ogg
 mods/songs/blammed/voices.ogg
+mods/songs/blammed/Inst.ogg
 mods/songs/blammed/inst.ogg

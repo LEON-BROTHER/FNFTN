@@ -1,6 +1,6 @@
 mods/data/breaking-point/breaking-point-hard.json
 mods/data/breaking-point/events.json
 mods/songs/breaking-point/Voices.ogg
-mods/songs/breaking-point/Inst.ogg
 mods/songs/breaking-point/voices.ogg
+mods/songs/breaking-point/Inst.ogg
 mods/songs/breaking-point/inst.ogg

@@ -1,5 +1,5 @@
 mods/data/alone/alone.json
 mods/songs/alone/Voices.ogg
-mods/songs/alone/Inst.ogg
 mods/songs/alone/voices.ogg
+mods/songs/alone/Inst.ogg
 mods/songs/alone/inst.ogg

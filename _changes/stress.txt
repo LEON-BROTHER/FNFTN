@@ -1,10 +1,8 @@
 mods/data/stress/events.json
-mods/data/stress/pico-speaker.json
-mods/data/stress/picospeaker.json
 mods/data/stress/stress-easy.json
 mods/data/stress/stress-hard.json
 mods/data/stress/stress.json
 mods/songs/stress/Voices.ogg
-mods/songs/stress/Inst.ogg
 mods/songs/stress/voices.ogg
+mods/songs/stress/Inst.ogg
 mods/songs/stress/inst.ogg

@@ -1,5 +1,5 @@
 mods/data/day-out-fanmade/day-out-fanmade.json
 mods/songs/day-out-fanmade/Voices.ogg
-mods/songs/day-out-fanmade/Inst.ogg
 mods/songs/day-out-fanmade/voices.ogg
+mods/songs/day-out-fanmade/Inst.ogg
 mods/songs/day-out-fanmade/inst.ogg

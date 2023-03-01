@@ -1,5 +1,5 @@
 mods/data/ill-be-fine/ill-be-fine-corrupted.json
 mods/songs/ill-be-fine/Voices.ogg
-mods/songs/ill-be-fine/Inst.ogg
 mods/songs/ill-be-fine/voices.ogg
+mods/songs/ill-be-fine/Inst.ogg
 mods/songs/ill-be-fine/inst.ogg

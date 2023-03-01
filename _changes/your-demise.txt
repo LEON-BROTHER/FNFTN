@@ -2,6 +2,6 @@ mods/data/your-demise/your-demise-easy.json
 mods/data/your-demise/your-demise-hard.json
 mods/data/your-demise/your-demise.json
 mods/songs/your-demise/Voices.ogg
-mods/songs/your-demise/Inst.ogg
 mods/songs/your-demise/voices.ogg
+mods/songs/your-demise/Inst.ogg
 mods/songs/your-demise/inst.ogg

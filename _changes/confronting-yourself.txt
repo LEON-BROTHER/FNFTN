@@ -3,6 +3,6 @@ mods/data/confronting-yourself/confronting-yourself-hard.json
 mods/data/confronting-yourself/confronting-yourself.json
 mods/data/confronting-yourself/events.json
 mods/songs/confronting-yourself/Voices.ogg
-mods/songs/confronting-yourself/Inst.ogg
 mods/songs/confronting-yourself/voices.ogg
+mods/songs/confronting-yourself/Inst.ogg
 mods/songs/confronting-yourself/inst.ogg

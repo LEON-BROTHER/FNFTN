@@ -1,5 +1,5 @@
 mods/data/prophet/prophet-hard.json
 mods/songs/prophet/Voices.ogg
-mods/songs/prophet/Inst.ogg
 mods/songs/prophet/voices.ogg
+mods/songs/prophet/Inst.ogg
 mods/songs/prophet/inst.ogg

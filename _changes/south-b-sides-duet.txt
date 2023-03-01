@@ -2,6 +2,6 @@ mods/data/south-b-sides-duet/south-b-sides-duet-easy.json
 mods/data/south-b-sides-duet/south-b-sides-duet-hard.json
 mods/data/south-b-sides-duet/south-b-sides-duet.json
 mods/songs/south-b-sides-duet/Voices.ogg
-mods/songs/south-b-sides-duet/Inst.ogg
 mods/songs/south-b-sides-duet/voices.ogg
+mods/songs/south-b-sides-duet/Inst.ogg
 mods/songs/south-b-sides-duet/inst.ogg

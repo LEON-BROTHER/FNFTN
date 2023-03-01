@@ -3,6 +3,6 @@ mods/data/fracture/fracture-easy.json
 mods/data/fracture/fracture-hard.json
 mods/data/fracture/fracture.json
 mods/songs/fracture/Voices.ogg
-mods/songs/fracture/Inst.ogg
 mods/songs/fracture/voices.ogg
+mods/songs/fracture/Inst.ogg
 mods/songs/fracture/inst.ogg

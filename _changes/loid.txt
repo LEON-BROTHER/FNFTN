@@ -2,6 +2,6 @@ mods/data/loid/loid-easy.json
 mods/data/loid/loid-hard.json
 mods/data/loid/loid.json
 mods/songs/loid/Voices.ogg
-mods/songs/loid/Inst.ogg
 mods/songs/loid/voices.ogg
+mods/songs/loid/Inst.ogg
 mods/songs/loid/inst.ogg

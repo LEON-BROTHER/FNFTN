@@ -3,6 +3,6 @@ mods/data/new-retro/new-retro-glitch.json
 mods/data/new-retro/new-retro-hard.json
 mods/data/new-retro/new-retro.json
 mods/songs/new-retro/Voices.ogg
-mods/songs/new-retro/Inst.ogg
 mods/songs/new-retro/voices.ogg
+mods/songs/new-retro/Inst.ogg
 mods/songs/new-retro/inst.ogg

@@ -2,6 +2,6 @@ mods/data/boxing-match/boxing-match-easy.json
 mods/data/boxing-match/boxing-match-hard.json
 mods/data/boxing-match/boxing-match.json
 mods/songs/boxing-match/Voices.ogg
-mods/songs/boxing-match/Inst.ogg
 mods/songs/boxing-match/voices.ogg
+mods/songs/boxing-match/Inst.ogg
 mods/songs/boxing-match/inst.ogg

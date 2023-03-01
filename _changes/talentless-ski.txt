@@ -1,5 +1,5 @@
 mods/data/talentless-ski/talentless-ski.json
 mods/songs/talentless-ski/Voices.ogg
-mods/songs/talentless-ski/Inst.ogg
 mods/songs/talentless-ski/voices.ogg
+mods/songs/talentless-ski/Inst.ogg
 mods/songs/talentless-ski/inst.ogg

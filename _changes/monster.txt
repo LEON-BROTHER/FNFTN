@@ -2,6 +2,6 @@ mods/data/monster/monster-easy.json
 mods/data/monster/monster-hard.json
 mods/data/monster/monster.json
 mods/songs/monster/Voices.ogg
-mods/songs/monster/Inst.ogg
 mods/songs/monster/voices.ogg
+mods/songs/monster/Inst.ogg
 mods/songs/monster/inst.ogg

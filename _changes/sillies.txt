@@ -1,5 +1,5 @@
 mods/data/sillies/sillies.json
 mods/songs/sillies/Voices.ogg
-mods/songs/sillies/Inst.ogg
 mods/songs/sillies/voices.ogg
+mods/songs/sillies/Inst.ogg
 mods/songs/sillies/inst.ogg

@@ -1,5 +1,5 @@
 mods/data/souls/souls.json
 mods/songs/souls/Voices.ogg
-mods/songs/souls/Inst.ogg
 mods/songs/souls/voices.ogg
+mods/songs/souls/Inst.ogg
 mods/songs/souls/inst.ogg

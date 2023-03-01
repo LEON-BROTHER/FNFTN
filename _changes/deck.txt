@@ -3,6 +3,6 @@ mods/data/deck/deck-hard.json
 mods/data/deck/deck.json
 mods/data/deck/events.json
 mods/songs/deck/Voices.ogg
-mods/songs/deck/Inst.ogg
 mods/songs/deck/voices.ogg
+mods/songs/deck/Inst.ogg
 mods/songs/deck/inst.ogg

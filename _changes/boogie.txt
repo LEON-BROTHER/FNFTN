@@ -2,6 +2,6 @@ mods/data/boogie/boogie-easy.json
 mods/data/boogie/boogie-hard.json
 mods/data/boogie/boogie.json
 mods/songs/boogie/Voices.ogg
-mods/songs/boogie/Inst.ogg
 mods/songs/boogie/voices.ogg
+mods/songs/boogie/Inst.ogg
 mods/songs/boogie/inst.ogg

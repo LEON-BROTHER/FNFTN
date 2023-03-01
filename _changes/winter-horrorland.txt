@@ -3,6 +3,6 @@ mods/data/winter-horrorland/winter-horrorland-easy.json
 mods/data/winter-horrorland/winter-horrorland-hard.json
 mods/data/winter-horrorland/winter-horrorland.json
 mods/songs/winter-horrorland/Voices.ogg
-mods/songs/winter-horrorland/Inst.ogg
 mods/songs/winter-horrorland/voices.ogg
+mods/songs/winter-horrorland/Inst.ogg
 mods/songs/winter-horrorland/inst.ogg

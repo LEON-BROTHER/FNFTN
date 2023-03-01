@@ -3,6 +3,6 @@ mods/data/hungry-(hq)/hungry-(hq)-easy.json
 mods/data/hungry-(hq)/hungry-(hq)-hard.json
 mods/data/hungry-(hq)/hungry-(hq).json
 mods/songs/hungry-(hq)/Voices.ogg
-mods/songs/hungry-(hq)/Inst.ogg
 mods/songs/hungry-(hq)/voices.ogg
+mods/songs/hungry-(hq)/Inst.ogg
 mods/songs/hungry-(hq)/inst.ogg

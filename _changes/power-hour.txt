@@ -2,6 +2,6 @@ mods/data/power-hour/events.json
 mods/data/power-hour/power-hour-hard.json
 mods/data/power-hour/power-hour.json
 mods/songs/power-hour/Voices.ogg
-mods/songs/power-hour/Inst.ogg
 mods/songs/power-hour/voices.ogg
+mods/songs/power-hour/Inst.ogg
 mods/songs/power-hour/inst.ogg

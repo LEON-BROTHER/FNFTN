@@ -1,6 +1,6 @@
 mods/data/lewd-doodle/events.json
 mods/data/lewd-doodle/lewd-doodle.json
 mods/songs/lewd-doodle/Voices.ogg
-mods/songs/lewd-doodle/Inst.ogg
 mods/songs/lewd-doodle/voices.ogg
+mods/songs/lewd-doodle/Inst.ogg
 mods/songs/lewd-doodle/inst.ogg

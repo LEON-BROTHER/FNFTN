@@ -2,6 +2,6 @@ mods/data/spookeez-duet/spookeez-duet-easy.json
 mods/data/spookeez-duet/spookeez-duet-hard.json
 mods/data/spookeez-duet/spookeez-duet.json
 mods/songs/spookeez-duet/Voices.ogg
-mods/songs/spookeez-duet/Inst.ogg
 mods/songs/spookeez-duet/voices.ogg
+mods/songs/spookeez-duet/Inst.ogg
 mods/songs/spookeez-duet/inst.ogg

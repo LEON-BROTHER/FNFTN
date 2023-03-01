@@ -1,8 +1,7 @@
 mods/data/nightshade/nightshade-easy.json
 mods/data/nightshade/nightshade-hard.json
 mods/data/nightshade/nightshade.json
-mods/data/nightshade/rosieweekbonus.json
 mods/songs/nightshade/Voices.ogg
-mods/songs/nightshade/Inst.ogg
 mods/songs/nightshade/voices.ogg
+mods/songs/nightshade/Inst.ogg
 mods/songs/nightshade/inst.ogg

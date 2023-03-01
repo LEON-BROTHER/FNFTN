@@ -2,6 +2,6 @@ mods/data/reactor/reactor-easy.json
 mods/data/reactor/reactor-hard.json
 mods/data/reactor/reactor.json
 mods/songs/reactor/Voices.ogg
-mods/songs/reactor/Inst.ogg
 mods/songs/reactor/voices.ogg
+mods/songs/reactor/Inst.ogg
 mods/songs/reactor/inst.ogg

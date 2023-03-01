@@ -3,6 +3,6 @@ mods/data/worship/worship-easy.json
 mods/data/worship/worship-hard.json
 mods/data/worship/worship.json
 mods/songs/worship/Voices.ogg
-mods/songs/worship/Inst.ogg
 mods/songs/worship/voices.ogg
+mods/songs/worship/Inst.ogg
 mods/songs/worship/inst.ogg

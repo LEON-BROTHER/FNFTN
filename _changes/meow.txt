@@ -3,6 +3,6 @@ mods/data/meow/meow-with-voice.json
 mods/data/meow/meow-without-voice.json
 mods/data/meow/meow.json
 mods/songs/meow/Voices.ogg
-mods/songs/meow/Inst.ogg
 mods/songs/meow/voices.ogg
+mods/songs/meow/Inst.ogg
 mods/songs/meow/inst.ogg

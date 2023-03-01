@@ -1,7 +1,5 @@
 mods/data/cringe/cringe-easy.json
 mods/data/cringe/cringe-hard.json
 mods/data/cringe/cringe.json
-mods/songs/cringe/Voices.ogg
 mods/songs/cringe/Inst.ogg
-mods/songs/cringe/voices.ogg
 mods/songs/cringe/inst.ogg

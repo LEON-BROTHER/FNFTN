@@ -2,6 +2,6 @@ mods/data/philly-c-sides/philly-c-sides-easy.json
 mods/data/philly-c-sides/philly-c-sides-hard.json
 mods/data/philly-c-sides/philly-c-sides.json
 mods/songs/philly-c-sides/Voices.ogg
-mods/songs/philly-c-sides/Inst.ogg
 mods/songs/philly-c-sides/voices.ogg
+mods/songs/philly-c-sides/Inst.ogg
 mods/songs/philly-c-sides/inst.ogg

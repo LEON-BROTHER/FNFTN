@@ -2,8 +2,7 @@ mods/data/blood-thirsty/blood-thirsty-easy.json
 mods/data/blood-thirsty/blood-thirsty-hard.json
 mods/data/blood-thirsty/blood-thirsty.json
 mods/data/blood-thirsty/events.json
-mods/data/blood-thirsty/why i don_t chart.json
 mods/songs/blood-thirsty/Voices.ogg
-mods/songs/blood-thirsty/Inst.ogg
 mods/songs/blood-thirsty/voices.ogg
+mods/songs/blood-thirsty/Inst.ogg
 mods/songs/blood-thirsty/inst.ogg

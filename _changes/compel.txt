@@ -2,6 +2,6 @@ mods/data/compel/compel-easy.json
 mods/data/compel/compel-hard.json
 mods/data/compel/compel.json
 mods/songs/compel/Voices.ogg
-mods/songs/compel/Inst.ogg
 mods/songs/compel/voices.ogg
+mods/songs/compel/Inst.ogg
 mods/songs/compel/inst.ogg

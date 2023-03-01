@@ -2,6 +2,6 @@ mods/data/deep-breaths/deep-breaths-easy.json
 mods/data/deep-breaths/deep-breaths-hard.json
 mods/data/deep-breaths/deep-breaths.json
 mods/songs/deep-breaths/Voices.ogg
-mods/songs/deep-breaths/Inst.ogg
 mods/songs/deep-breaths/voices.ogg
+mods/songs/deep-breaths/Inst.ogg
 mods/songs/deep-breaths/inst.ogg

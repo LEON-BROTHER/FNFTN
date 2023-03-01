@@ -2,6 +2,6 @@ mods/data/the-pocket-watch-of-blood/the-pocket-watch-of-blood-easy.json
 mods/data/the-pocket-watch-of-blood/the-pocket-watch-of-blood-hard.json
 mods/data/the-pocket-watch-of-blood/the-pocket-watch-of-blood.json
 mods/songs/the-pocket-watch-of-blood/Voices.ogg
-mods/songs/the-pocket-watch-of-blood/Inst.ogg
 mods/songs/the-pocket-watch-of-blood/voices.ogg
+mods/songs/the-pocket-watch-of-blood/Inst.ogg
 mods/songs/the-pocket-watch-of-blood/inst.ogg

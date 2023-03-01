@@ -2,6 +2,6 @@ mods/data/tone-it-down/tone-it-down-easy.json
 mods/data/tone-it-down/tone-it-down-hard.json
 mods/data/tone-it-down/tone-it-down.json
 mods/songs/tone-it-down/Voices.ogg
-mods/songs/tone-it-down/Inst.ogg
 mods/songs/tone-it-down/voices.ogg
+mods/songs/tone-it-down/Inst.ogg
 mods/songs/tone-it-down/inst.ogg

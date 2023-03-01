@@ -2,6 +2,6 @@ mods/data/carol-roll/carol-roll-easy.json
 mods/data/carol-roll/carol-roll-hard.json
 mods/data/carol-roll/carol-roll.json
 mods/songs/carol-roll/Voices.ogg
-mods/songs/carol-roll/Inst.ogg
 mods/songs/carol-roll/voices.ogg
+mods/songs/carol-roll/Inst.ogg
 mods/songs/carol-roll/inst.ogg

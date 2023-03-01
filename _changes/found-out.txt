@@ -1,6 +1,6 @@
 mods/data/found-out/events.json
 mods/data/found-out/found-out-hard.json
 mods/songs/found-out/Voices.ogg
-mods/songs/found-out/Inst.ogg
 mods/songs/found-out/voices.ogg
+mods/songs/found-out/Inst.ogg
 mods/songs/found-out/inst.ogg

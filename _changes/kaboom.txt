@@ -2,6 +2,6 @@ mods/data/kaboom/kaboom-easy.json
 mods/data/kaboom/kaboom-hard.json
 mods/data/kaboom/kaboom.json
 mods/songs/kaboom/Voices.ogg
-mods/songs/kaboom/Inst.ogg
 mods/songs/kaboom/voices.ogg
+mods/songs/kaboom/Inst.ogg
 mods/songs/kaboom/inst.ogg

@@ -1,8 +1,5 @@
-mods/data/fnfgf/dialogue.json
 mods/data/fnfgf/events.json
 mods/data/fnfgf/fnfgf-hard.json
 mods/data/fnfgf/fnfgf.json
-mods/songs/fnfgf/Voices.ogg
 mods/songs/fnfgf/Inst.ogg
-mods/songs/fnfgf/voices.ogg
 mods/songs/fnfgf/inst.ogg

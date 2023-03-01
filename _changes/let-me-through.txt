@@ -1,6 +1,6 @@
 mods/data/let-me-through/let-me-through-hard.json
 mods/data/let-me-through/let-me-through.json
 mods/songs/let-me-through/Voices.ogg
-mods/songs/let-me-through/Inst.ogg
 mods/songs/let-me-through/voices.ogg
+mods/songs/let-me-through/Inst.ogg
 mods/songs/let-me-through/inst.ogg

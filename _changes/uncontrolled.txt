@@ -1,6 +1,6 @@
 mods/data/uncontrolled/events.json
 mods/data/uncontrolled/uncontrolled-hard.json
 mods/songs/uncontrolled/Voices.ogg
-mods/songs/uncontrolled/Inst.ogg
 mods/songs/uncontrolled/voices.ogg
+mods/songs/uncontrolled/Inst.ogg
 mods/songs/uncontrolled/inst.ogg

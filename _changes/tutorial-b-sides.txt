@@ -1,7 +1,5 @@
 mods/data/tutorial-b-sides/tutorial-b-sides-easy.json
 mods/data/tutorial-b-sides/tutorial-b-sides-hard.json
 mods/data/tutorial-b-sides/tutorial-b-sides.json
-mods/songs/tutorial-b-sides/Voices.ogg
 mods/songs/tutorial-b-sides/Inst.ogg
-mods/songs/tutorial-b-sides/voices.ogg
 mods/songs/tutorial-b-sides/inst.ogg

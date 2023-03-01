@@ -2,6 +2,6 @@ mods/data/black-sun/black-sun-easy.json
 mods/data/black-sun/black-sun-hard.json
 mods/data/black-sun/black-sun.json
 mods/songs/black-sun/Voices.ogg
-mods/songs/black-sun/Inst.ogg
 mods/songs/black-sun/voices.ogg
+mods/songs/black-sun/Inst.ogg
 mods/songs/black-sun/inst.ogg

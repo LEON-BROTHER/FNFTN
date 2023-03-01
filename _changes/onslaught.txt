@@ -2,6 +2,6 @@ mods/data/onslaught/onslaught-easy.json
 mods/data/onslaught/onslaught-hard.json
 mods/data/onslaught/onslaught.json
 mods/songs/onslaught/Voices.ogg
-mods/songs/onslaught/Inst.ogg
 mods/songs/onslaught/voices.ogg
+mods/songs/onslaught/Inst.ogg
 mods/songs/onslaught/inst.ogg

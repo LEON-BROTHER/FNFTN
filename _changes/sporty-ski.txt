@@ -1,8 +1,7 @@
-mods/data/sporty-ski/dialogue.json
 mods/data/sporty-ski/events.json
 mods/data/sporty-ski/sporty-ski-blue.json
 mods/data/sporty-ski/sporty-ski-hard.json
 mods/songs/sporty-ski/Voices.ogg
-mods/songs/sporty-ski/Inst.ogg
 mods/songs/sporty-ski/voices.ogg
+mods/songs/sporty-ski/Inst.ogg
 mods/songs/sporty-ski/inst.ogg

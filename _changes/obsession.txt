@@ -2,6 +2,6 @@ mods/data/obsession/obsession-easy.json
 mods/data/obsession/obsession-hard.json
 mods/data/obsession/obsession.json
 mods/songs/obsession/Voices.ogg
-mods/songs/obsession/Inst.ogg
 mods/songs/obsession/voices.ogg
+mods/songs/obsession/Inst.ogg
 mods/songs/obsession/inst.ogg

@@ -1,5 +1,3 @@
 mods/data/pibe/pibe.json
-mods/songs/pibe/Voices.ogg
 mods/songs/pibe/Inst.ogg
-mods/songs/pibe/voices.ogg
 mods/songs/pibe/inst.ogg

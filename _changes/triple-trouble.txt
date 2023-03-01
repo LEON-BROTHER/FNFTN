@@ -2,6 +2,6 @@ mods/data/triple-trouble/triple-trouble-easy.json
 mods/data/triple-trouble/triple-trouble-hard.json
 mods/data/triple-trouble/triple-trouble.json
 mods/songs/triple-trouble/Voices.ogg
-mods/songs/triple-trouble/Inst.ogg
 mods/songs/triple-trouble/voices.ogg
+mods/songs/triple-trouble/Inst.ogg
 mods/songs/triple-trouble/inst.ogg

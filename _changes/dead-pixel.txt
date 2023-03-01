@@ -2,6 +2,6 @@ mods/data/dead-pixel/dead-pixel-hard.json
 mods/data/dead-pixel/dead-pixel.json
 mods/data/dead-pixel/events.json
 mods/songs/dead-pixel/Voices.ogg
-mods/songs/dead-pixel/Inst.ogg
 mods/songs/dead-pixel/voices.ogg
+mods/songs/dead-pixel/Inst.ogg
 mods/songs/dead-pixel/inst.ogg

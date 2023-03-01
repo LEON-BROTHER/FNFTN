@@ -1,5 +1,5 @@
 mods/data/frostbite/frostbite-hard.json
 mods/songs/frostbite/Voices.ogg
-mods/songs/frostbite/Inst.ogg
 mods/songs/frostbite/voices.ogg
+mods/songs/frostbite/Inst.ogg
 mods/songs/frostbite/inst.ogg

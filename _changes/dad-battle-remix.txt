@@ -1,5 +1,3 @@
 mods/data/dad-battle-remix/dad-battle-remix-erect.json
-mods/songs/dad-battle-remix/Voices.ogg
 mods/songs/dad-battle-remix/Inst.ogg
-mods/songs/dad-battle-remix/voices.ogg
 mods/songs/dad-battle-remix/inst.ogg

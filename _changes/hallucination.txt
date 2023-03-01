@@ -2,6 +2,6 @@ mods/data/hallucination/hallucination-easy.json
 mods/data/hallucination/hallucination-hard.json
 mods/data/hallucination/hallucination.json
 mods/songs/hallucination/Voices.ogg
-mods/songs/hallucination/Inst.ogg
 mods/songs/hallucination/voices.ogg
+mods/songs/hallucination/Inst.ogg
 mods/songs/hallucination/inst.ogg

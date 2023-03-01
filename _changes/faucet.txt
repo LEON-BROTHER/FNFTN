@@ -2,6 +2,6 @@ mods/data/faucet/faucet-easy.json
 mods/data/faucet/faucet-hard.json
 mods/data/faucet/faucet.json
 mods/songs/faucet/Voices.ogg
-mods/songs/faucet/Inst.ogg
 mods/songs/faucet/voices.ogg
+mods/songs/faucet/Inst.ogg
 mods/songs/faucet/inst.ogg

@@ -2,6 +2,6 @@ mods/data/wife-forever/wife-forever-easy.json
 mods/data/wife-forever/wife-forever-hard.json
 mods/data/wife-forever/wife-forever.json
 mods/songs/wife-forever/Voices.ogg
-mods/songs/wife-forever/Inst.ogg
 mods/songs/wife-forever/voices.ogg
+mods/songs/wife-forever/Inst.ogg
 mods/songs/wife-forever/inst.ogg

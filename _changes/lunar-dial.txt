@@ -2,6 +2,6 @@ mods/data/lunar-dial/lunar-dial-easy.json
 mods/data/lunar-dial/lunar-dial-hard.json
 mods/data/lunar-dial/lunar-dial.json
 mods/songs/lunar-dial/Voices.ogg
-mods/songs/lunar-dial/Inst.ogg
 mods/songs/lunar-dial/voices.ogg
+mods/songs/lunar-dial/Inst.ogg
 mods/songs/lunar-dial/inst.ogg

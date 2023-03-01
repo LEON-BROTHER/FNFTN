@@ -2,6 +2,6 @@ mods/data/tutorial-miku/tutorial-miku-easy.json
 mods/data/tutorial-miku/tutorial-miku-hard.json
 mods/data/tutorial-miku/tutorial-miku.json
 mods/songs/tutorial-miku/Voices.ogg
-mods/songs/tutorial-miku/Inst.ogg
 mods/songs/tutorial-miku/voices.ogg
+mods/songs/tutorial-miku/Inst.ogg
 mods/songs/tutorial-miku/inst.ogg

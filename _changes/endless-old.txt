@@ -2,6 +2,6 @@ mods/data/endless-old/endless-old-easy.json
 mods/data/endless-old/endless-old-hard.json
 mods/data/endless-old/endless-old.json
 mods/songs/endless-old/Voices.ogg
-mods/songs/endless-old/Inst.ogg
 mods/songs/endless-old/voices.ogg
+mods/songs/endless-old/Inst.ogg
 mods/songs/endless-old/inst.ogg

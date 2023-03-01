@@ -3,6 +3,6 @@ mods/data/lights-down/lights-down-easy.json
 mods/data/lights-down/lights-down-hard.json
 mods/data/lights-down/lights-down.json
 mods/songs/lights-down/Voices.ogg
-mods/songs/lights-down/Inst.ogg
 mods/songs/lights-down/voices.ogg
+mods/songs/lights-down/Inst.ogg
 mods/songs/lights-down/inst.ogg

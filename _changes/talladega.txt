@@ -3,6 +3,6 @@ mods/data/talladega/talladega-4k.json
 mods/data/talladega/talladega-shaggy-canon.json
 mods/data/talladega/talladega-shaggy-easy.json
 mods/songs/talladega/Voices.ogg
-mods/songs/talladega/Inst.ogg
 mods/songs/talladega/voices.ogg
+mods/songs/talladega/Inst.ogg
 mods/songs/talladega/inst.ogg

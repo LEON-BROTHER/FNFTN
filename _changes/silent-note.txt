@@ -1,6 +1,6 @@
 mods/data/silent-note/events.json
 mods/data/silent-note/silent-note.json
 mods/songs/silent-note/Voices.ogg
-mods/songs/silent-note/Inst.ogg
 mods/songs/silent-note/voices.ogg
+mods/songs/silent-note/Inst.ogg
 mods/songs/silent-note/inst.ogg

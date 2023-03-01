@@ -3,6 +3,6 @@ mods/data/ballistic-(beta-mix)/ballistic-(beta-mix)-hard.json
 mods/data/ballistic-(beta-mix)/ballistic-(beta-mix).json
 mods/data/ballistic-(beta-mix)/events.json
 mods/songs/ballistic-(beta-mix)/Voices.ogg
-mods/songs/ballistic-(beta-mix)/Inst.ogg
 mods/songs/ballistic-(beta-mix)/voices.ogg
+mods/songs/ballistic-(beta-mix)/Inst.ogg
 mods/songs/ballistic-(beta-mix)/inst.ogg

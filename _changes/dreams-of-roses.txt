@@ -2,6 +2,6 @@ mods/data/dreams-of-roses/dreams-of-roses-easy.json
 mods/data/dreams-of-roses/dreams-of-roses-hard.json
 mods/data/dreams-of-roses/dreams-of-roses.json
 mods/songs/dreams-of-roses/Voices.ogg
-mods/songs/dreams-of-roses/Inst.ogg
 mods/songs/dreams-of-roses/voices.ogg
+mods/songs/dreams-of-roses/Inst.ogg
 mods/songs/dreams-of-roses/inst.ogg

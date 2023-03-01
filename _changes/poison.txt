@@ -2,6 +2,6 @@ mods/data/poison/poison-easy.json
 mods/data/poison/poison-hard.json
 mods/data/poison/poison.json
 mods/songs/poison/Voices.ogg
-mods/songs/poison/Inst.ogg
 mods/songs/poison/voices.ogg
+mods/songs/poison/Inst.ogg
 mods/songs/poison/inst.ogg

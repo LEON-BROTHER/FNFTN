@@ -1,6 +1,6 @@
 mods/data/quadruple-quarrel/events.json
 mods/data/quadruple-quarrel/quadruple-quarrel-hard.json
 mods/songs/quadruple-quarrel/Voices.ogg
-mods/songs/quadruple-quarrel/Inst.ogg
 mods/songs/quadruple-quarrel/voices.ogg
+mods/songs/quadruple-quarrel/Inst.ogg
 mods/songs/quadruple-quarrel/inst.ogg

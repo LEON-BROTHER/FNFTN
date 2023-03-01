@@ -2,6 +2,6 @@ mods/data/supreme/supreme-easy.json
 mods/data/supreme/supreme-hard.json
 mods/data/supreme/supreme.json
 mods/songs/supreme/Voices.ogg
-mods/songs/supreme/Inst.ogg
 mods/songs/supreme/voices.ogg
+mods/songs/supreme/Inst.ogg
 mods/songs/supreme/inst.ogg

@@ -2,6 +2,6 @@ mods/data/soulless/soulless-easy.json
 mods/data/soulless/soulless-hard.json
 mods/data/soulless/soulless.json
 mods/songs/soulless/Voices.ogg
-mods/songs/soulless/Inst.ogg
 mods/songs/soulless/voices.ogg
+mods/songs/soulless/Inst.ogg
 mods/songs/soulless/inst.ogg

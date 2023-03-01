@@ -2,6 +2,6 @@ mods/data/boogieman/boogieman-hard.json
 mods/data/boogieman/boogieman.json
 mods/data/boogieman/events.json
 mods/songs/boogieman/Voices.ogg
-mods/songs/boogieman/Inst.ogg
 mods/songs/boogieman/voices.ogg
+mods/songs/boogieman/Inst.ogg
 mods/songs/boogieman/inst.ogg

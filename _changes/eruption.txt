@@ -2,6 +2,6 @@ mods/data/eruption/eruption-4k.json
 mods/data/eruption/eruption-shaggy-canon.json
 mods/data/eruption/eruption-shaggy-easy.json
 mods/songs/eruption/Voices.ogg
-mods/songs/eruption/Inst.ogg
 mods/songs/eruption/voices.ogg
+mods/songs/eruption/Inst.ogg
 mods/songs/eruption/inst.ogg

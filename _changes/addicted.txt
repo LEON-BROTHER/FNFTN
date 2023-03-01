@@ -1,7 +1,6 @@
 mods/data/addicted/addicted-hard.json
 mods/data/addicted/addicted.json
-mods/data/addicted/dialogue.json
 mods/songs/addicted/Voices.ogg
-mods/songs/addicted/Inst.ogg
 mods/songs/addicted/voices.ogg
+mods/songs/addicted/Inst.ogg
 mods/songs/addicted/inst.ogg

@@ -2,6 +2,6 @@ mods/data/monster-duet/monster-duet-easy.json
 mods/data/monster-duet/monster-duet-hard.json
 mods/data/monster-duet/monster-duet.json
 mods/songs/monster-duet/Voices.ogg
-mods/songs/monster-duet/Inst.ogg
 mods/songs/monster-duet/voices.ogg
+mods/songs/monster-duet/Inst.ogg
 mods/songs/monster-duet/inst.ogg

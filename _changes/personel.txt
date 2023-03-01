@@ -1,6 +1,6 @@
 mods/data/personel/events.json
 mods/data/personel/personel-hard.json
 mods/songs/personel/Voices.ogg
-mods/songs/personel/Inst.ogg
 mods/songs/personel/voices.ogg
+mods/songs/personel/Inst.ogg
 mods/songs/personel/inst.ogg
