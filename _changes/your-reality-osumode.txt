@@ -1,0 +1,5 @@
+mods/data/your-reality/your-reality.json
+mods/songs/your-reality/Voices.ogg
+mods/songs/your-reality/voices.ogg
+mods/songs/your-reality/Inst.ogg
+mods/songs/your-reality/inst.ogg

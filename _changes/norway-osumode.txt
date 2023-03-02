@@ -1,0 +1,7 @@
+mods/data/norway/norway-easy.json
+mods/data/norway/norway-hard.json
+mods/data/norway/norway.json
+mods/songs/norway/Voices.ogg
+mods/songs/norway/voices.ogg
+mods/songs/norway/Inst.ogg
+mods/songs/norway/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/bomb-n-roll/bomb-n-roll.json
+mods/songs/bomb-n-roll/Voices.ogg
+mods/songs/bomb-n-roll/voices.ogg
+mods/songs/bomb-n-roll/Inst.ogg
+mods/songs/bomb-n-roll/inst.ogg

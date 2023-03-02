@@ -1,0 +1,5 @@
+mods/data/gospel-rs/gospel-rs-easy.json
+mods/data/gospel-rs/gospel-rs-hard.json
+mods/data/gospel-rs/gospel-rs.json
+mods/songs/gospel-rs/Inst.ogg
+mods/songs/gospel-rs/inst.ogg

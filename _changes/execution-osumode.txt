@@ -1,0 +1,7 @@
+mods/data/execution/execution-easy.json
+mods/data/execution/execution-hard.json
+mods/data/execution/execution.json
+mods/songs/execution/Voices.ogg
+mods/songs/execution/voices.ogg
+mods/songs/execution/Inst.ogg
+mods/songs/execution/inst.ogg

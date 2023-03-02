@@ -1,0 +1,8 @@
+mods/data/underground-(hq)/events.json
+mods/data/underground-(hq)/underground-(hq)-easy.json
+mods/data/underground-(hq)/underground-(hq)-hard.json
+mods/data/underground-(hq)/underground-(hq).json
+mods/songs/underground-(hq)/Voices.ogg
+mods/songs/underground-(hq)/voices.ogg
+mods/songs/underground-(hq)/Inst.ogg
+mods/songs/underground-(hq)/inst.ogg

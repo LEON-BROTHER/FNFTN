@@ -1,0 +1,7 @@
+mods/data/cocoa-b-sides/cocoa-b-sides-easy.json
+mods/data/cocoa-b-sides/cocoa-b-sides-hard.json
+mods/data/cocoa-b-sides/cocoa-b-sides.json
+mods/songs/cocoa-b-sides/Voices.ogg
+mods/songs/cocoa-b-sides/voices.ogg
+mods/songs/cocoa-b-sides/Inst.ogg
+mods/songs/cocoa-b-sides/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/philly-b-sides/philly-b-sides-easy.json
+mods/data/philly-b-sides/philly-b-sides-hard.json
+mods/data/philly-b-sides/philly-b-sides.json
+mods/songs/philly-b-sides/Voices.ogg
+mods/songs/philly-b-sides/voices.ogg
+mods/songs/philly-b-sides/Inst.ogg
+mods/songs/philly-b-sides/inst.ogg

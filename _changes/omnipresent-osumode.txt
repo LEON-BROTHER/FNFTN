@@ -1,0 +1,7 @@
+mods/data/omnipresent/events.json
+mods/data/omnipresent/omnipresent-hard.json
+mods/data/omnipresent/omnipresent.json
+mods/songs/omnipresent/Voices.ogg
+mods/songs/omnipresent/voices.ogg
+mods/songs/omnipresent/Inst.ogg
+mods/songs/omnipresent/inst.ogg

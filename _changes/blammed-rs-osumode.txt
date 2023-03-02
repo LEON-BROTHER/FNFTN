@@ -1,0 +1,7 @@
+mods/data/blammed-rs/blammed-rs-easy.json
+mods/data/blammed-rs/blammed-rs-hard.json
+mods/data/blammed-rs/blammed-rs.json
+mods/songs/blammed-rs/Voices.ogg
+mods/songs/blammed-rs/voices.ogg
+mods/songs/blammed-rs/Inst.ogg
+mods/songs/blammed-rs/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/guns-duet/guns-duet-easy.json
+mods/data/guns-duet/guns-duet-hard.json
+mods/data/guns-duet/guns-duet.json
+mods/songs/guns-duet/Voices.ogg
+mods/songs/guns-duet/voices.ogg
+mods/songs/guns-duet/Inst.ogg
+mods/songs/guns-duet/inst.ogg

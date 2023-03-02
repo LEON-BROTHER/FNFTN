@@ -1,0 +1,7 @@
+mods/data/fading/fading-easy.json
+mods/data/fading/fading-hard.json
+mods/data/fading/fading.json
+mods/songs/fading/Voices.ogg
+mods/songs/fading/voices.ogg
+mods/songs/fading/Inst.ogg
+mods/songs/fading/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/remorse/events.json
+mods/data/remorse/remorse.json
+mods/songs/remorse/Voices.ogg
+mods/songs/remorse/voices.ogg
+mods/songs/remorse/Inst.ogg
+mods/songs/remorse/inst.ogg

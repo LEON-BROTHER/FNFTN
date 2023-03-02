@@ -1,0 +1,7 @@
+mods/data/eggnog-b-sides-duet/eggnog-b-sides-duet-easy.json
+mods/data/eggnog-b-sides-duet/eggnog-b-sides-duet-hard.json
+mods/data/eggnog-b-sides-duet/eggnog-b-sides-duet.json
+mods/songs/eggnog-b-sides-duet/Voices.ogg
+mods/songs/eggnog-b-sides-duet/voices.ogg
+mods/songs/eggnog-b-sides-duet/Inst.ogg
+mods/songs/eggnog-b-sides-duet/inst.ogg

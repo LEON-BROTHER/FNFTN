@@ -1,0 +1,5 @@
+mods/data/insanity/insanity.json
+mods/songs/insanity/Voices.ogg
+mods/songs/insanity/voices.ogg
+mods/songs/insanity/Inst.ogg
+mods/songs/insanity/inst.ogg

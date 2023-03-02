@@ -1,0 +1,8 @@
+mods/data/transgression/transgression-crazy.json
+mods/data/transgression/transgression-easy.json
+mods/data/transgression/transgression-hard.json
+mods/data/transgression/transgression.json
+mods/songs/transgression/Voices.ogg
+mods/songs/transgression/voices.ogg
+mods/songs/transgression/Inst.ogg
+mods/songs/transgression/inst.ogg

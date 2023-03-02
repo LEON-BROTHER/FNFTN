@@ -1,0 +1,5 @@
+mods/data/corrupted-spookeez/corrupted-spookeez.json
+mods/songs/corrupted-spookeez/Voices.ogg
+mods/songs/corrupted-spookeez/voices.ogg
+mods/songs/corrupted-spookeez/Inst.ogg
+mods/songs/corrupted-spookeez/inst.ogg

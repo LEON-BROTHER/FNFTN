@@ -1,0 +1,5 @@
+mods/data/insincere/insincere-hard.json
+mods/songs/insincere/Voices.ogg
+mods/songs/insincere/voices.ogg
+mods/songs/insincere/Inst.ogg
+mods/songs/insincere/inst.ogg

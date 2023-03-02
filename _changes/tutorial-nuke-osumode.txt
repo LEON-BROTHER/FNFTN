@@ -1,0 +1,4 @@
+mods/data/tutorial-nuke/events.json
+mods/data/tutorial-nuke/tutorial-nuke-hard.json
+mods/songs/tutorial-nuke/Inst.ogg
+mods/songs/tutorial-nuke/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/detected/detected-funky.json
+mods/songs/detected/Voices.ogg
+mods/songs/detected/voices.ogg
+mods/songs/detected/Inst.ogg
+mods/songs/detected/inst.ogg

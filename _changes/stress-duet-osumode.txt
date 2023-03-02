@@ -1,0 +1,8 @@
+mods/data/stress-duet/events.json
+mods/data/stress-duet/stress-duet-easy.json
+mods/data/stress-duet/stress-duet-hard.json
+mods/data/stress-duet/stress-duet.json
+mods/songs/stress-duet/Voices.ogg
+mods/songs/stress-duet/voices.ogg
+mods/songs/stress-duet/Inst.ogg
+mods/songs/stress-duet/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/solicited/events.json
+mods/data/solicited/solicited-hard.json
+mods/data/solicited/solicited.json
+mods/songs/solicited/Voices.ogg
+mods/songs/solicited/voices.ogg
+mods/songs/solicited/Inst.ogg
+mods/songs/solicited/inst.ogg

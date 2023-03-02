@@ -1,0 +1,7 @@
+mods/data/ejected/ejected-easy.json
+mods/data/ejected/ejected-hard.json
+mods/data/ejected/ejected.json
+mods/songs/ejected/Voices.ogg
+mods/songs/ejected/voices.ogg
+mods/songs/ejected/Inst.ogg
+mods/songs/ejected/inst.ogg

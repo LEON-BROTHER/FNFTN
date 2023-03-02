@@ -1,0 +1,7 @@
+mods/data/beathoven-(natsuki-mix)/beathoven-(natsuki-mix)-easy.json
+mods/data/beathoven-(natsuki-mix)/beathoven-(natsuki-mix)-hard.json
+mods/data/beathoven-(natsuki-mix)/beathoven-(natsuki-mix).json
+mods/songs/beathoven-(natsuki-mix)/Voices.ogg
+mods/songs/beathoven-(natsuki-mix)/voices.ogg
+mods/songs/beathoven-(natsuki-mix)/Inst.ogg
+mods/songs/beathoven-(natsuki-mix)/inst.ogg

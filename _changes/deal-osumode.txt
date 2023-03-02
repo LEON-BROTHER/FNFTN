@@ -1,0 +1,6 @@
+mods/data/deal/deal-hard.json
+mods/data/deal/events.json
+mods/songs/deal/Voices.ogg
+mods/songs/deal/voices.ogg
+mods/songs/deal/Inst.ogg
+mods/songs/deal/inst.ogg

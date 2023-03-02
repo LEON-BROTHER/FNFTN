@@ -1,0 +1,8 @@
+mods/data/thunderstorm/events.json
+mods/data/thunderstorm/thunderstorm-4k.json
+mods/data/thunderstorm/thunderstorm-shaggy-canon.json
+mods/data/thunderstorm/thunderstorm-shaggy-easy.json
+mods/songs/thunderstorm/Voices.ogg
+mods/songs/thunderstorm/voices.ogg
+mods/songs/thunderstorm/Inst.ogg
+mods/songs/thunderstorm/inst.ogg

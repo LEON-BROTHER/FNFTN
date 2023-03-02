@@ -1,0 +1,8 @@
+mods/data/roots/events.json
+mods/data/roots/roots-easy.json
+mods/data/roots/roots-hard.json
+mods/data/roots/roots.json
+mods/songs/roots/Voices.ogg
+mods/songs/roots/voices.ogg
+mods/songs/roots/Inst.ogg
+mods/songs/roots/inst.ogg

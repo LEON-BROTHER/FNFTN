@@ -1,0 +1,8 @@
+mods/data/last-stand/last-stand-easy.json
+mods/data/last-stand/last-stand-glitch.json
+mods/data/last-stand/last-stand-hard.json
+mods/data/last-stand/last-stand.json
+mods/songs/last-stand/Voices.ogg
+mods/songs/last-stand/voices.ogg
+mods/songs/last-stand/Inst.ogg
+mods/songs/last-stand/inst.ogg

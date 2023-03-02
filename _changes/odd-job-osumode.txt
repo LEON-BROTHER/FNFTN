@@ -1,0 +1,8 @@
+mods/data/odd-job/odd-job-easy.json
+mods/data/odd-job/odd-job-glitch.json
+mods/data/odd-job/odd-job-hard.json
+mods/data/odd-job/odd-job.json
+mods/songs/odd-job/Voices.ogg
+mods/songs/odd-job/voices.ogg
+mods/songs/odd-job/Inst.ogg
+mods/songs/odd-job/inst.ogg

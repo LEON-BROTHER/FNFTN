@@ -1,0 +1,5 @@
+mods/data/stress-b-sides/stress-b-sides.json
+mods/songs/stress-b-sides/Voices.ogg
+mods/songs/stress-b-sides/voices.ogg
+mods/songs/stress-b-sides/Inst.ogg
+mods/songs/stress-b-sides/inst.ogg

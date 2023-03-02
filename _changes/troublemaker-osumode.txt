@@ -1,0 +1,6 @@
+mods/data/troublemaker/events.json
+mods/data/troublemaker/troublemaker.json
+mods/songs/troublemaker/Voices.ogg
+mods/songs/troublemaker/voices.ogg
+mods/songs/troublemaker/Inst.ogg
+mods/songs/troublemaker/inst.ogg

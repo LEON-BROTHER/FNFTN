@@ -1,0 +1,7 @@
+mods/data/tenth-anniversary-insanity/tenth-anniversary-insanity-easy.json
+mods/data/tenth-anniversary-insanity/tenth-anniversary-insanity-hard.json
+mods/data/tenth-anniversary-insanity/tenth-anniversary-insanity.json
+mods/songs/tenth-anniversary-insanity/Voices.ogg
+mods/songs/tenth-anniversary-insanity/voices.ogg
+mods/songs/tenth-anniversary-insanity/Inst.ogg
+mods/songs/tenth-anniversary-insanity/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/dying-fighters/dying-fighters.json
+mods/songs/dying-fighters/Voices.ogg
+mods/songs/dying-fighters/voices.ogg
+mods/songs/dying-fighters/Inst.ogg
+mods/songs/dying-fighters/inst.ogg

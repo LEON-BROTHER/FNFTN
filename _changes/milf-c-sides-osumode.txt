@@ -1,0 +1,7 @@
+mods/data/milf-c-sides/milf-c-sides-easy.json
+mods/data/milf-c-sides/milf-c-sides-hard.json
+mods/data/milf-c-sides/milf-c-sides.json
+mods/songs/milf-c-sides/Voices.ogg
+mods/songs/milf-c-sides/voices.ogg
+mods/songs/milf-c-sides/Inst.ogg
+mods/songs/milf-c-sides/inst.ogg

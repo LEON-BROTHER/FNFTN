@@ -1,0 +1,7 @@
+mods/data/pico-duet/pico-duet-easy.json
+mods/data/pico-duet/pico-duet-hard.json
+mods/data/pico-duet/pico-duet.json
+mods/songs/pico-duet/Voices.ogg
+mods/songs/pico-duet/voices.ogg
+mods/songs/pico-duet/Inst.ogg
+mods/songs/pico-duet/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/the-anger-of-god/the-anger-of-god-easy.json
+mods/data/the-anger-of-god/the-anger-of-god-hard.json
+mods/data/the-anger-of-god/the-anger-of-god.json
+mods/songs/the-anger-of-god/Voices.ogg
+mods/songs/the-anger-of-god/voices.ogg
+mods/songs/the-anger-of-god/Inst.ogg
+mods/songs/the-anger-of-god/inst.ogg

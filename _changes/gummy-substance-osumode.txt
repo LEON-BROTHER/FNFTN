@@ -1,0 +1,5 @@
+mods/data/gummy-substance/gummy-substance-corrupted.json
+mods/songs/gummy-substance/Voices.ogg
+mods/songs/gummy-substance/voices.ogg
+mods/songs/gummy-substance/Inst.ogg
+mods/songs/gummy-substance/inst.ogg

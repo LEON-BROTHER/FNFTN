@@ -1,0 +1,5 @@
+mods/data/judgement/judgement-hard.json
+mods/songs/judgement/Voices.ogg
+mods/songs/judgement/voices.ogg
+mods/songs/judgement/Inst.ogg
+mods/songs/judgement/inst.ogg

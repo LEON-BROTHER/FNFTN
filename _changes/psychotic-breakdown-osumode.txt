@@ -1,0 +1,7 @@
+mods/data/psychotic-breakdown/psychotic-breakdown-easy.json
+mods/data/psychotic-breakdown/psychotic-breakdown-hard.json
+mods/data/psychotic-breakdown/psychotic-breakdown.json
+mods/songs/psychotic-breakdown/Voices.ogg
+mods/songs/psychotic-breakdown/voices.ogg
+mods/songs/psychotic-breakdown/Inst.ogg
+mods/songs/psychotic-breakdown/inst.ogg

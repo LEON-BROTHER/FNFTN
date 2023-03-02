@@ -1,0 +1,8 @@
+mods/data/57.5hz/57.5hz-easy.json
+mods/data/57.5hz/57.5hz-glitch.json
+mods/data/57.5hz/57.5hz-hard.json
+mods/data/57.5hz/57.5hz.json
+mods/songs/57.5hz/Voices.ogg
+mods/songs/57.5hz/voices.ogg
+mods/songs/57.5hz/Inst.ogg
+mods/songs/57.5hz/inst.ogg

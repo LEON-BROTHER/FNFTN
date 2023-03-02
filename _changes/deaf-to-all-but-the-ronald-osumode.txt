@@ -1,0 +1,7 @@
+mods/data/deaf-to-all-but-the-ronald/deaf-to-all-but-the-ronald-easy.json
+mods/data/deaf-to-all-but-the-ronald/deaf-to-all-but-the-ronald-hard.json
+mods/data/deaf-to-all-but-the-ronald/deaf-to-all-but-the-ronald.json
+mods/songs/deaf-to-all-but-the-ronald/Voices.ogg
+mods/songs/deaf-to-all-but-the-ronald/voices.ogg
+mods/songs/deaf-to-all-but-the-ronald/Inst.ogg
+mods/songs/deaf-to-all-but-the-ronald/inst.ogg

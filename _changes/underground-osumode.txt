@@ -1,0 +1,8 @@
+mods/data/underground/events.json
+mods/data/underground/underground-easy.json
+mods/data/underground/underground-hard.json
+mods/data/underground/underground.json
+mods/songs/underground/Voices.ogg
+mods/songs/underground/voices.ogg
+mods/songs/underground/Inst.ogg
+mods/songs/underground/inst.ogg

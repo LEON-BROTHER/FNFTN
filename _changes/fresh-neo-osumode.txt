@@ -1,0 +1,7 @@
+mods/data/fresh-neo/fresh-neo-easy.json
+mods/data/fresh-neo/fresh-neo-hard.json
+mods/data/fresh-neo/fresh-neo.json
+mods/songs/fresh-neo/Voices.ogg
+mods/songs/fresh-neo/voices.ogg
+mods/songs/fresh-neo/Inst.ogg
+mods/songs/fresh-neo/inst.ogg

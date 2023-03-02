@@ -1,0 +1,7 @@
+mods/data/swing/swing-easy.json
+mods/data/swing/swing-hard.json
+mods/data/swing/swing.json
+mods/songs/swing/Voices.ogg
+mods/songs/swing/voices.ogg
+mods/songs/swing/Inst.ogg
+mods/songs/swing/inst.ogg

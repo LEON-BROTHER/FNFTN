@@ -1,0 +1,7 @@
+mods/data/philly-duet/philly-duet-easy.json
+mods/data/philly-duet/philly-duet-hard.json
+mods/data/philly-duet/philly-duet.json
+mods/songs/philly-duet/Voices.ogg
+mods/songs/philly-duet/voices.ogg
+mods/songs/philly-duet/Inst.ogg
+mods/songs/philly-duet/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/run/run-easy.json
+mods/data/run/run-hard.json
+mods/data/run/run.json
+mods/songs/run/Voices.ogg
+mods/songs/run/voices.ogg
+mods/songs/run/Inst.ogg
+mods/songs/run/inst.ogg

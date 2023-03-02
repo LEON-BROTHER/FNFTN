@@ -1,0 +1,7 @@
+mods/data/keystone/keystone-easy.json
+mods/data/keystone/keystone-hard.json
+mods/data/keystone/keystone.json
+mods/songs/keystone/Voices.ogg
+mods/songs/keystone/voices.ogg
+mods/songs/keystone/Inst.ogg
+mods/songs/keystone/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/beathoven/beathoven-easy.json
+mods/data/beathoven/beathoven-hard.json
+mods/data/beathoven/beathoven.json
+mods/songs/beathoven/Voices.ogg
+mods/songs/beathoven/voices.ogg
+mods/songs/beathoven/Inst.ogg
+mods/songs/beathoven/inst.ogg

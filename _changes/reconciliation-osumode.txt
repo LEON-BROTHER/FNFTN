@@ -1,0 +1,7 @@
+mods/data/reconciliation/reconciliation-easy.json
+mods/data/reconciliation/reconciliation-hard.json
+mods/data/reconciliation/reconciliation.json
+mods/songs/reconciliation/Voices.ogg
+mods/songs/reconciliation/voices.ogg
+mods/songs/reconciliation/Inst.ogg
+mods/songs/reconciliation/inst.ogg

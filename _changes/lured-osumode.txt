@@ -1,0 +1,6 @@
+mods/data/lured/events.json
+mods/data/lured/lured-hard.json
+mods/songs/lured/Voices.ogg
+mods/songs/lured/voices.ogg
+mods/songs/lured/Inst.ogg
+mods/songs/lured/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/d.i.e/d.i.e-easy.json
+mods/data/d.i.e/d.i.e-hard.json
+mods/data/d.i.e/d.i.e.json
+mods/songs/d.i.e/Voices.ogg
+mods/songs/d.i.e/voices.ogg
+mods/songs/d.i.e/Inst.ogg
+mods/songs/d.i.e/inst.ogg

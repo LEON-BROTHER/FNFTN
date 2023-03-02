@@ -1,0 +1,7 @@
+mods/data/pico-b-sides/pico-b-sides-easy.json
+mods/data/pico-b-sides/pico-b-sides-hard.json
+mods/data/pico-b-sides/pico-b-sides.json
+mods/songs/pico-b-sides/Voices.ogg
+mods/songs/pico-b-sides/voices.ogg
+mods/songs/pico-b-sides/Inst.ogg
+mods/songs/pico-b-sides/inst.ogg

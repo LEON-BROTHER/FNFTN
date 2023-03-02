@@ -1,0 +1,7 @@
+mods/data/senpai-duet/senpai-duet-easy.json
+mods/data/senpai-duet/senpai-duet-hard.json
+mods/data/senpai-duet/senpai-duet.json
+mods/songs/senpai-duet/Voices.ogg
+mods/songs/senpai-duet/voices.ogg
+mods/songs/senpai-duet/Inst.ogg
+mods/songs/senpai-duet/inst.ogg

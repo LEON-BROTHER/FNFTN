@@ -1,0 +1,7 @@
+mods/data/tordbot/tordbot-easy.json
+mods/data/tordbot/tordbot-hard.json
+mods/data/tordbot/tordbot.json
+mods/songs/tordbot/Voices.ogg
+mods/songs/tordbot/voices.ogg
+mods/songs/tordbot/Inst.ogg
+mods/songs/tordbot/inst.ogg

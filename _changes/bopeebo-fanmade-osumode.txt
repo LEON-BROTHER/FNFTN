@@ -1,0 +1,5 @@
+mods/data/bopeebo-fanmade/bopeebo-fanmade-erect.json
+mods/songs/bopeebo-fanmade/Voices.ogg
+mods/songs/bopeebo-fanmade/voices.ogg
+mods/songs/bopeebo-fanmade/Inst.ogg
+mods/songs/bopeebo-fanmade/inst.ogg

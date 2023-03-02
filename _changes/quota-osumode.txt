@@ -1,0 +1,6 @@
+mods/data/quota/events.json
+mods/data/quota/quota-hard.json
+mods/songs/quota/Voices.ogg
+mods/songs/quota/voices.ogg
+mods/songs/quota/Inst.ogg
+mods/songs/quota/inst.ogg

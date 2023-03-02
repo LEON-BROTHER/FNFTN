@@ -1,0 +1,7 @@
+mods/data/cocoa-neo/cocoa-neo-easy.json
+mods/data/cocoa-neo/cocoa-neo-hard.json
+mods/data/cocoa-neo/cocoa-neo.json
+mods/songs/cocoa-neo/Voices.ogg
+mods/songs/cocoa-neo/voices.ogg
+mods/songs/cocoa-neo/Inst.ogg
+mods/songs/cocoa-neo/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/satin-panties-b-sides-duet/satin-panties-b-sides-duet-easy.json
+mods/data/satin-panties-b-sides-duet/satin-panties-b-sides-duet-hard.json
+mods/data/satin-panties-b-sides-duet/satin-panties-b-sides-duet.json
+mods/songs/satin-panties-b-sides-duet/Voices.ogg
+mods/songs/satin-panties-b-sides-duet/voices.ogg
+mods/songs/satin-panties-b-sides-duet/Inst.ogg
+mods/songs/satin-panties-b-sides-duet/inst.ogg

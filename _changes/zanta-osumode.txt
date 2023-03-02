@@ -1,0 +1,7 @@
+mods/data/zanta/events.json
+mods/data/zanta/zanta-mania.json
+mods/data/zanta/zanta-taiko.json
+mods/songs/zanta/Voices.ogg
+mods/songs/zanta/voices.ogg
+mods/songs/zanta/Inst.ogg
+mods/songs/zanta/inst.ogg

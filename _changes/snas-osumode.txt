@@ -1,0 +1,8 @@
+mods/data/snas/events.json
+mods/data/snas/snas-easy.json
+mods/data/snas/snas-hard.json
+mods/data/snas/snas.json
+mods/songs/snas/Voices.ogg
+mods/songs/snas/voices.ogg
+mods/songs/snas/Inst.ogg
+mods/songs/snas/inst.ogg

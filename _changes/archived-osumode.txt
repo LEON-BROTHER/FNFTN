@@ -1,0 +1,7 @@
+mods/data/archived/archived-hard.json
+mods/data/archived/archived.json
+mods/data/archived/events.json
+mods/songs/archived/Voices.ogg
+mods/songs/archived/voices.ogg
+mods/songs/archived/Inst.ogg
+mods/songs/archived/inst.ogg

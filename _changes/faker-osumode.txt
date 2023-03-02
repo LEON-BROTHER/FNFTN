@@ -1,0 +1,7 @@
+mods/data/faker/faker-easy.json
+mods/data/faker/faker-hard.json
+mods/data/faker/faker.json
+mods/songs/faker/Voices.ogg
+mods/songs/faker/voices.ogg
+mods/songs/faker/Inst.ogg
+mods/songs/faker/inst.ogg

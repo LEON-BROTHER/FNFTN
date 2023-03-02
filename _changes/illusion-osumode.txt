@@ -1,0 +1,7 @@
+mods/data/illusion/illusion-easy.json
+mods/data/illusion/illusion-hard.json
+mods/data/illusion/illusion.json
+mods/songs/illusion/Voices.ogg
+mods/songs/illusion/voices.ogg
+mods/songs/illusion/Inst.ogg
+mods/songs/illusion/inst.ogg

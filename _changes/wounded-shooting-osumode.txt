@@ -1,0 +1,7 @@
+mods/data/wounded-shooting/wounded-shooting-easy.json
+mods/data/wounded-shooting/wounded-shooting-hard.json
+mods/data/wounded-shooting/wounded-shooting.json
+mods/songs/wounded-shooting/Voices.ogg
+mods/songs/wounded-shooting/voices.ogg
+mods/songs/wounded-shooting/Inst.ogg
+mods/songs/wounded-shooting/inst.ogg

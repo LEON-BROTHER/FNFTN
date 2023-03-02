@@ -1,0 +1,5 @@
+mods/data/dishonor/dishonor.json
+mods/songs/dishonor/Voices.ogg
+mods/songs/dishonor/voices.ogg
+mods/songs/dishonor/Inst.ogg
+mods/songs/dishonor/inst.ogg

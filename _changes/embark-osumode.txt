@@ -1,0 +1,7 @@
+mods/data/embark/embark-easy.json
+mods/data/embark/embark-hard.json
+mods/data/embark/embark.json
+mods/songs/embark/Voices.ogg
+mods/songs/embark/voices.ogg
+mods/songs/embark/Inst.ogg
+mods/songs/embark/inst.ogg

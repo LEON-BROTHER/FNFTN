@@ -1,0 +1,5 @@
+mods/data/bopeebo-rumble/bopeebo-rumble.json
+mods/songs/bopeebo-rumble/Voices.ogg
+mods/songs/bopeebo-rumble/voices.ogg
+mods/songs/bopeebo-rumble/Inst.ogg
+mods/songs/bopeebo-rumble/inst.ogg

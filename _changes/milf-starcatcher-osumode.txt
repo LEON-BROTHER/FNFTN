@@ -1,0 +1,7 @@
+mods/data/milf-starcatcher/milf-starcatcher-easy.json
+mods/data/milf-starcatcher/milf-starcatcher-hard.json
+mods/data/milf-starcatcher/milf-starcatcher.json
+mods/songs/milf-starcatcher/Voices.ogg
+mods/songs/milf-starcatcher/voices.ogg
+mods/songs/milf-starcatcher/Inst.ogg
+mods/songs/milf-starcatcher/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/lo-fight-rs/lo-fight-rs-easy.json
+mods/data/lo-fight-rs/lo-fight-rs-hard.json
+mods/data/lo-fight-rs/lo-fight-rs.json
+mods/songs/lo-fight-rs/Voices.ogg
+mods/songs/lo-fight-rs/voices.ogg
+mods/songs/lo-fight-rs/Inst.ogg
+mods/songs/lo-fight-rs/inst.ogg

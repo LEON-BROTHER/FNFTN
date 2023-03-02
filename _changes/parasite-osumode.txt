@@ -1,0 +1,10 @@
+mods/data/parasite/parasite-easy.json
+mods/data/parasite/parasite-expert.json
+mods/data/parasite/parasite-hard.json
+mods/data/parasite/parasite-insane.json
+mods/data/parasite/parasite-noob.json
+mods/data/parasite/parasite.json
+mods/songs/parasite/Voices.ogg
+mods/songs/parasite/voices.ogg
+mods/songs/parasite/Inst.ogg
+mods/songs/parasite/inst.ogg

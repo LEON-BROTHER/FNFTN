@@ -1,0 +1,7 @@
+mods/data/rain-clouds/rain-clouds-easy.json
+mods/data/rain-clouds/rain-clouds-hard.json
+mods/data/rain-clouds/rain-clouds.json
+mods/songs/rain-clouds/Voices.ogg
+mods/songs/rain-clouds/voices.ogg
+mods/songs/rain-clouds/Inst.ogg
+mods/songs/rain-clouds/inst.ogg

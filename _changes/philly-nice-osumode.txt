@@ -1,0 +1,8 @@
+mods/data/philly-nice/events.json
+mods/data/philly-nice/philly-nice-easy.json
+mods/data/philly-nice/philly-nice-hard.json
+mods/data/philly-nice/philly-nice.json
+mods/songs/philly-nice/Voices.ogg
+mods/songs/philly-nice/voices.ogg
+mods/songs/philly-nice/Inst.ogg
+mods/songs/philly-nice/inst.ogg

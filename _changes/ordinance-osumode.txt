@@ -1,0 +1,8 @@
+mods/data/ordinance/ordinance-crazy.json
+mods/data/ordinance/ordinance-easy.json
+mods/data/ordinance/ordinance-hard.json
+mods/data/ordinance/ordinance.json
+mods/songs/ordinance/Voices.ogg
+mods/songs/ordinance/voices.ogg
+mods/songs/ordinance/Inst.ogg
+mods/songs/ordinance/inst.ogg

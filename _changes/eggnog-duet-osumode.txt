@@ -1,0 +1,7 @@
+mods/data/eggnog-duet/eggnog-duet-easy.json
+mods/data/eggnog-duet/eggnog-duet-hard.json
+mods/data/eggnog-duet/eggnog-duet.json
+mods/songs/eggnog-duet/Voices.ogg
+mods/songs/eggnog-duet/voices.ogg
+mods/songs/eggnog-duet/Inst.ogg
+mods/songs/eggnog-duet/inst.ogg

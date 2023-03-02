@@ -1,0 +1,7 @@
+mods/data/bushwhack/bushwhack-easy.json
+mods/data/bushwhack/bushwhack-hard.json
+mods/data/bushwhack/bushwhack.json
+mods/songs/bushwhack/Voices.ogg
+mods/songs/bushwhack/voices.ogg
+mods/songs/bushwhack/Inst.ogg
+mods/songs/bushwhack/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/feliz/events.json
+mods/data/feliz/feliz-easy.json
+mods/data/feliz/feliz-hard.json
+mods/data/feliz/feliz.json
+mods/songs/feliz/Voices.ogg
+mods/songs/feliz/voices.ogg
+mods/songs/feliz/Inst.ogg
+mods/songs/feliz/inst.ogg

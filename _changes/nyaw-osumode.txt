@@ -1,0 +1,7 @@
+mods/data/nyaw/nyaw-easy.json
+mods/data/nyaw/nyaw-hard.json
+mods/data/nyaw/nyaw.json
+mods/songs/nyaw/Voices.ogg
+mods/songs/nyaw/voices.ogg
+mods/songs/nyaw/Inst.ogg
+mods/songs/nyaw/inst.ogg

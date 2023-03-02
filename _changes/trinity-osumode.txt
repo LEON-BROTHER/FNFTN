@@ -1,0 +1,5 @@
+mods/data/trinity/trinity-hard.json
+mods/songs/trinity/Voices.ogg
+mods/songs/trinity/voices.ogg
+mods/songs/trinity/Inst.ogg
+mods/songs/trinity/inst.ogg

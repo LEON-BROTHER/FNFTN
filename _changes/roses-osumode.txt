@@ -1,0 +1,8 @@
+mods/data/roses/events.json
+mods/data/roses/roses-easy.json
+mods/data/roses/roses-hard.json
+mods/data/roses/roses.json
+mods/songs/roses/Voices.ogg
+mods/songs/roses/voices.ogg
+mods/songs/roses/Inst.ogg
+mods/songs/roses/inst.ogg

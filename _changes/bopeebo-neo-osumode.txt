@@ -1,0 +1,7 @@
+mods/data/bopeebo-neo/bopeebo-neo-easy.json
+mods/data/bopeebo-neo/bopeebo-neo-hard.json
+mods/data/bopeebo-neo/bopeebo-neo.json
+mods/songs/bopeebo-neo/Voices.ogg
+mods/songs/bopeebo-neo/voices.ogg
+mods/songs/bopeebo-neo/Inst.ogg
+mods/songs/bopeebo-neo/inst.ogg

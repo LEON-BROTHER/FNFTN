@@ -1,0 +1,7 @@
+mods/data/endless-miku/endless-miku-easy.json
+mods/data/endless-miku/endless-miku-hard.json
+mods/data/endless-miku/endless-miku.json
+mods/songs/endless-miku/Voices.ogg
+mods/songs/endless-miku/voices.ogg
+mods/songs/endless-miku/Inst.ogg
+mods/songs/endless-miku/inst.ogg

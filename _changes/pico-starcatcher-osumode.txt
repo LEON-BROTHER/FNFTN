@@ -1,0 +1,7 @@
+mods/data/pico-starcatcher/pico-starcatcher-easy.json
+mods/data/pico-starcatcher/pico-starcatcher-hard.json
+mods/data/pico-starcatcher/pico-starcatcher.json
+mods/songs/pico-starcatcher/Voices.ogg
+mods/songs/pico-starcatcher/voices.ogg
+mods/songs/pico-starcatcher/Inst.ogg
+mods/songs/pico-starcatcher/inst.ogg

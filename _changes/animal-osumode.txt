@@ -1,0 +1,7 @@
+mods/data/animal/animal-easy.json
+mods/data/animal/animal-hard.json
+mods/data/animal/animal.json
+mods/songs/animal/Voices.ogg
+mods/songs/animal/voices.ogg
+mods/songs/animal/Inst.ogg
+mods/songs/animal/inst.ogg

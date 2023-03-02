@@ -1,0 +1,7 @@
+mods/data/isotope/isotope-easy.json
+mods/data/isotope/isotope-hard.json
+mods/data/isotope/isotope.json
+mods/songs/isotope/Voices.ogg
+mods/songs/isotope/voices.ogg
+mods/songs/isotope/Inst.ogg
+mods/songs/isotope/inst.ogg
